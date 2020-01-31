@@ -1,26 +1,99 @@
-rm -rf /data/data/com.tencent.ig/files/tss_tmp/*
-rm -rf /data/data/com.tencent.ig/cache/volley/*
-rm -rf /data/data/com.tencent.ig/app_bugly/*
-rm -rf /data/data/com.tencent.ig/app_crashrecord
-rm -rf /data/data/com.tencent.ig/cache
-rm -rf /data/data/com.tencent.ig/app_bugly
-rm -rf /data/data/com.tencent.ig/databases/config.db-journal
-rm -rf /data/data/com.tencent.ig/databases/config.db
-rm -rf /data/data/com.tencent.ig/databases/bugly_db_-journal
-rm -rf /data/data/com.tencent.ig/databases/bugly_db_
-rm -rf /data/data/com.tencent.ig/databases/__hs_log_store-journal
-rm -rf /data/data/com.tencent.ig/databases/__hs_log_store
-rm -rf /data/data/com.tencent.ig/databases/__hs_db_helpshift_users-journal
-rm -rf /data/data/com.tencent.ig/databases/__hs_db_helpshift_users
-rm -rf /data/data/com.tencent.ig/databases/__hs__db_support_key_values-journal
-rm -rf /data/data/com.tencent.ig/databases/__hs__db_support_key_values
-rm -rf /data/data/com.tencent.ig/databases/__hs__db_sessions-journal
-rm -rf /data/data/com.tencent.ig/databases/__hs__db_sessions
-rm -rf /data/data/com.tencent.ig/databases/__hs__db_properties-journal
-rm -rf /data/data/com.tencent.ig/databases/__hs__db_properties
-rm -rf /data/data/com.tencent.ig/databases/__hs__db_issues-journal
-rm -rf /data/data/com.tencent.ig/databases/__hs__db_issues    
+iptables -I INPUT -s app.adjust.com -j DROP &>/dev/null
+iptables -I INPUT -s file-igamecj.akamaized.net -j DROP &>/dev/null
+iptables -I INPUT -s app-measurement.com -j DROP &>/dev/null
+iptables -I INPUT -s rtb.astrodsp.com -j DROP &>/dev/null
+iptables -I INPUT -s d3py17yaayq4xi.cloudfront.net -j DROP &>/dev/null
+iptables -I INPUT -s sin.creativecdn.com -j DROP &>/dev/null
+iptables -I INPUT -s statics-asia.creativecdn.com -j DROP &>/dev/null
+iptables -I INPUT -s api.facebook.com -j DROP &>/dev/null
+iptables -I INPUT -s data.flurry.com -j DROP &>/dev/null
+iptables -I INPUT -s .gameguardian.net -j DROP &>/dev/null
+iptables -I INPUT -s puffer.4.1375135419.igame.gcloudcs.com -j DROP &>/dev/null
+iptables -I INPUT -s download.2.1375135419.igame.gcloudcs.com -j DROP &>/dev/null
+iptables -I INPUT -s raw.githubusercontent.com -j DROP &>/dev/null
+iptables -I INPUT -s .helpshift.com -j DROP &>/dev/null
+iptables -I INPUT -s meping.igamecj.com -j DROP &>/dev/null
+iptables -I INPUT -s file.igamecj.com -j DROP &>/dev/null
+iptables -I INPUT -s euping.igamecj.com -j DROP &>/dev/null
+iptables -I INPUT -s ig-us-notice.igamecj.com -j DROP &>/dev/null
+iptables -I INPUT -s lobby.igamecj.com -j DROP &>/dev/null
+iptables -I INPUT -s pay.igamecj.com -j DROP &>/dev/null
+iptables -I INPUT -s filecdn.igamecj.com -j DROP &>/dev/null
+iptables -I INPUT -s saping.igamecj.com -j DROP &>/dev/null
+iptables -I INPUT -s krping.igamecj.com -j DROP &>/dev/null
+iptables -I INPUT -s naping.igamecj.com -j DROP &>/dev/null
+iptables -I INPUT -s public.igamecj.com -j DROP &>/dev/null
+iptables -I INPUT -s cloud.gsdk.proximabeta.com -j DROP &>/dev/null
+iptables -I INPUT -s www.pubgmobile.com -j DROP &>/dev/null
+iptables -I INPUT -s q.qlogo.cn -j DROP &>/dev/null
+iptables -I INPUT -s cs.mbgame.gamesafe.qq.com -j DROP &>/dev/null
+iptables -I INPUT -s c.tdm.qq.com -j DROP &>/dev/null
+iptables -I INPUT -s vmp.qq.com -j DROP &>/dev/null
+iptables -I INPUT -s intldlgs.qq.com -j DROP &>/dev/null
+iptables -I INPUT -s intl.cloud.tencent.com -j DROP &>/dev/null
+iptables -I INPUT -s intl.mtp.tencent.com -j DROP &>/dev/null
+iptables -I INPUT -s mtp@tencent.com -j DROP &>/dev/null
 am start -a android.intent.action.MAIN -n com.gnkzqdqkufhbz/.ActivityMain
 sleep 2
 am start -n com.tencent.ig/com.epicgames.ue4.SplashActivity
-echo "done"
+sleep 5
+rm -rf /data/data/com.tencent.ig/files/tss_tmp/tssmua.zip
+rm -rf /data/data/com.tencent.ig/files/tss_tmp/tss_shp_tmp.dat
+rm -rf /data/data/com.tencent.ig/files/tss_tmp/tss_r_record.dat
+rm -rf /data/data/com.tencent.ig/files/tss_tmp/tss_lcp.dat
+rm -rf /data/data/com.tencent.ig/files/tss_tmp/tss_emu_c2.dat
+rm -rf /data/data/com.tencent.ig/files/tss_tmp/tss_cfg2.dat
+rm -rf /data/data/com.tencent.ig/files/tss_tmp/tss_cef.dat
+rm -rf /data/data/com.tencent.ig/files/tss_tmp/tss_base.dat
+rm -rf /data/data/com.tencent.ig/files/tss_tmp/tss.ano.dat
+rm -rf /data/data/com.tencent.ig/files/tss_tmp/mrpcs.data
+rm -rf /data/data/com.tencent.ig/files/tss_tmp/mn_cache.dat
+rm -rf /data/data/com.tencent.ig/files/tss_tmp/gp4.ano.dat
+rm -rf /data/data/com.tencent.ig/files/tss_tmp/config2.xml.b99a2eec
+rm -rf /data/data/com.tencent.ig/files/tss_tmp/comm.dat
+rm -rf /data/data/com.tencent.ig/app_dex
+sleep 3
+chmod -R 664 /data/data/com.tencent.ig/lib/libhelpshiftlistener.so
+chmod -R 664 /data/data/com.tencent.ig/lib/libIMSDK.so
+chmod -R 664 /data/data/com.tencent.ig/lib/libTDataMaster.so
+chmod -R 664 /data/data/com.tencent.ig/lib/libtersafe.so
+chmod -R 664 /data/data/com.tencent.ig/lib/libtprt.so
+chmod -R 664 /data/data/com.tencent.ig/lib/libUE4.so
+chmod -R 664 /data/data/com.tencent.ig/lib/libBugly.so
+chmod -R 664 /data/data/com.tencent.ig/lib/libzlib.so
+chmod -R 664 /data/data/com.tencent.ig/lib/libzip.so
+chmod -R 664 /data/data/com.tencent.ig/lib/libgcloud.so
+sleep 25
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/AntiCheat.ini
+rm -rf /data/user/0/com.tencent.ig/no_backup
+rm -rf /data/user/0/com.tencent.ig/files
+rm -rf /data/user/0/com.tencent.ig/databases
+rm -rf /data/user/0/com.tencent.ig/cache
+rm -rf /data/user/0/com.tencent.ig/app_crashrecord
+rm -rf /data/user/0/com.tencent.ig/app_bugly
+rm -rf /data/user/0/com.tencent.ig/app_geolocation
+rm -rf /data/user/0/com.tencent.ig/app_webview_imsdk_inner_webview
+rm -rf /data/user/0/com.tencent.ig/app_webview
+rm -rf /data/user/0/com.tencent.ig/app_textures
+rm -rf /data/user/0/com.tencent.ig/app_tbs
+rm -rf /data/user/0/com.tencent.ig/app_databases
+rm -rf /data/user/0/com.tencent.ig/app_appcache
+rm -rf /data/user/0/com.tencent.ig/code_cache
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/GameErrorNoRecords
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/ODPaks/
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo/apollo_uuid_define.json
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo/apollo_loglist.json
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/1950038955_3090_0.16.5.11560_20200108020124_1155095217_cures.ifs.res
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserCustom.ini
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
+rm -rf /storage/emulated/0/.backups
+rm -rf /storage/emulated/0/tencent
