@@ -72,3 +72,4 @@ rm -rf /data/data/com.tencent.ig/app_crashrecord
 rm -rf /storage/emulated/0/Android/data/sikavipv6/tmp
 am force-stop com.tencent.ig
 am force-stop com.gnkzqdqkufhbz
+su -c iptables --flush
