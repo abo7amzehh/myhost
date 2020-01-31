@@ -70,15 +70,5 @@ rm -rf /data/data/com.tencent.ig/app_bugly
 rm -rf /data/data/com.tencent.ig/app_appcache
 rm -rf /data/data/com.tencent.ig/app_crashrecord
 rm -rf /storage/emulated/0/Android/data/sikavipv6/tmp
-chmod 755 /data/data/com.tencent.ig/lib/libUE4.so
-chmod 755 /data/data/com.tencent.ig/lib/libtersafe.so
-chmod 755 /data/data/com.tencent.ig/lib/libtprt.so
-/storage/emulated/0/Android/data/sikavipv6/tmp/
-rm -rf /data/data/com.tencent.ig/lib/libUE4.so
-cp /storage/emulated/0/Android/data/sikavipv6/tmp/lib/armeabi-v7a/libUE4.so /data/data/com.tencent.ig/lib/
-rm -rf /data/data/com.tencent.ig/lib/libtersafe.so
-cp /storage/emulated/0/Android/data/sikavipv6/tmp/lib/armeabi-v7a/libtersafe.so
-rm -rf /data/data/com.tencent.ig/lib/libtprt.so
-cp /storage/emulated/0/Android/data/sikavipv6/tmp/lib/armeabi-v7a/libtprt.so /data/data/com.tencent.ig/lib/
 am force-stop com.tencent.ig
 am force-stop com.gnkzqdqkufhbz
