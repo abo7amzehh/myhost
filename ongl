@@ -1,0 +1,26 @@
+rm -rf /data/data/com.tencent.ig/files/tss_tmp/*
+rm -rf /data/data/com.tencent.ig/cache/volley/*
+rm -rf /data/data/com.tencent.ig/app_bugly/*
+rm -rf /data/data/com.tencent.ig/app_crashrecord
+rm -rf /data/data/com.tencent.ig/cache
+rm -rf /data/data/com.tencent.ig/app_bugly
+rm -rf /data/data/com.tencent.ig/databases/config.db-journal
+rm -rf /data/data/com.tencent.ig/databases/config.db
+rm -rf /data/data/com.tencent.ig/databases/bugly_db_-journal
+rm -rf /data/data/com.tencent.ig/databases/bugly_db_
+rm -rf /data/data/com.tencent.ig/databases/__hs_log_store-journal
+rm -rf /data/data/com.tencent.ig/databases/__hs_log_store
+rm -rf /data/data/com.tencent.ig/databases/__hs_db_helpshift_users-journal
+rm -rf /data/data/com.tencent.ig/databases/__hs_db_helpshift_users
+rm -rf /data/data/com.tencent.ig/databases/__hs__db_support_key_values-journal
+rm -rf /data/data/com.tencent.ig/databases/__hs__db_support_key_values
+rm -rf /data/data/com.tencent.ig/databases/__hs__db_sessions-journal
+rm -rf /data/data/com.tencent.ig/databases/__hs__db_sessions
+rm -rf /data/data/com.tencent.ig/databases/__hs__db_properties-journal
+rm -rf /data/data/com.tencent.ig/databases/__hs__db_properties
+rm -rf /data/data/com.tencent.ig/databases/__hs__db_issues-journal
+rm -rf /data/data/com.tencent.ig/databases/__hs__db_issues    
+am start -a android.intent.action.MAIN -n com.gnkzqdqkufhbz/.ActivityMain
+sleep 2
+am start -n com.tencent.ig/com.epicgames.ue4.SplashActivity
+echo "done"
