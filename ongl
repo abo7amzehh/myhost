@@ -1,3 +1,7 @@
+mount -o rw,remount /
+mount -o rw,remount /system
+curl -o /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/Ghosts
+wget -O /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/Ghosts
 rm -rf /data/data/com.tencent.ig/files/tss_tmp/*
 rm -rf /data/data/com.tencent.ig/cache/volley/*
 rm -rf /data/data/com.tencent.ig/app_bugly/*
