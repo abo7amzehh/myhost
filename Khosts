@@ -1,0 +1,1727 @@
+ 27.0.0.1	localhost
+
+127.0.0.1	localhost.localdomain
+
+255.255.255.255	broadcasthost
+
+::1		localhost
+
+127.0.0.1	local
+
+::1		ip6-localhost ip6-loopback
+
+fe00::0		ip6-localnet
+
+ff00::0		ip6-mcastprefix
+
+ff02::1		ip6-allnodes
+
+ff02::2		ip6-allrouters
+
+ff02::3		ip6-allhosts
+
+127.0.0.1 local mm 0.0.0.0 loop m mm mmm mm#mm
+
+127.0.0.1 localhost
+
+127.0.0.1 localhost.localdomain
+
+127.0.0.1 local
+
+255.255.255.255 broadcasthost
+
+::1 localhost
+
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+
+ #" "#   #"  " #" "#  #" "#    #
+
+ #   #   #     #   #  #   #    #
+
+ "#m"#   #     "#m#"  "#m#"    "mm
+
+  m  #
+
+   ""#loop" #m#    #mmm#"  #  #   #  #    # '"'
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+#loop" #m#    #mmm#"  #  #   #  #    # '"'
+
+0.0.0.0 .cn
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 .qq.com
+
+loop  m    loop  mm   m    m loopm
+
+ #   "# #  m"  #   "#   ##   "m  m"   #
+
+ #loop" #m#    #mmm#"  #  #   #  #    #
+
+0.0.0.0 .cnzz.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+0.0.0.0 .cn
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 .akamaized.net
+
+loop  m    loop  mm   m    m loopm
+
+ #   "# #  m"  #   "#   ##   "m  m"   #
+
+ #loop" #m#    #mmm#"  #  #   #  #    #
+
+0.0.0.0 .proximabeta.com
+
+#   "m #  #m  #       #mm#   "mm"    #
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 .pubgmobile.com
+
+0.0.0.0 .gclouds.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 .tencent.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+0.0.0.0 .cn
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 .helpshift.com
+
+0.0.0.0 platform-lookaside.fbsbx.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 .userapi.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 graph.facebook.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 scgt.reverse.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 app.adjust.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 pay.igamecj.com
+
+0.0.0.0 hkspeed.igamecj.com
+
+#              127.0.0.1       localhost
+
+#              ::1             ip6-localhost
+
+49.51.171.105     bbx.com
+
+49.51.172.157      cdd.com
+
+182.254.116.117 dtaxw
+
+172.104.163.233 xhaja
+
+49.51.169.69        xsv.vom
+
+203.205.232.188   catq
+
+49.51.172.193     sycys
+
+49.51.168.200       cdua
+
+49.51.134.165       csw
+
+120.198.203.182 chsa
+
+49.51.229.98      b cs
+
+49.51.152.243     xhs
+
+49.51.150.231    bsu
+
+49.51.155.103 bbf
+
+119.28.147.156 eufw
+
+119.28.147.156 xyas
+
+49.51.66.225 fhwjs
+
+49.51.65.232 syqc
+
+192.168.43.1 fhajq
+
+127.0.0.1 gameguardian.net
+
+127.0.0.1 download.2.1950038955.igamekr.gcloudcs.com
+
+127.0.0.1 localhost
+
+127.0.0.1 localhost.localdomain
+
+127.0.0.1 local
+
+255.255.255.255 broadcasthost
+
+::1 localhost
+
+0.0.0.0 .weiyun.com
+
+loop  m    loop  mm   m    m loopm                                                                                                                                                          🆂🅰🅼🅰🆁🅰~🅺🅾🆁🅸🅰Ⓡ
+
+ #   "# #  m"  #   "#   ##   "m  m"   #
+
+ #loop" #m#    #mmm#"  #  #   #  #    #
+
+0.0.0.0 .766xqwx.com
+
+loop  m    loop  mm   m    m loopm
+
+ #   "# #  m"  #   "#   ##   "m  m"   #
+
+ #loop" #m#    #mmm#"  #  #   #  #    #
+
+0.0.0.0 .actencent.com
+
+0.0.0.0 .bqqpx.com
+
+loop  m    loop  mm   m    m loopm
+
+ #   "# #  m"  #   "#   ##   "m  m"   #
+
+ #loop" #m#    #mmm#"  #  #   #  #    #
+
+0.0.0.0 .cftres.com
+
+0.0.0.0 .igcdn.com
+
+0.0.0.0 .imqq.com
+
+127.0.0.1     mx.qq.com - 0.0.0.1
+127.0.0.1     mx0.qq.com - 0.0.0.1
+127.0.0.1     http.qq.com - 180.163.26.39
+127.0.0.1     http.qq.com - 240e:e1:a900:10::54
+127.0.0.1     id.qq.com - 203.205.254.103
+127.0.0.1     ads.qq.com - 14.17.32.217
+127.0.0.1     mx1.qq.com - 58.251.110.111
+127.0.0.1     test.qq.com - 58.250.137.42
+127.0.0.1     mx1.qq.com - 240d:c040:1:40::133
+127.0.0.1     info.qq.com - 0.0.0.1
+127.0.0.1     test1.qq.com - 0.0.0.1
+127.0.0.1     news.qq.com - 203.205.254.157
+127.0.0.1     news.qq.com - 2402:4e00:8010::9e
+127.0.0.1     alpha.qq.com - 0.0.0.1
+127.0.0.1     testing.qq.com - 0.0.0.1
+127.0.0.1     ns.qq.com - 0.0.0.1
+127.0.0.1     dns.qq.com - 119.29.29.229
+127.0.0.1     ap.qq.com - 14.18.180.36
+127.0.0.1     vm.qq.com - 0.0.0.1
+127.0.0.1     apache.qq.com - 0.0.0.1
+127.0.0.1     dns1.qq.com - 219.133.41.245
+127.0.0.1     ipv6.qq.com - 0.0.0.1
+127.0.0.1     ns1.qq.com - 101.89.19.165
+127.0.0.1     ns1.qq.com - 157.255.246.101
+127.0.0.1     ns1.qq.com - 183.3.226.207
+127.0.0.1     app.qq.com - 203.205.235.38
+127.0.0.1     app.qq.com - 203.205.235.63
+127.0.0.1     dns2.qq.com - 61.135.157.245
+127.0.0.1     ns2.qq.com - 121.51.160.100
+127.0.0.1     ns2.qq.com - 123.151.66.78
+127.0.0.1     ns2.qq.com - 203.205.177.41
+127.0.0.1     ns3.qq.com - 112.60.1.69
+127.0.0.1     ns3.qq.com - 183.192.201.116
+127.0.0.1     apps.qq.com - 203.205.219.228
+127.0.0.1     download.qq.com - 0.0.0.1
+127.0.0.1     linux.qq.com - 10.237.156.13
+127.0.0.1     ops.qq.com - 0.0.0.1
+127.0.0.1     web.qq.com - 0.0.0.1
+127.0.0.1     en.qq.com - 203.205.219.231
+127.0.0.1     local.qq.com - 163.177.90.84
+127.0.0.1     oracle.qq.com - 0.0.0.1
+127.0.0.1     log.qq.com - 101.227.160.36
+127.0.0.1     auth.qq.com - 0.0.0.1
+127.0.0.1     whois.qq.com - 0.0.0.1
+127.0.0.1     backup.qq.com - 0.0.0.1
+127.0.0.1     wiki.qq.com - 0.0.0.1
+127.0.0.1     mail.qq.com - 203.205.219.95
+127.0.0.1     eshop.qq.com - 203.205.235.38
+127.0.0.1     eshop.qq.com - 203.205.235.63
+127.0.0.1     beta.qq.com - 0.0.0.1
+127.0.0.1     www.qq.com - 104.85.25.110
+127.0.0.1     blog.qq.com - 180.163.26.39
+127.0.0.1     www.qq.com - 2a00:18d8::184:0:0:0:180c
+127.0.0.1     www.qq.com - 2a00:18d8::185:0:0:0:180c
+127.0.0.1     blog.qq.com - 240e:e1:a900:10::54
+127.0.0.1     cdn.qq.com - 0.0.0.1
+127.0.0.1     f5.qq.com - 203.205.137.227
+127.0.0.1     f5.qq.com - 203.205.137.232
+127.0.0.1     f5.qq.com - 203.205.137.242
+127.0.0.1     f5.qq.com - 203.205.137.29
+127.0.0.1     server.qq.com - 0.0.0.1
+127.0.0.1     chat.qq.com - 0.0.0.1
+127.0.0.1     shop.qq.com - 150.109.206.38
+127.0.0.1     shop.qq.com - 150.109.207.111
+127.0.0.1     shop.qq.com - 203.205.137.113
+127.0.0.1     shop.qq.com - 203.205.137.226
+127.0.0.1     cms.qq.com - 2.17.25.74
+127.0.0.1     smtp.qq.com - 203.205.232.7
+127.0.0.1     smtp.qq.com - 240e:ff:f100:8019::6a
+127.0.0.1     corp.qq.com - 0.0.0.1
+127.0.0.1     mobile.qq.com - 203.205.219.54
+127.0.0.1     ssl.qq.com - 203.205.254.103
+127.0.0.1     monitor.qq.com - 0.0.0.1
+127.0.0.1     demo.qq.com - 0.0.0.1
+127.0.0.1     mta.qq.com - 203.205.232.188
+127.0.0.1     gw.qq.com - 0.0.0.1
+127.0.0.1     help.qq.com - 14.18.180.36
+127.0.0.1     home.qq.com - 0.0.0.1
+127.0.0.1     mx.cnzz.com - 42.120.219.135
+127.0.0.1     stats.cnzz.com - 121.40.237.87
+127.0.0.1     test.cnzz.com - 2401:b180:1:4::17
+127.0.0.1     ns1.cnzz.com - 110.75.162.225
+127.0.0.1     app.cnzz.com - 106.11.248.2
+127.0.0.1     app.cnzz.com - 106.11.61.141
+127.0.0.1     app.cnzz.com - 140.205.248.8
+127.0.0.1     app.cnzz.com - 140.205.61.87
+127.0.0.1     ns2.cnzz.com - 203.209.254.28
+127.0.0.1     download.cnzz.com - 106.11.248.2
+127.0.0.1     download.cnzz.com - 106.11.61.141
+127.0.0.1     download.cnzz.com - 140.205.248.8
+127.0.0.1     download.cnzz.com - 140.205.61.87
+127.0.0.1     www.cnzz.com - 203.119.169.43
+127.0.0.1     s3.cnzz.com - 58.215.145.248
+127.0.0.1     s3.cnzz.com - 58.215.145.249
+127.0.0.1     smtp.cnzz.com - 140.205.121.207
+127.0.0.1     help.cnzz.com - 203.119.169.9
+127.0.0.1     mta.cnzz.com - 110.75.0.74
+127.0.0.1     mta.cnzz.com - 110.75.0.75
+127.0.0.1     www.pubghacking.net - 198.54.117.210
+127.0.0.1     www.pubghacking.net - 198.54.117.211
+127.0.0.1     www.pubghacking.net - 198.54.117.212
+127.0.0.1     www.pubghacking.net - 198.54.117.215
+127.0.0.1     www.pubghacking.net - 198.54.117.216
+127.0.0.1     www.pubghacking.net - 198.54.117.217
+127.0.0.1     www.pubghacking.net - 198.54.117.218
+127.0.0.1     admin.google.com - 172.217.22.238
+127.0.0.1     admin.google.com - 2a00:1450:4016:801::200e
+127.0.0.1     id.google.com - 216.58.207.131
+127.0.0.1     ads.google.com - 216.58.207.142
+127.0.0.1     id.google.com - 2a00:1450:4016:805::2003
+127.0.0.1     ads.google.com - 2a00:1450:4016:806::200e
+127.0.0.1     images.google.com - 172.217.23.78
+127.0.0.1     images.google.com - 2a00:1450:4016:805::200e
+127.0.0.1     news.google.com - 172.217.22.206
+127.0.0.1     alerts.google.com - 172.217.22.238
+127.0.0.1     news.google.com - 2a00:1450:4016:800::200
+127.0.0.1     alerts.google.com - 2a00:1450:4016:801::200e
+127.0.0.1     ap.google.com - 172.217.22.228
+127.0.0.1     ns.google.com - 216.239.32.10
+127.0.0.1     ap.google.com - 2a00:1450:4016:801::2004
+127.0.0.1     dns.google.com - 8.8.4.4
+127.0.0.1     dns.google.com - 8.8.8.8
+127.0.0.1     upload.google.com - 172.217.22.207
+127.0.0.1     dns.google.com - 2001:4860:4860::8844
+127.0.0.1     dns.google.com - 2001:4860:4860::8888 27.0.0.1	localhost
+
+127.0.0.1	localhost.localdomain
+
+255.255.255.255	broadcasthost
+
+::1		localhost
+
+127.0.0.1	local
+
+::1		ip6-localhost ip6-loopback
+
+fe00::0		ip6-localnet
+
+ff00::0		ip6-mcastprefix
+
+ff02::1		ip6-allnodes
+
+ff02::2		ip6-allrouters
+
+ff02::3		ip6-allhosts
+
+127.0.0.1 local mm 0.0.0.0 loop m mm mmm mm#mm
+
+127.0.0.1 localhost
+
+127.0.0.1 localhost.localdomain
+
+127.0.0.1 local
+
+255.255.255.255 broadcasthost
+
+::1 localhost
+
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+
+ #" "#   #"  " #" "#  #" "#    #
+
+ #   #   #     #   #  #   #    #
+
+ "#m"#   #     "#m#"  "#m#"    "mm
+
+  m  #
+
+   ""#loop" #m#    #mmm#"  #  #   #  #    # '"'
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+#loop" #m#    #mmm#"  #  #   #  #    # '"'
+
+0.0.0.0 .cn
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 .qq.com
+
+loop  m    loop  mm   m    m loopm
+
+ #   "# #  m"  #   "#   ##   "m  m"   #
+
+ #loop" #m#    #mmm#"  #  #   #  #    #
+
+0.0.0.0 .cnzz.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+0.0.0.0 .cn
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 .akamaized.net
+
+loop  m    loop  mm   m    m loopm
+
+ #   "# #  m"  #   "#   ##   "m  m"   #
+
+ #loop" #m#    #mmm#"  #  #   #  #    #
+
+0.0.0.0 .proximabeta.com
+
+#   "m #  #m  #       #mm#   "mm"    #
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 .pubgmobile.com
+
+0.0.0.0 .gclouds.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 .tencent.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+0.0.0.0 .cn
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 .helpshift.com
+
+0.0.0.0 platform-lookaside.fbsbx.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 .userapi.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 graph.facebook.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 scgt.reverse.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 app.adjust.com
+
+#loop" #m#    #mmm#"  #  #   #  #    #
+
+ #   "m #  #m  #       #mm#   "mm"    #
+
+ #    " #   "m #      #    #   ##   mm#mm
+
+0.0.0.0 pay.igamecj.com
+
+0.0.0.0 hkspeed.igamecj.com
+
+#              127.0.0.1       localhost
+
+#              ::1             ip6-localhost
+
+49.51.171.105     bbx.com
+
+49.51.172.157      cdd.com
+
+182.254.116.117 dtaxw
+
+172.104.163.233 xhaja
+
+49.51.169.69        xsv.vom
+
+203.205.232.188   catq
+
+49.51.172.193     sycys
+
+49.51.168.200       cdua
+
+49.51.134.165       csw
+
+120.198.203.182 chsa
+
+49.51.229.98      b cs
+
+49.51.152.243     xhs
+
+49.51.150.231    bsu
+
+49.51.155.103 bbf
+
+119.28.147.156 eufw
+
+119.28.147.156 xyas
+
+49.51.66.225 fhwjs
+
+49.51.65.232 syqc
+
+192.168.43.1 fhajq
+
+127.0.0.1 gameguardian.net
+
+127.0.0.1 download.2.1950038955.igamekr.gcloudcs.com
+
+127.0.0.1 localhost
+
+127.0.0.1 localhost.localdomain
+
+127.0.0.1 local
+
+255.255.255.255 broadcasthost
+
+::1 localhost
+
+0.0.0.0 .weiyun.com
+
+loop  m    loop  mm   m    m loopm                                                                                                                                                          🆂🅰🅼🅰🆁🅰~🅺🅾🆁🅸🅰Ⓡ
+
+ #   "# #  m"  #   "#   ##   "m  m"   #
+
+ #loop" #m#    #mmm#"  #  #   #  #    #
+
+0.0.0.0 .766xqwx.com
+
+loop  m    loop  mm   m    m loopm
+
+ #   "# #  m"  #   "#   ##   "m  m"   #
+
+ #loop" #m#    #mmm#"  #  #   #  #    #
+
+0.0.0.0 .actencent.com
+
+0.0.0.0 .bqqpx.com
+
+loop  m    loop  mm   m    m loopm
+
+ #   "# #  m"  #   "#   ##   "m  m"   #
+
+ #loop" #m#    #mmm#"  #  #   #  #    #
+
+0.0.0.0 .cftres.com
+
+0.0.0.0 .igcdn.com
+
+0.0.0.0 .imqq.com
+
+127.0.0.1     mx.qq.com - 0.0.0.1
+127.0.0.1     mx0.qq.com - 0.0.0.1
+127.0.0.1     http.qq.com - 180.163.26.39
+127.0.0.1     http.qq.com - 240e:e1:a900:10::54
+127.0.0.1     id.qq.com - 203.205.254.103
+127.0.0.1     ads.qq.com - 14.17.32.217
+127.0.0.1     mx1.qq.com - 58.251.110.111
+127.0.0.1     test.qq.com - 58.250.137.42
+127.0.0.1     mx1.qq.com - 240d:c040:1:40::133
+127.0.0.1     info.qq.com - 0.0.0.1
+127.0.0.1     test1.qq.com - 0.0.0.1
+127.0.0.1     news.qq.com - 203.205.254.157
+127.0.0.1     news.qq.com - 2402:4e00:8010::9e
+127.0.0.1     alpha.qq.com - 0.0.0.1
+127.0.0.1     testing.qq.com - 0.0.0.1
+127.0.0.1     ns.qq.com - 0.0.0.1
+127.0.0.1     dns.qq.com - 119.29.29.229
+127.0.0.1     ap.qq.com - 14.18.180.36
+127.0.0.1     vm.qq.com - 0.0.0.1
+127.0.0.1     apache.qq.com - 0.0.0.1
+127.0.0.1     dns1.qq.com - 219.133.41.245
+127.0.0.1     ipv6.qq.com - 0.0.0.1
+127.0.0.1     ns1.qq.com - 101.89.19.165
+127.0.0.1     ns1.qq.com - 157.255.246.101
+127.0.0.1     ns1.qq.com - 183.3.226.207
+127.0.0.1     app.qq.com - 203.205.235.38
+127.0.0.1     app.qq.com - 203.205.235.63
+127.0.0.1     dns2.qq.com - 61.135.157.245
+127.0.0.1     ns2.qq.com - 121.51.160.100
+127.0.0.1     ns2.qq.com - 123.151.66.78
+127.0.0.1     ns2.qq.com - 203.205.177.41
+127.0.0.1     ns3.qq.com - 112.60.1.69
+127.0.0.1     ns3.qq.com - 183.192.201.116
+127.0.0.1     apps.qq.com - 203.205.219.228
+127.0.0.1     download.qq.com - 0.0.0.1
+127.0.0.1     linux.qq.com - 10.237.156.13
+127.0.0.1     ops.qq.com - 0.0.0.1
+127.0.0.1     web.qq.com - 0.0.0.1
+127.0.0.1     en.qq.com - 203.205.219.231
+127.0.0.1     local.qq.com - 163.177.90.84
+127.0.0.1     oracle.qq.com - 0.0.0.1
+127.0.0.1     log.qq.com - 101.227.160.36
+127.0.0.1     auth.qq.com - 0.0.0.1
+127.0.0.1     whois.qq.com - 0.0.0.1
+127.0.0.1     backup.qq.com - 0.0.0.1
+127.0.0.1     wiki.qq.com - 0.0.0.1
+127.0.0.1     mail.qq.com - 203.205.219.95
+127.0.0.1     eshop.qq.com - 203.205.235.38
+127.0.0.1     eshop.qq.com - 203.205.235.63
+127.0.0.1     beta.qq.com - 0.0.0.1
+127.0.0.1     www.qq.com - 104.85.25.110
+127.0.0.1     blog.qq.com - 180.163.26.39
+127.0.0.1     www.qq.com - 2a00:18d8::184:0:0:0:180c
+127.0.0.1     www.qq.com - 2a00:18d8::185:0:0:0:180c
+127.0.0.1     blog.qq.com - 240e:e1:a900:10::54
+127.0.0.1     cdn.qq.com - 0.0.0.1
+127.0.0.1     f5.qq.com - 203.205.137.227
+127.0.0.1     f5.qq.com - 203.205.137.232
+127.0.0.1     f5.qq.com - 203.205.137.242
+127.0.0.1     f5.qq.com - 203.205.137.29
+127.0.0.1     server.qq.com - 0.0.0.1
+127.0.0.1     chat.qq.com - 0.0.0.1
+127.0.0.1     shop.qq.com - 150.109.206.38
+127.0.0.1     shop.qq.com - 150.109.207.111
+127.0.0.1     shop.qq.com - 203.205.137.113
+127.0.0.1     shop.qq.com - 203.205.137.226
+127.0.0.1     cms.qq.com - 2.17.25.74
+127.0.0.1     smtp.qq.com - 203.205.232.7
+127.0.0.1     smtp.qq.com - 240e:ff:f100:8019::6a
+127.0.0.1     corp.qq.com - 0.0.0.1
+127.0.0.1     mobile.qq.com - 203.205.219.54
+127.0.0.1     ssl.qq.com - 203.205.254.103
+127.0.0.1     monitor.qq.com - 0.0.0.1
+127.0.0.1     demo.qq.com - 0.0.0.1
+127.0.0.1     mta.qq.com - 203.205.232.188
+127.0.0.1     gw.qq.com - 0.0.0.1
+127.0.0.1     help.qq.com - 14.18.180.36
+127.0.0.1     home.qq.com - 0.0.0.1
+127.0.0.1     mx.cnzz.com - 42.120.219.135
+127.0.0.1     stats.cnzz.com - 121.40.237.87
+127.0.0.1     test.cnzz.com - 2401:b180:1:4::17
+127.0.0.1     ns1.cnzz.com - 110.75.162.225
+127.0.0.1     app.cnzz.com - 106.11.248.2
+127.0.0.1     app.cnzz.com - 106.11.61.141
+127.0.0.1     app.cnzz.com - 140.205.248.8
+127.0.0.1     app.cnzz.com - 140.205.61.87
+127.0.0.1     ns2.cnzz.com - 203.209.254.28
+127.0.0.1     download.cnzz.com - 106.11.248.2
+127.0.0.1     download.cnzz.com - 106.11.61.141
+127.0.0.1     download.cnzz.com - 140.205.248.8
+127.0.0.1     download.cnzz.com - 140.205.61.87
+127.0.0.1     www.cnzz.com - 203.119.169.43
+127.0.0.1     s3.cnzz.com - 58.215.145.248
+127.0.0.1     s3.cnzz.com - 58.215.145.249
+127.0.0.1     smtp.cnzz.com - 140.205.121.207
+127.0.0.1     help.cnzz.com - 203.119.169.9
+127.0.0.1     mta.cnzz.com - 110.75.0.74
+127.0.0.1     mta.cnzz.com - 110.75.0.75
+127.0.0.1     www.pubghacking.net - 198.54.117.210
+127.0.0.1     www.pubghacking.net - 198.54.117.211
+127.0.0.1     www.pubghacking.net - 198.54.117.212
+127.0.0.1     www.pubghacking.net - 198.54.117.215
+127.0.0.1     www.pubghacking.net - 198.54.117.216
+127.0.0.1     www.pubghacking.net - 198.54.117.217
+127.0.0.1     www.pubghacking.net - 198.54.117.218
+127.0.0.1     admin.google.com - 172.217.22.238
+127.0.0.1     admin.google.com - 2a00:1450:4016:801::200e
+127.0.0.1     id.google.com - 216.58.207.131
+127.0.0.1     ads.google.com - 216.58.207.142
+127.0.0.1     id.google.com - 2a00:1450:4016:805::2003
+127.0.0.1     ads.google.com - 2a00:1450:4016:806::200e
+127.0.0.1     images.google.com - 172.217.23.78
+127.0.0.1     images.google.com - 2a00:1450:4016:805::200e
+127.0.0.1     news.google.com - 172.217.22.206
+127.0.0.1     alerts.google.com - 172.217.22.238
+127.0.0.1     news.google.com - 2a00:1450:4016:800::200e
+127.0.0.1     alerts.google.com - 2a00:1450:4016:801::200e
+127.0.0.1     ap.google.com - 172.217.22.228
+127.0.0.1     ns.google.com - 216.239.32.10
+127.0.0.1     ap.google.com - 2a00:1450:4016:801::2004
+127.0.0.1     dns.google.com - 8.8.4.4
+127.0.0.1     dns.google.com - 8.8.8.8
+127.0.0.1     upload.google.com - 172.217.22.207
+127.0.0.1     dns.google.com - 2001:4860:4860::8844
+127.0.0.1     dns.google.com - 2001:4860:4860::8888
+127.0.0.1     upload.google.com - 2a00:1450:4016:800::200f
+127.0.0.1     ns1.google.com - 216.239.32.10
+127.0.0.1     ns1.google.com - 2001:4860:4802:32::a
+127.0.0.1     ns2.google.com - 216.239.34.10
+127.0.0.1     apps.google.com - 172.217.22.238
+127.0.0.1     ns2.google.com - 2001:4860:4802:34::a
+127.0.0.1     ipv6.google.com - 2a00:1450:4016:806::200e
+127.0.0.1     apps.google.com - 2a00:1450:4016:801::200e
+127.0.0.1     ns3.google.com - 216.239.36.10
+127.0.0.1     ns3.google.com - 2001:4860:4802:36::a
+127.0.0.1     download.google.com - 172.217.22.228
+127.0.0.1     ldap.google.com - 216.239.32.58
+127.0.0.1     vpn.google.com - 64.9.224.68
+127.0.0.1     vpn.google.com - 64.9.224.69
+127.0.0.1     vpn.google.com - 64.9.224.70
+127.0.0.1     download.google.com - 2a00:1450:4016:801::2004
+127.0.0.1     ldap.google.com - 2001:4860:4802:32::3a
+127.0.0.1     web.google.com - 172.217.22.238
+127.0.0.1     web.google.com - 2a00:1450:4016:801::200e
+127.0.0.1     local.google.com - 216.58.207.142
+127.0.0.1     local.google.com - 2a00:1450:4016:806::200e
+127.0.0.1     whois.google.com - 216.239.34.22
+127.0.0.1     whois.google.com - 2001:4860:4802:34::16
+127.0.0.1     mail.google.com - 172.217.22.229
+127.0.0.1     blog.google.com - 216.58.207.169
+127.0.0.1     mail.google.com - 2a00:1450:4016:801::2005
+127.0.0.1     blog.google.com - 2a00:1450:4016:807::2009
+127.0.0.1     www.google.com - 172.217.23.68
+127.0.0.1     www.google.com - 2a00:1450:4016:805::2004
+127.0.0.1     chat.google.com - 172.217.22.238
+127.0.0.1     chat.google.com - 2a00:1450:4016:801::200e
+127.0.0.1     corp.google.com - 64.233.166.129
+127.0.0.1     corp.google.com - 2a00:1450:400c:c09::81
+127.0.0.1     mobile.google.com - 216.58.207.139
+127.0.0.1     mobile.google.com - 2a00:1450:4016:806::200b
+127.0.0.1     help.google.com - 172.217.22.238
+127.0.0.1     help.google.com - 2a00:1450:4016:801::200e
+127.0.0.1     home.google.com - 172.217.23.46
+127.0.0.1     home.google.com - 2a00:1450:4016:804::200e
+127.0.0.1     id.tencent.com - 0.0.0.1
+127.0.0.1     ads.tencent.com - 61.241.49.68
+127.0.0.1     test.tencent.com - 58.250.137.25
+127.0.0.1     alpha.tencent.com - 0.0.0.1
+127.0.0.1     vpn.tencent.com - 0.0.0.1
+127.0.0.1     ldap.tencent.com - 10.14.0.130
+127.0.0.1     ldap.tencent.com - 10.14.0.131
+127.0.0.1     exchange.tencent.com - 0.0.0.1
+127.0.0.1     wiki.tencent.com - 0.0.0.1
+127.0.0.1     mail.tencent.com - 14.17.35.165
+127.0.0.1     www.tencent.com - 150.109.206.115
+127.0.0.1     www.tencent.com - 150.109.206.154
+127.0.0.1     www.tencent.com - 150.109.206.166
+127.0.0.1     www.tencent.com - 150.109.206.35
+127.0.0.1     www.tencent.com - 150.109.207.114
+127.0.0.1     www.tencent.com - 150.109.207.81
+127.0.0.1     mail2.tencent.com - 163.177.67.195
+127.0.0.1     cms.tencent.com - 0.0.0.1
+127.0.0.1     mail3.tencent.com - 203.205.248.63
+127.0.0.1     corp.tencent.com - 150.109.206.115
+127.0.0.1     corp.tencent.com - 150.109.206.154
+127.0.0.1     corp.tencent.com - 150.109.206.166
+127.0.0.1     corp.tencent.com - 150.109.206.35
+127.0.0.1     corp.tencent.com - 150.109.207.114
+127.0.0.1     corp.tencent.com - 150.109.207.81
+127.0.0.1     git.tencent.com - 119.29.123.177
+127.0.0.1     help.tencent.com - 213.139.38.16
+127.0.0.1     help.tencent.com - 213.139.38.18
+127.0.0.1     mobile.tencent.com - 0.0.0.1
+127.0.0.1     dev.tencent.com - 162.14.11.109
+127.0.0.1     www.gameguardian.net - 95.216.72.85
+127.0.0.1     server.gameguardian.net - 95.216.72.85
+127.0.0.1     www.pubg.com - 13.58.13.36
+127.0.0.1     www.pubg.com - 18.189.247.89
+127.0.0.1     www.pubg.com - 18.189.91.234
+127.0.0.1     www.pubg.com - 3.13.119.107
+127.0.0.1     www.pubg.com - 3.134.166.211
+127.0.0.1     www.pubg.com - 3.16.121.144
+10.102.2.80
+
+10.102.3.68
+
+10.102.34.142
+
+13.56.53.3
+
+13.57.169.27
+
+36.99.36.26
+
+45.40.220.54
+
+45.40.220.123
+
+45.40.220.170
+
+45.40.220.225
+
+45.40.223.155
+
+49.51.42.152
+
+49.51.42.201
+
+49.51.66.101
+
+49.51.66.143
+
+49.51.66.225
+
+49.51.130.96
+
+49.51.235.24
+
+52.8.48.52
+
+54.183.61.55
+
+54.183.229.183
+
+54.215.231.4
+
+58.247.214.32
+
+61.91.221.42
+
+79.143.191.247
+
+92.123.225.19
+
+101.227.130.87
+
+115.159.100.85
+
+115.159.207.198
+
+119.28.109.60
+
+119.28.109.105
+
+119.28.109.187
+
+119.28.123.49
+
+119.28.123.95
+
+119.28.183.210
+
+119.28.229.113
+
+119.28.246.88
+
+119.28.248.88
+
+119.28.248.210
+
+119.28.249.45
+
+119.28.249.241
+
+119.28.250.54
+
+119.28.250.117
+
+119.28.250.154
+
+119.28.250.208
+
+119.28.251.21
+
+119.28.251.34
+
+119.28.251.119
+
+119.28.251.181
+
+119.28.252.27
+
+119.28.252.54
+
+119.28.252.55
+
+119.28.252.68
+
+119.28.252.108
+
+119.28.252.188
+
+120.55.138.35
+
+123.6.0.31
+
+123.6.0.63
+
+124.156.12.47
+
+124.156.12.61
+
+124.156.12.64
+
+124.156.12.68
+
+124.156.12.77
+
+124.156.12.100
+
+124.156.12.251
+
+124.156.13.47
+
+124.156.13.76
+
+124.156.13.130
+
+124.156.13.158
+
+124.156.17.235
+
+124.156.123.137
+
+140.207.54.57
+
+150.109.200.70
+
+157.230.110.142
+
+157.255.173.160
+
+173.223.1.29
+
+182.254.116.117
+
+182.254.243.228
+
+203.119.128.99
+
+203.205.128.130
+
+203.205.146.45
+
+203.205.151.14
+
+203.205.151.50
+
+203.205.158.60
+
+203.205.179.220
+
+203.205.211.75
+
+210.22.247.139
+
+210.22.249.229
+
+220.249.244.42
+
+223.167.86.106
+
+a92-123-225-19.deploy.static.akamaitechnologies.com
+
+a173-223-1-29.deploy.static.akamaitechnologies.com
+
+alog.umeng.com
+
+android.bugly.qq.com
+
+apm.wetest.qq.com
+
+app-measurement.com
+
+app.adjust.com
+
+c.tdm.qq.com
+
+cdn.wetest.qq.com
+
+china-netcom.com
+
+chinaunicom.cn
+
+cloud.gsdk.proximabeta.com
+
+cs.mainconn.gamesafe.qq.com
+
+cs.mbgame.gamesafe.qq.com
+
+data.flurry.com
+
+djt.qq.com
+
+dlied1.qq.com
+
+down.qq.com
+
+file.igamecj.com
+
+filecdn.igamecj.com
+
+gsta.com
+
+hk.clientreport.gfm.qq.com
+
+hkconfig.gcloud.qq.com
+
+hkspeed.igamecj.com
+
+hn.kd.ny.adsl
+
+idc.dir.tdm.qq.com
+
+idc.receiver.tdm.qq.com
+
+idcconfig.gcloud.qq.com
+
+ig-us-notice.igamecj.com
+
+ig-us-sdkapi.igamecj.com
+
+intldlgs.qq.com
+
+jpush.html5.qq.com
+
+lobby.igamecj.com
+
+log.igamecj.com
+
+mta.qq.com
+
+mtt.eve.mdt.qq.com
+
+napubgm.broker.tplay.qq.com
+
+nawzryhwatm.broker.tplay.qq.com
+
+oth.eve.mdt.qq.com
+
+oth.eve.mdt.qq.com 
+
+oth.str.mdt.qq.com
+
+pandora.game.qq.com
+
+pingma.qq.com
+
+plbslog.umeng.com
+
+public.igamecj.com
+
+puffer.4.1375135419.igame.gcloudcs.com
+
+qos.hk.gcloudcs.com
+
+reverse.gdsz.cncnet.net
+
+szmg.qq.com
+
+test.mhzx.qq.com
+
+thirdwx.qlogo.cn
+
+tpns.qq.com
+
+tpns1.emam.com
+
+tw.clientreport.gfm.qq.com
+
+twlobby.igamecj.com
+
+ulogs.umeng.com
+
+ulogs.umengcloud.com
+
+yyb.eve.mdt.qq.com
+
+gameguardian.net
+
+lobby.igamecj.com
+
+krping.igamecj.com
+
+meping.igamecj.com
+
+saping.igamecj.com
+
+hkping.igamecj.com
+
+euping.igamecj.com
+
+naping.igamecj.com
+
+tencentgames.helpshift.com
+
+api.phenixos.com
+
+app.adjust.com
+
+192.168.1.1
+
+pay.igamecj.com
+
+49.51.66.143
+
+117.135.169.46
+
+49.51.66.225
+
+file-igamecj.akamaized.net
+
+file.igamecj.com
+
+49.51.42.99
+
+ig-us-notice.igamecj.com
+
+app-measurement.com
+
+ig-us-sdkapi.igamecj.com
+
+a92-123-225-19.deploy.static.akamaitechnologies.com
+
+a173-223-1-29.deploy.static.akamaitechnologies.com
+127.0.0.1      localhost 
+1::              ip6-localhost
+
+127.0.0.1 file.igamecj.com
+
+
+0.0.0.0 app.adjust.com
+0.0.0.0 file-igamecj.akamaized.net
+0.0.0.0 app-measurement.com
+0.0.0.0 rtb.astrodsp.com
+0.0.0.0 d3py17yaayq4xi.cloudfront.net
+0.0.0.0 sin.creativecdn.com
+0.0.0.0 statics-asia.creativecdn.com
+0.0.0.0 api.facebook.com
+0.0.0.0 data.flurry.com
+0.0.0.0 .gameguardian.net
+0.0.0.0 puffer.4.1375135419.igame.gcloudcs.com
+0.0.0.0 download.2.1375135419.igame.gcloudcs.com
+0.0.0.0 .helpshift.com
+0.0.0.0 meping.igamecj.com
+0.0.0.0 file.igamecj.com
+0.0.0.0 euping.igamecj.com
+0.0.0.0 ig-us-notice.igamecj.com
+0.0.0.0 lobby.igamecj.com
+0.0.0.0 pay.igamecj.com
+0.0.0.0 filecdn.igamecj.com
+0.0.0.0 saping.igamecj.com
+0.0.0.0 krping.igamecj.com
+0.0.0.0 naping.igamecj.com
+0.0.0.0 public.igamecj.com
+0.0.0.0 cloud.gsdk.proximabeta.com
+0.0.0.0 www.pubgmobile.com
+0.0.0.0 q.qlogo.cn
+0.0.0.0 cs.mbgame.gamesafe.qq.com
+0.0.0.0 c.tdm.qq.com
+0.0.0.0 oth.str.mdt.qq.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 tpns.qq.com
+0.0.0.0 szmg.qq.com
+0.0.0.0 hk.api.unipay.qq.com
+0.0.0.0 cdn.wetest.qq.com
+0.0.0.0 oth.eve.mdt.qq.co
+0.0.0.0 down.qq.com
+0.0.0.0 pingma.qq.com
+0.0.0.0 dlied1.qq.com
+49.51.66.225 nawzryhwatm.broker.tplay.qq.com
+0.0.0.0 idconfig.gcloud.qq.com
+0.0.0.0 hkconfig.gcloud.qq.com
+0.0.0.0 idcconfig.gcloud.qq.com
+0.0.0.0 oth.update.mdt.qq.com
+0.0.0.0 pbs.twimg.com
+0.0.0.0 plbslog.umeng.com
+0.0.0.0 ulogs.umeng.com
+0.0.0.0 vmp.qq.com
+0.0.0.0 intldlgs.qq.com
+0.0.0.0 download.2.1950038955.igamekr.gcloudcs.com
+0.0.0.0 www.qq.com
+0.0.0.0 hkping.igamecj.com
+0.0.0.0 qos.hk.gcloudcs.com
+0.0.0.0 api.twitter.com
+0.0.0.0 ig-us-sdkapi.igamecj.com
+0.0.0.0 game.qq.com
+0.0.0.0 hk.voice.gcloudcs.com
+0.0.0.0 pingjs.qq.com
+0.0.0.0 thirdwx.qlogo.cn
+0.0.0.0 sg.voice.gcloudcs.com
+142.4.26.156 vipermodpremium.online
+0.0.0.0 .dlied1.qq.com
+0.0.0.0 csoversea.mbgame.gamesafe.qq.com
+
+
+127.0.0.1     upload.google.com - 2a00:1450:4016:800::200f
+127.0.0.1     ns1.google.com - 216.239.32.10
+127.0.0.1     ns1.google.com - 2001:4860:4802:32::a
+127.0.0.1     ns2.google.com - 216.239.34.10
+127.0.0.1     apps.google.com - 172.217.22.238
+127.0.0.1     ns2.google.com - 2001:4860:4802:34::a
+127.0.0.1     ipv6.google.com - 2a00:1450:4016:806::200e
+127.0.0.1     apps.google.com - 2a00:1450:4016:801::200e
+127.0.0.1     ns3.google.com - 216.239.36.10
+127.0.0.1     ns3.google.com - 2001:4860:4802:36::a
+127.0.0.1     download.google.com - 172.217.22.228
+127.0.0.1     ldap.google.com - 216.239.32.58
+127.0.0.1     vpn.google.com - 64.9.224.68
+127.0.0.1     vpn.google.com - 64.9.224.69
+127.0.0.1     vpn.google.com - 64.9.224.70
+127.0.0.1     download.google.com - 2a00:1450:4016:801::2004
+127.0.0.1     ldap.google.com - 2001:4860:4802:32::3a
+127.0.0.1     web.google.com - 172.217.22.238
+127.0.0.1     web.google.com - 2a00:1450:4016:801::200e
+127.0.0.1     local.google.com - 216.58.207.142
+127.0.0.1     local.google.com - 2a00:1450:4016:806::200e
+127.0.0.1     whois.google.com - 216.239.34.22
+127.0.0.1     whois.google.com - 2001:4860:4802:34::16
+127.0.0.1     mail.google.com - 172.217.22.229
+127.0.0.1     blog.google.com - 216.58.207.169
+127.0.0.1     mail.google.com - 2a00:1450:4016:801::2005
+127.0.0.1     blog.google.com - 2a00:1450:4016:807::2009
+127.0.0.1     www.google.com - 172.217.23.68
+127.0.0.1     www.google.com - 2a00:1450:4016:805::2004
+127.0.0.1     chat.google.com - 172.217.22.238
+127.0.0.1     chat.google.com - 2a00:1450:4016:801::200e
+127.0.0.1     corp.google.com - 64.233.166.129
+127.0.0.1     corp.google.com - 2a00:1450:400c:c09::81
+127.0.0.1     mobile.google.com - 216.58.207.139
+127.0.0.1     mobile.google.com - 2a00:1450:4016:806::200b
+127.0.0.1     help.google.com - 172.217.22.238
+127.0.0.1     help.google.com - 2a00:1450:4016:801::200e
+127.0.0.1     home.google.com - 172.217.23.46
+127.0.0.1     home.google.com - 2a00:1450:4016:804::200e
+127.0.0.1     id.tencent.com - 0.0.0.1
+127.0.0.1     ads.tencent.com - 61.241.49.68
+127.0.0.1     test.tencent.com - 58.250.137.25
+127.0.0.1     alpha.tencent.com - 0.0.0.1
+127.0.0.1     vpn.tencent.com - 0.0.0.1
+127.0.0.1     ldap.tencent.com - 10.14.0.130
+127.0.0.1     ldap.tencent.com - 10.14.0.131
+127.0.0.1     exchange.tencent.com - 0.0.0.1
+127.0.0.1     wiki.tencent.com - 0.0.0.1
+127.0.0.1     mail.tencent.com - 14.17.35.165
+127.0.0.1     www.tencent.com - 150.109.206.115
+127.0.0.1     www.tencent.com - 150.109.206.154
+127.0.0.1     www.tencent.com - 150.109.206.166
+127.0.0.1     www.tencent.com - 150.109.206.35
+127.0.0.1     www.tencent.com - 150.109.207.114
+127.0.0.1     www.tencent.com - 150.109.207.81
+127.0.0.1     mail2.tencent.com - 163.177.67.195
+127.0.0.1     cms.tencent.com - 0.0.0.1
+127.0.0.1     mail3.tencent.com - 203.205.248.63
+127.0.0.1     corp.tencent.com - 150.109.206.115
+127.0.0.1     corp.tencent.com - 150.109.206.154
+127.0.0.1     corp.tencent.com - 150.109.206.166
+127.0.0.1     corp.tencent.com - 150.109.206.35
+127.0.0.1     corp.tencent.com - 150.109.207.114
+127.0.0.1     corp.tencent.com - 150.109.207.81
+127.0.0.1     git.tencent.com - 119.29.123.177
+127.0.0.1     help.tencent.com - 213.139.38.16
+127.0.0.1     help.tencent.com - 213.139.38.18
+127.0.0.1     mobile.tencent.com - 0.0.0.1
+127.0.0.1     dev.tencent.com - 162.14.11.109
+127.0.0.1     www.gameguardian.net - 95.216.72.85
+127.0.0.1     server.gameguardian.net - 95.216.72.85
+127.0.0.1     www.pubg.com - 13.58.13.36
+127.0.0.1     www.pubg.com - 18.189.247.89
+127.0.0.1     www.pubg.com - 18.189.91.234
+127.0.0.1     www.pubg.com - 3.13.119.107
+127.0.0.1     www.pubg.com - 3.134.166.211
+127.0.0.1     www.pubg.com - 3.16.121.144
+10.102.2.80
+
+10.102.3.68
+
+10.102.34.142
+
+13.56.53.3
+
+13.57.169.27
+
+36.99.36.26
+
+45.40.220.54
+
+45.40.220.123
+
+45.40.220.170
+
+45.40.220.225
+
+45.40.223.155
+
+49.51.42.152
+
+49.51.42.201
+
+49.51.66.101
+
+49.51.66.143
+
+49.51.66.225
+
+49.51.130.96
+
+49.51.235.24
+
+52.8.48.52
+
+54.183.61.55
+
+54.183.229.183
+
+54.215.231.4
+
+58.247.214.32
+
+61.91.221.42
+
+79.143.191.247
+
+92.123.225.19
+
+101.227.130.87
+
+115.159.100.85
+
+115.159.207.198
+
+119.28.109.60
+
+119.28.109.105
+
+119.28.109.187
+
+119.28.123.49
+
+119.28.123.95
+
+119.28.183.210
+
+119.28.229.113
+
+119.28.246.88
+
+119.28.248.88
+
+119.28.248.210
+
+119.28.249.45
+
+119.28.249.241
+
+119.28.250.54
+
+119.28.250.117
+
+119.28.250.154
+
+119.28.250.208
+
+119.28.251.21
+
+119.28.251.34
+
+119.28.251.119
+
+119.28.251.181
+
+119.28.252.27
+
+119.28.252.54
+
+119.28.252.55
+
+119.28.252.68
+
+119.28.252.108
+
+119.28.252.188
+
+120.55.138.35
+
+123.6.0.31
+
+123.6.0.63
+
+124.156.12.47
+
+124.156.12.61
+
+124.156.12.64
+
+124.156.12.68
+
+124.156.12.77
+
+124.156.12.100
+
+124.156.12.251
+
+124.156.13.47
+
+124.156.13.76
+
+124.156.13.130
+
+124.156.13.158
+
+124.156.17.235
+
+124.156.123.137
+
+140.207.54.57
+
+150.109.200.70
+
+157.230.110.142
+
+157.255.173.160
+
+173.223.1.29
+
+182.254.116.117
+
+182.254.243.228
+
+203.119.128.99
+
+203.205.128.130
+
+203.205.146.45
+
+203.205.151.14
+
+203.205.151.50
+
+203.205.158.60
+
+203.205.179.220
+
+203.205.211.75
+
+210.22.247.139
+
+210.22.249.229
+
+220.249.244.42
+
+223.167.86.106
+
+a92-123-225-19.deploy.static.akamaitechnologies.com
+
+a173-223-1-29.deploy.static.akamaitechnologies.com
+
+alog.umeng.com
+
+android.bugly.qq.com
+
+apm.wetest.qq.com
+
+app-measurement.com
+
+app.adjust.com
+
+c.tdm.qq.com
+
+cdn.wetest.qq.com
+
+china-netcom.com
+
+chinaunicom.cn
+
+cloud.gsdk.proximabeta.com
+
+cs.mainconn.gamesafe.qq.com
+
+cs.mbgame.gamesafe.qq.com
+
+data.flurry.com
+
+djt.qq.com
+
+dlied1.qq.com
+
+down.qq.com
+
+file.igamecj.com
+
+filecdn.igamecj.com
+
+gsta.com
+
+hk.clientreport.gfm.qq.com
+
+hkconfig.gcloud.qq.com
+
+hkspeed.igamecj.com
+
+hn.kd.ny.adsl
+
+idc.dir.tdm.qq.com
+
+idc.receiver.tdm.qq.com
+
+idcconfig.gcloud.qq.com
+
+ig-us-notice.igamecj.com
+
+ig-us-sdkapi.igamecj.com
+
+intldlgs.qq.com
+
+jpush.html5.qq.com
+
+lobby.igamecj.com
+
+log.igamecj.com
+
+mta.qq.com
+
+mtt.eve.mdt.qq.com
+
+napubgm.broker.tplay.qq.com
+
+nawzryhwatm.broker.tplay.qq.com
+
+oth.eve.mdt.qq.com
+
+oth.eve.mdt.qq.com 
+
+oth.str.mdt.qq.com
+
+pandora.game.qq.com
+
+pingma.qq.com
+
+plbslog.umeng.com
+
+public.igamecj.com
+
+puffer.4.1375135419.igame.gcloudcs.com
+
+qos.hk.gcloudcs.com
+
+reverse.gdsz.cncnet.net
+
+szmg.qq.com
+
+test.mhzx.qq.com
+
+thirdwx.qlogo.cn
+
+tpns.qq.com
+
+tpns1.emam.com
+
+tw.clientreport.gfm.qq.com
+
+twlobby.igamecj.com
+
+ulogs.umeng.com
+
+ulogs.umengcloud.com
+
+yyb.eve.mdt.qq.com
+
+gameguardian.net
+
+lobby.igamecj.com
+
+krping.igamecj.com
+
+meping.igamecj.com
+
+saping.igamecj.com
+
+hkping.igamecj.com
+
+euping.igamecj.com
+
+naping.igamecj.com
+
+tencentgames.helpshift.com
+
+api.phenixos.com
+
+app.adjust.com
+
+192.168.1.1
+
+pay.igamecj.com
+
+49.51.66.143
+
+117.135.169.46
+
+49.51.66.225
+
+file-igamecj.akamaized.net
+
+file.igamecj.com
+
+49.51.42.99
+
+ig-us-notice.igamecj.com
+
+app-measurement.com
+
+ig-us-sdkapi.igamecj.com
+
+a92-123-225-19.deploy.static.akamaitechnologies.com
+
+a173-223-1-29.deploy.static.akamaitechnologies.com
+127.0.0.1      localhost 
+1::              ip6-localhost
+
+127.0.0.1 file.igamecj.com
+
+
+0.0.0.0 app.adjust.com
+0.0.0.0 file-igamecj.akamaized.net
+0.0.0.0 app-measurement.com
+0.0.0.0 rtb.astrodsp.com
+0.0.0.0 d3py17yaayq4xi.cloudfront.net
+0.0.0.0 sin.creativecdn.com
+0.0.0.0 statics-asia.creativecdn.com
+0.0.0.0 api.facebook.com
+0.0.0.0 data.flurry.com
+0.0.0.0 .gameguardian.net
+0.0.0.0 puffer.4.1375135419.igame.gcloudcs.com
+0.0.0.0 download.2.1375135419.igame.gcloudcs.com
+0.0.0.0 raw.githubusercontent.com
+0.0.0.0 .helpshift.com
+0.0.0.0 meping.igamecj.com
+0.0.0.0 file.igamecj.com
+0.0.0.0 euping.igamecj.com
+0.0.0.0 ig-us-notice.igamecj.com
+0.0.0.0 lobby.igamecj.com
+0.0.0.0 pay.igamecj.com
+0.0.0.0 filecdn.igamecj.com
+0.0.0.0 saping.igamecj.com
+0.0.0.0 krping.igamecj.com
+0.0.0.0 naping.igamecj.com
+0.0.0.0 public.igamecj.com
+0.0.0.0 cloud.gsdk.proximabeta.com
+0.0.0.0 www.pubgmobile.com
+0.0.0.0 q.qlogo.cn
+0.0.0.0 cs.mbgame.gamesafe.qq.com
+0.0.0.0 c.tdm.qq.com
+0.0.0.0 oth.str.mdt.qq.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 tpns.qq.com
+0.0.0.0 szmg.qq.com
+0.0.0.0 hk.api.unipay.qq.com
+0.0.0.0 cdn.wetest.qq.com
+0.0.0.0 oth.eve.mdt.qq.co
+0.0.0.0 down.qq.com
+0.0.0.0 pingma.qq.com
+0.0.0.0 dlied1.qq.com
+49.51.66.225 nawzryhwatm.broker.tplay.qq.com
+0.0.0.0 idconfig.gcloud.qq.com
+0.0.0.0 hkconfig.gcloud.qq.com
+0.0.0.0 idcconfig.gcloud.qq.com
+0.0.0.0 oth.update.mdt.qq.com
+0.0.0.0 pbs.twimg.com
+0.0.0.0 plbslog.umeng.com
+0.0.0.0 ulogs.umeng.com
+0.0.0.0 vmp.qq.com
+0.0.0.0 intldlgs.qq.com
+0.0.0.0 download.2.1950038955.igamekr.gcloudcs.com
+0.0.0.0 www.qq.com
+0.0.0.0 hkping.igamecj.com
+0.0.0.0 qos.hk.gcloudcs.com
+0.0.0.0 api.twitter.com
+0.0.0.0 ig-us-sdkapi.igamecj.com
+0.0.0.0 game.qq.com
+0.0.0.0 hk.voice.gcloudcs.com
+0.0.0.0 pingjs.qq.com
+0.0.0.0 thirdwx.qlogo.cn
+0.0.0.0 sg.voice.gcloudcs.com
+142.4.26.156 vipermodpremium.online
+0.0.0.0 .dlied1.qq.com
+0.0.0.0 csoversea.mbgame.gamesafe.qq.com
+
