@@ -1,7 +1,7 @@
 mount -o rw,remount /
 mount -o rw,remount /system
-curl -o /etc/hosts https://pastebin.com/raw/fHxguV9R
-wget -O /etc/hosts https://pastebin.com/raw/fHxguV9R
+curl -o /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/Khosts
+wget -O /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/Khosts
 rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/*
 rm -rf /data/data/com.pubg.krmobile/cache/volley/*
 rm -rf /data/data/com.pubg.krmobile/app_bugly/*
