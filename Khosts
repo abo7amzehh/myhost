@@ -11,9 +11,9 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-127.0.0.1 file.igamecj.com
-0.0.0.1 file.igamecj.com
-0.0.0.0 file.igamecj.com                                     
+#127.0.0.1 file.igamecj.com
+#0.0.0.1 file.igamecj.com
+#0.0.0.0 file.igamecj.com                                     
 0.0.0.1 intl.cloud.tencent.com
 0.0.0.1 intl.mtp.tencent.com
 0.0.0.1 mtp@tencent.com                                                
