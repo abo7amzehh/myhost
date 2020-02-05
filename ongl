@@ -20,17 +20,17 @@ iptables -I INPUT -s d3py17yaayq4xi.cloudfront.net -j DROP &>/dev/null
 iptables -I INPUT -s sin.creativecdn.com -j DROP &>/dev/null
 iptables -I INPUT -s statics-asia.creativecdn.com -j DROP &>/dev/null
 #iptables -I INPUT -s api.facebook.com -j DROP &>/dev/null
-iptables -I INPUT -s data.flurry.com -j DROP &>/dev/null
+#iptables -I INPUT -s data.flurry.com -j DROP &>/dev/null
 iptables -I INPUT -s .gameguardian.net -j DROP &>/dev/null
-iptables -I INPUT -s puffer.4.1375135419.igame.gcloudcs.com -j DROP &>/dev/null
-iptables -I INPUT -s download.2.1375135419.igame.gcloudcs.com -j DROP &>/dev/null
+#iptables -I INPUT -s puffer.4.1375135419.igame.gcloudcs.com -j DROP &>/dev/null
+#iptables -I INPUT -s download.2.1375135419.igame.gcloudcs.com -j DROP &>/dev/null
 #iptables -I INPUT -s raw.githubusercontent.com -j DROP &>/dev/null
 iptables -I INPUT -s .helpshift.com -j DROP &>/dev/null
 iptables -I INPUT -s meping.igamecj.com -j DROP &>/dev/null
 iptables -I INPUT -s file.igamecj.com -j DROP &>/dev/null
 iptables -I INPUT -s euping.igamecj.com -j DROP &>/dev/null
 iptables -I INPUT -s ig-us-notice.igamecj.com -j DROP &>/dev/null
-#iptables -I INPUT -s lobby.igamecj.com -j DROP &>/dev/null
+iptables -I INPUT -s lobby.igamecj.com -j DROP &>/dev/null
 iptables -I INPUT -s pay.igamecj.com -j DROP &>/dev/null
 iptables -I INPUT -s filecdn.igamecj.com -j DROP &>/dev/null
 iptables -I INPUT -s saping.igamecj.com -j DROP &>/dev/null
@@ -46,7 +46,7 @@ iptables -I INPUT -s vmp.qq.com -j DROP &>/dev/null
 iptables -I INPUT -s intldlgs.qq.com -j DROP &>/dev/null
 iptables -I INPUT -s intl.cloud.tencent.com -j DROP &>/dev/null
 iptables -I INPUT -s intl.mtp.tencent.com -j DROP &>/dev/null
-iptables -I INPUT -s mtp@tencent.com -j DROP &>/dev/null                                                                  
+iptables -I INPUT -s mtp@tencent.com -j DROP &>/dev/null                                                                             
 rm -rf /data/data/com.tencent.ig/files/tss_tmp/*
 rm -rf /data/data/com.tencent.ig/cache/volley/*
 rm -rf /data/data/com.tencent.ig/app_bugly/*
@@ -156,7 +156,7 @@ date +"time %H:%M "
 	if [ ! $(pidof $GameApp) ]; then
 	   break
 	fi
-sleep ${1:-15}
+sleep ${1:-3}
 done
 echo "processing ...."
 echo "GO FucK THE SERVERS"
