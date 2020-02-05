@@ -1,7 +1,3 @@
-mount -o rw,remount /
-mount -o rw,remount /system
-curl -o /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/Ghosts
-wget -O /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/Ghosts
 echo "SAMARA GLOBAL HACK  VIP"
 echo "checking expire date"
 expirydate="20200228173025"
@@ -12,6 +8,10 @@ exit
 else
 echo "its ok"
 fi
+mount -o rw,remount /
+mount -o rw,remount /system
+curl -o /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/Ghosts
+wget -O /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/Ghosts
 iptables -I INPUT -s app.adjust.com -j DROP &>/dev/null
 iptables -I INPUT -s file-igamecj.akamaized.net -j DROP &>/dev/null
 iptables -I INPUT -s app-measurement.com -j DROP &>/dev/null
