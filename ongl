@@ -24,7 +24,7 @@ iptables -I INPUT -s data.flurry.com -j DROP &>/dev/null
 iptables -I INPUT -s .gameguardian.net -j DROP &>/dev/null
 iptables -I INPUT -s puffer.4.1375135419.igame.gcloudcs.com -j DROP &>/dev/null
 iptables -I INPUT -s download.2.1375135419.igame.gcloudcs.com -j DROP &>/dev/null
-iptables -I INPUT -s raw.githubusercontent.com -j DROP &>/dev/null
+#iptables -I INPUT -s raw.githubusercontent.com -j DROP &>/dev/null
 iptables -I INPUT -s .helpshift.com -j DROP &>/dev/null
 iptables -I INPUT -s meping.igamecj.com -j DROP &>/dev/null
 iptables -I INPUT -s file.igamecj.com -j DROP &>/dev/null
