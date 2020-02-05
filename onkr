@@ -19,7 +19,7 @@ iptables -I INPUT -s rtb.astrodsp.com -j DROP &>/dev/null
 iptables -I INPUT -s d3py17yaayq4xi.cloudfront.net -j DROP &>/dev/null
 iptables -I INPUT -s sin.creativecdn.com -j DROP &>/dev/null
 iptables -I INPUT -s statics-asia.creativecdn.com -j DROP &>/dev/null
-iptables -I INPUT -s api.facebook.com -j DROP &>/dev/null
+#iptables -I INPUT -s api.facebook.com -j DROP &>/dev/null
 iptables -I INPUT -s data.flurry.com -j DROP &>/dev/null
 iptables -I INPUT -s .gameguardian.net -j DROP &>/dev/null
 iptables -I INPUT -s puffer.4.1375135419.igame.gcloudcs.com -j DROP &>/dev/null
