@@ -26,7 +26,8 @@ ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
 #fe80::1%lo0	localhost
 #</localhost>
-
+0.0.0.1 server.gameguardian.net
+0.0.0.1 gameguardian.net
 #<PubgAntibanHost V12.2>
 ::1 vmp.qq.com
 0:0:0:0:0:ffff:cbcd:8a0f vmp.qq.com
