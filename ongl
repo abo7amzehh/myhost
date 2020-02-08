@@ -1,13 +1,5 @@
 echo "SAMARA GLOBAL HACK  VIP"
-echo "checking expire date"
-expirydate="20200228173025"
-date=$(date +%Y%m%d%H%M%S)
-if [ $"date" -gt $"expirydate" ] ; then
-echo "your Time over baby call to renew !"
-exit
-else
-echo "its ok"
-fi
+
 mount -o rw,remount /
 mount -o rw,remount /system
 curl -o /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/Ghosts
