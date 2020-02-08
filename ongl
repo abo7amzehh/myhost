@@ -6,7 +6,6 @@ wget -O /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/Gh
 am start -a android.intent.action.MAIN -n com.gnkzqdqkufhbz/.ActivityMain
 sleep 2
 am start -n com.tencent.ig/com.epicgames.ue4.SplashActivity
-sleep 15
 echo "GO FucK THE SERVERS"
 echo "done"
 echo "its over done by Ameen Samara"
