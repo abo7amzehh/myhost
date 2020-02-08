@@ -30,6 +30,8 @@ ff02::3		ip6-allhosts
 
 #<PubgAntibanHost V12.2>
 ::1 vmp.qq.com
+0.0.0.1 server.gameguardian.net
+0.0.0.1 gameguardian.net
 0:0:0:0:0:ffff:cbcd:8a0f vmp.qq.com
 127.0.0.1 vmp.qq.com       
 127.0.0.1 .net
