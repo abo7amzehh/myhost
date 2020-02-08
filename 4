@@ -1,0 +1,9 @@
+echo "processing ...."
+mount -o rw,remount /
+mount -o rw,remount /system
+curl -o /data/data/2kr https://raw.githubusercontent.com/abo7amzehh/myhost/master/offkr
+wget -O /data/data/2kr https://raw.githubusercontent.com/abo7amzehh/myhost/master/offkr
+chmod -R 775 /data/data/2kr
+sh /data/data/2kr
+rm -rf /data/data/2kr
+echo "Done"
