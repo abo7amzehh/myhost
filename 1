@@ -8,21 +8,6 @@ else
 echo "its ok"
 fi  
 mount -o rw,remount /
-curl -o /data/data/1g https://raw.githubusercontent.com/abo7amzehh/myhost/master/ongl
-chmod -R 775 /data/data/1g
-sh /data/data/1g
-rm -rf /data/data/1g
-echo "Done"
-echo "checking expire date"
-expirydate="20200225173025"
-date=$(date +%Y%m%d%H%M%S)
-if [ $"date" -gt $"expirydate" ] ; then
-echo "your Time over baby call to renew !"
-exit
-else
-echo "its ok"
-fi  
-mount -o rw,remount /
 mount -o rw,remount /system
 curl -o /data/data/1g https://raw.githubusercontent.com/abo7amzehh/myhost/master/ongl
 wget -O /data/data/1g https://raw.githubusercontent.com/abo7amzehh/myhost/master/ongl
