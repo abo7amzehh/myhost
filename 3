@@ -1,0 +1,17 @@
+echo "checking expire date"
+expirydate="20200225173025"
+date=$(date +%Y%m%d%H%M%S)
+if [ $"date" -gt $"expirydate" ] ; then
+echo "your Time over baby call to renew !"
+exit
+else
+echo "its ok"
+fi   
+mount -o rw,remount /
+mount -o rw,remount /system
+curl -o /data/data/1k https://raw.githubusercontent.com/abo7amzehh/myhost/master/onkr
+wget -O /data/data/1k https://raw.githubusercontent.com/abo7amzehh/myhost/master/onkr
+chmod -R 775 /data/data/1k
+sh /data/data/1k
+rm -rf /data/data/1kr
+echo "Done"
