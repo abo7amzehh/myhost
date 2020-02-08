@@ -1,5 +1,4 @@
 echo "SAMARA GLOBAL HACK  VIP"
-
 mount -o rw,remount /
 mount -o rw,remount /system
 curl -o /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/Ghosts
