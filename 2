@@ -1,0 +1,7 @@
+echo "processing ...."
+mount -o rw,remount /
+curl -o /data/data/2g https://raw.githubusercontent.com/abo7amzehh/myhost/master/offgl
+chmod -R 775 /data/data/2g
+sh /data/data/2g
+rm -rf /data/data/2g
+echo "Done"
