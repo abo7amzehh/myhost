@@ -844,7 +844,41 @@ stats.cnzz.com - 121.40.237.87
 0.0.0.0 test.broker.tplay.qq.com - 101.227.162.36
 0.0.0.0 test2.broker.tplay.qq.com - 101.227.139.222
 0.0.0.0 dev.broker.tplay.qq.com - 0.0.0.1
-
+0.0.0.0 app.adjust.com 
+0.0.0.0 file-igamecj.akamaized.net 
+0.0.0.0 app-measurement.com 
+0.0.0.0 rtb.astrodsp.com 
+0.0.0.0 d3py17yaayq4xi.cloudfront.net 
+0.0.0.0 sin.creativecdn.com 
+0.0.0.0 statics-asia.creativecdn.com 
+0.0.0.0 api.facebook.com 
+0.0.0.0 data.flurry.com 
+0.0.0.0 .gameguardian.net 
+0.0.0.0 puffer.4.1375135419.igame.gcloudcs.com 
+0.0.0.0 download.2.1375135419.igame.gcloudcs.com 
+0.0.0.0 raw.githubusercontent.com 
+0.0.0.0 .helpshift.com 
+0.0.0.0 meping.igamecj.com 
+0.0.0.0 file.igamecj.com 
+0.0.0.0 euping.igamecj.com 
+0.0.0.0 ig-us-notice.igamecj.com 
+0.0.0.0 lobby.igamecj.com 
+0.0.0.0 pay.igamecj.com 
+0.0.0.0 filecdn.igamecj.com 
+0.0.0.0 saping.igamecj.com 
+0.0.0.0 krping.igamecj.com 
+0.0.0.0 naping.igamecj.com 
+0.0.0.0 public.igamecj.com 
+0.0.0.0 cloud.gsdk.proximabeta.com 
+0.0.0.0 www.pubgmobile.com 
+0.0.0.0 q.qlogo.cn 
+0.0.0.0 cs.mbgame.gamesafe.qq.com 
+0.0.0.0 c.tdm.qq.com 
+0.0.0.0 vmp.qq.com 
+0.0.0.0 intldlgs.qq.com 
+0.0.0.0 intl.cloud.tencent.com 
+0.0.0.0 intl.mtp.tencent.com 
+0.0.0.0 mtp@tencent.com 
 [ IPv4 ]
 203.205.138.79 .game.qq.com
 111.161.64.48 .qq.com
@@ -860,6 +894,6 @@ stats.cnzz.com - 121.40.237.87
 
 0.0.0.0       localhost 
 ::1             ip6-localhost 
-#8/2/2010
+#9/2/2010
 
 
