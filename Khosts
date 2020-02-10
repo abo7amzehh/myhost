@@ -612,17 +612,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 4.1486523373.qqfc.gcloudcs.com	119.28.229.135
 0.0.0.0 dir.4.1486523373.qqfc.gcloudcs.com	119.28.229.135
 0.0.0.0 e.gcloudcs.com	115.159.16.176
-0.0.0.0 voice.gcloudcs.com	115.159.16.176
-0.0.0.0 id.voice.gcloudcs.com	119.28.101.99
-0.0.0.0 de.voice.gcloudcs.com	169.50.48.198
-0.0.0.0 sg.voice.gcloudcs.com	119.28.100.184
-0.0.0.0 hk.voice.gcloudcs.com	203.205.151.252
-0.0.0.0 cn.voice.gcloudcs.com	203.205.219.47
-0.0.0.0 in.voice.gcloudcs.com	124.156.62.222
-0.0.0.0 vn.voice.gcloudcs.com	107.155.6.233
-0.0.0.0 kr.voice.gcloudcs.com	119.28.147.27
-0.0.0.0 us.voice.gcloudcs.com	49.51.37.253
-0.0.0.0 hkvoice.gcloudcs.com	115.159.16.176
+0.0.0.0 vv.gcloudcs.com	115.159.16.176
+0.0.0.0 id.vv.gcloudcs.com	119.28.101.99
+0.0.0.0 de.vv.gcloudcs.com	169.50.48.198
+0.0.0.0 sg.vv.gcloudcs.com	119.28.100.184
+0.0.0.0 hk.vv.gcloudcs.com	203.205.151.252
+0.0.0.0 cn.vv.gcloudcs.com	203.205.219.47
+0.0.0.0 in.vv.gcloudcs.com	124.156.62.222
+0.0.0.0 vn.vv.gcloudcs.com	107.155.6.233
+0.0.0.0 kr.vv.gcloudcs.com	119.28.147.27
+0.0.0.0 us.vv.gcloudcs.com	49.51.37.253
+0.0.0.0 hkvv.gcloudcs.com	115.159.16.176
 0.0.0.0 game.gcloudcs.com	115.159.16.176
 0.0.0.0 igame.gcloudcs.com	115.159.16.176
 0.0.0.0 1375135419.igame.gcloudcs.com	49.51.42.201
@@ -822,8 +822,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 captcha.guard.qcloud.com	120.204.11.219
 0.0.0.0 api.guard.qcloud.com	59.37.96.66
 0.0.0.0 shapi.guard.qcloud.com	140.207.123.174
-0.0.0.0 conf.voice.qcloud.com	119.29.43.67
-0.0.0.0 confvoice.qcloud.com	123.207.103.150
+0.0.0.0 conf.vv.qcloud.com	119.29.43.67
+0.0.0.0 confvv.qcloud.com	123.207.103.150
 0.0.0.0 finance.qcloud.com	134.175.253.154
 0.0.0.0 manage.qcloud.com	183.60.84.154
 0.0.0.0 imgcache.qcloud.com	183.61.180.80
@@ -1186,7 +1186,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.pc.qq.com
 0.0.0.0 api.pr.weixin.qq.com
 0.0.0.0 api.qbgame.qq.com
-0.0.0.0 api.voice.gcloud.qq.com
+0.0.0.0 api.vv.gcloud.qq.com
 0.0.0.0 apm.wetest.qq.com
 0.0.0.0 appsupport.qq.com
 0.0.0.0 astat.bugly.qq.com
@@ -1376,7 +1376,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hkping.igamecj.com
 0.0.0.0 euping.igamecj.com
 0.0.0.0 naping.igamecj.com
-0.0.0.0 sg.voice.gcloudcs.com
+0.0.0.0 sg.vv.gcloudcs.com
 0.0.0.0 qos.hk.gcloudcs.com
 0.0.0.0 napubgm.broker.tplay.qq.com
 0.0.0.0 napubgm.broker.tplay.qq.com
