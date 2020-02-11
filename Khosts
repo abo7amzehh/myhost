@@ -2226,3 +2226,1423 @@ app-measurement.com
 ig-us-sdkapi.igamecj.com
 a92-123-225-19.deploy.static.akamaitechnologies.com
 a173-223-1-29.deploy.static.akamaitechnologies.com
+0.0.0.0 mx.qq.com 0.0.0.0
+0.0.0.0 mx0.qq.com 0.0.0.0
+0.0.0.0 http.qq.com 180.163.26.39
+0.0.0.0 http.qq.com 240e:e1:a900:10::54
+0.0.0.0 id.qq.com 203.205.254.103
+0.0.0.0 test.qq.com 58.250.137.42
+0.0.0.0 ads.qq.com 14.17.32.217
+0.0.0.0 mx1.qq.com 58.251.110.111
+0.0.0.0 mx1.qq.com 240d:c040:1:40::133
+0.0.0.0 test1.qq.com 0.0.0.0
+0.0.0.0 testing.qq.com 0.0.0.0
+0.0.0.0 news.qq.com 92.122.223.25
+0.0.0.0 news.qq.com 2a02:26f0:c000:195::180c
+0.0.0.0 news.qq.com 2a02:26f0:c000:197::180c
+0.0.0.0 vm.qq.com 0.0.0.0
+0.0.0.0 alpha.qq.com 0.0.0.0
+0.0.0.0 info.qq.com 0.0.0.0
+0.0.0.0 ns.qq.com 0.0.0.0
+0.0.0.0 dns.qq.com 119.29.29.229
+0.0.0.0 ns2.qq.com 121.51.160.100
+0.0.0.0 ns2.qq.com 123.151.66.78
+0.0.0.0 ns2.qq.com 203.205.177.41
+0.0.0.0 ipv6.qq.com 0.0.0.0
+0.0.0.0 app.qq.com 203.205.235.38
+0.0.0.0 app.qq.com 203.205.235.63
+0.0.0.0 web.qq.com 0.0.0.0
+0.0.0.0 apps.qq.com 203.205.219.228
+0.0.0.0 linux.qq.com 10.237.156.13
+0.0.0.0 ns3.qq.com 112.60.1.69
+0.0.0.0 ns3.qq.com 183.192.201.116
+0.0.0.0 whois.qq.com 0.0.0.0
+0.0.0.0 local.qq.com 163.177.90.84
+0.0.0.0 wiki.qq.com 0.0.0.0
+0.0.0.0 www.qq.com 23.52.54.109
+0.0.0.0 www.qq.com 2a02:26f0:c000:195::180c
+0.0.0.0 www.qq.com 2a02:26f0:c000:197::180c
+0.0.0.0 download.qq.com 0.0.0.0
+0.0.0.0 auth.qq.com 0.0.0.0
+0.0.0.0 en.qq.com 203.205.219.231
+0.0.0.0 log.qq.com 101.227.160.36
+0.0.0.0 backup.qq.com 0.0.0.0
+0.0.0.0 mail.qq.com 203.205.219.95
+0.0.0.0 mail.qq.com 203.205.235.161
+0.0.0.0 eshop.qq.com 203.205.235.38
+0.0.0.0 eshop.qq.com 203.205.235.63
+0.0.0.0 beta.qq.com 0.0.0.0
+0.0.0.0 blog.qq.com 180.163.26.39
+0.0.0.0 blog.qq.com 240e:e1:a900:10::54
+0.0.0.0 cdn.qq.com 0.0.0.0
+0.0.0.0 ops.qq.com 0.0.0.0
+0.0.0.0 oracle.qq.com 0.0.0.0
+0.0.0.0 chat.qq.com 0.0.0.0
+0.0.0.0 f5.qq.com 203.205.137.227
+0.0.0.0 f5.qq.com 203.205.137.232
+0.0.0.0 f5.qq.com 203.205.137.242
+0.0.0.0 f5.qq.com 203.205.137.29
+0.0.0.0 cms.qq.com 104.115.41.107
+0.0.0.0 corp.qq.com 0.0.0.0
+0.0.0.0 mobile.qq.com 203.205.219.54
+0.0.0.0 server.qq.com 0.0.0.0
+0.0.0.0 monitor.qq.com 0.0.0.0
+0.0.0.0 smtp.qq.com 203.205.232.7
+0.0.0.0 smtp.qq.com 240e:ff:f100:8019::6a
+0.0.0.0 demo.qq.com 0.0.0.0
+0.0.0.0 gw.qq.com 0.0.0.0
+0.0.0.0 help.qq.com 14.18.180.36
+0.0.0.0 home.qq.com 0.0.0.0
+0.0.0.0 ssl.qq.com 203.205.254.103
+0.0.0.0 ads.tencent.com 61.241.49.68
+0.0.0.0 id.tencent.com 0.0.0.0
+0.0.0.0 alpha.tencent.com 0.0.0.0
+0.0.0.0 test.tencent.com 58.250.137.25
+0.0.0.0 vpn.tencent.com 0.0.0.0
+0.0.0.0 ldap.tencent.com 10.14.0.130
+0.0.0.0 ldap.tencent.com 10.14.0.131
+0.0.0.0 mail.tencent.com 14.17.35.165
+0.0.0.0 mail2.tencent.com 163.177.67.195
+0.0.0.0 exchange.tencent.com 0.0.0.0
+0.0.0.0 wiki.tencent.com 0.0.0.0
+0.0.0.0 www.tencent.com 150.109.206.115
+0.0.0.0 www.tencent.com 150.109.206.154
+0.0.0.0 www.tencent.com 150.109.206.166
+0.0.0.0 www.tencent.com 150.109.206.35
+0.0.0.0 www.tencent.com 150.109.207.114
+0.0.0.0 www.tencent.com 150.109.207.81
+0.0.0.0 mail3.tencent.com 203.205.248.63
+0.0.0.0 cms.tencent.com 0.0.0.0
+0.0.0.0 corp.tencent.com 150.109.206.115
+0.0.0.0 corp.tencent.com 150.109.206.154
+0.0.0.0 corp.tencent.com 150.109.206.166
+0.0.0.0 corp.tencent.com 150.109.206.35
+0.0.0.0 corp.tencent.com 150.109.207.114
+0.0.0.0 corp.tencent.com 150.109.207.81
+0.0.0.0 mobile.tencent.com 0.0.0.0
+0.0.0.0 git.tencent.com 119.29.123.177
+0.0.0.0 dev.tencent.com 162.14.11.109
+0.0.0.0 help.tencent.com 80.231.241.66
+0.0.0.0 help.tencent.com 80.231.241.73
+0.0.0.0 ns1.hidehost.com 206.51.235.234
+0.0.0.0 ns2.hidehost.com 206.51.235.235
+0.0.0.0 ns2.hidehost.com 206.51.235.238
+0.0.0.0 mail.hidehost.com 206.51.235.234
+0.0.0.0 www.hidehost.com 206.51.235.234
+0.0.0.0 ftp.hidehost.com 206.51.235.234
+0.0.0.0 smtp.hidehost.com 206.51.235.234
+0.0.0.0 exchange.Ip.com 157.238.141.166
+0.0.0.0 mail.Ip.com 50.19.84.8
+0.0.0.0 www.Ip.com 64.111.96.109
+0.0.0.0 www2.Ip.com 157.238.141.169
+0.0.0.0 sip.Ip.com 52.113.64.147
+0.0.0.0 ftp.Ip.com 50.19.84.8
+0.0.0.0 sip.Ip.com 2603:1047::2:0:0:0:b
+0.0.0.0 *A: 96.45.82.10
+0.0.0.0 ns1.script.com 127.0.0.1
+0.0.0.0 ns2.script.com 127.0.0.1
+0.0.0.0 ns3.script.com 127.0.0.1
+0.0.0.0 mail.script.com 172.217.16.147
+0.0.0.0 mail.script.com 2a00:1450:4001:808::2013
+0.0.0.0 *A: 96.45.82.181
+0.0.0.0 mx.cnzz.com 42.120.219.135
+0.0.0.0 stats.cnzz.com 121.40.237.87
+0.0.0.0 test.cnzz.com 2401:b180:1:4::17
+0.0.0.0 app.cnzz.com 106.11.248.2
+0.0.0.0 app.cnzz.com 106.11.61.141
+0.0.0.0 app.cnzz.com 140.205.248.8
+0.0.0.0 app.cnzz.com 140.205.61.87
+0.0.0.0 ns1.cnzz.com 110.75.162.225
+0.0.0.0 ns2.cnzz.com 203.209.254.28
+0.0.0.0 download.cnzz.com 106.11.248.2
+0.0.0.0 download.cnzz.com 106.11.61.141
+0.0.0.0 download.cnzz.com 140.205.248.8
+0.0.0.0 download.cnzz.com 140.205.61.87
+0.0.0.0 www.cnzz.com 203.119.169.43
+0.0.0.0 s3.cnzz.com 27.159.69.252
+0.0.0.0 smtp.cnzz.com 140.205.121.207
+0.0.0.0 help.cnzz.com 203.119.169.43
+0.0.0.0 mta.cnzz.com 110.75.0.74
+0.0.0.0 mta.cnzz.com 110.75.0.75
+0.0.0.0 news.games.com 212.82.100.150
+0.0.0.0 download.games.com 212.82.100.150
+0.0.0.0 beta.games.com 212.82.100.150
+0.0.0.0 blog.games.com 212.82.100.150
+0.0.0.0 mail.games.com 212.82.100.150
+0.0.0.0 www.games.com 212.82.100.150
+0.0.0.0 smtp.games.com 188.125.73.29
+0.0.0.0 dev.games.com 212.82.100.150
+0.0.0.0 www.pubghacking.net 198.54.117.210
+0.0.0.0 www.pubghacking.net 198.54.117.211
+0.0.0.0 www.pubghacking.net 198.54.117.212
+0.0.0.0 www.pubghacking.net 198.54.117.215
+0.0.0.0 www.pubghacking.net 198.54.117.216
+0.0.0.0 www.pubghacking.net 198.54.117.217
+0.0.0.0 www.pubghacking.net 198.54.117.218
+0.0.0.0 test.broker.tplay.qq.com 101.227.162.36
+0.0.0.0 test2.broker.tplay.qq.com 101.227.139.222
+0.0.0.0 dev.broker.tplay.qq.com 0.0.0.0
+0.0.0.0 mx.qq.com 0.0.0.0
+0.0.0.0 mx0.qq.com 0.0.0.0
+0.0.0.0 mx1.qq.com 58.251.110.111
+0.0.0.0 mx1.qq.com 240d:c040:1:40::133
+0.0.0.0 http.qq.com 180.163.26.39
+0.0.0.0 news.qq.com 2.20.80.77
+0.0.0.0 news.qq.com 2a02:26f0:de:186::180c
+0.0.0.0 news.qq.com 2a02:26f0:de:1a3::180c
+0.0.0.0 ads.qq.com 14.17.32.217
+0.0.0.0 test.qq.com 58.250.137.42
+0.0.0.0 ns.qq.com 0.0.0.0
+0.0.0.0 test1.qq.com 0.0.0.0
+0.0.0.0 testing.qq.com 0.0.0.0
+0.0.0.0 http.qq.com 240e:e1:a900:10::54
+0.0.0.0 id.qq.com 203.205.254.103
+0.0.0.0 vm.qq.com 0.0.0.0
+0.0.0.0 ns1.qq.com 101.89.19.165
+0.0.0.0 ns1.qq.com 157.255.246.101
+0.0.0.0 ns1.qq.com 183.3.226.207
+0.0.0.0 info.qq.com 0.0.0.0
+0.0.0.0 web.qq.com 0.0.0.0
+0.0.0.0 alpha.qq.com 0.0.0.0
+0.0.0.0 ns2.qq.com 121.51.160.100
+0.0.0.0 ns2.qq.com 123.151.66.78
+0.0.0.0 ns2.qq.com 203.205.177.41
+0.0.0.0 ns3.qq.com 112.60.1.69
+0.0.0.0 ns3.qq.com 183.192.201.116
+0.0.0.0 ap.qq.com 14.18.180.36
+0.0.0.0 dns.qq.com 119.29.29.229
+0.0.0.0 whois.qq.com 0.0.0.0
+0.0.0.0 apache.qq.com 0.0.0.0
+0.0.0.0 app.qq.com 203.205.235.38
+0.0.0.0 app.qq.com 203.205.235.63
+0.0.0.0 ipv6.qq.com 0.0.0.0
+0.0.0.0 ops.qq.com 0.0.0.0
+0.0.0.0 oracle.qq.com 0.0.0.0
+0.0.0.0 apps.qq.com 203.205.219.228
+0.0.0.0 wiki.qq.com 0.0.0.0
+0.0.0.0 www.qq.com 2a02:26f0:de:186::180c
+0.0.0.0 www.qq.com 2a02:26f0:de:1a3::180c
+0.0.0.0 auth.qq.com 0.0.0.0
+0.0.0.0 download.qq.com 0.0.0.0
+0.0.0.0 local.qq.com 163.177.90.84
+0.0.0.0 log.qq.com 101.227.160.36
+0.0.0.0 mail.qq.com 203.205.219.95
+0.0.0.0 en.qq.com 203.205.219.231
+0.0.0.0 backup.qq.com 0.0.0.0
+0.0.0.0 eshop.qq.com 203.205.235.38
+0.0.0.0 eshop.qq.com 203.205.235.63
+0.0.0.0 server.qq.com 0.0.0.0
+0.0.0.0 f5.qq.com 203.205.137.227
+0.0.0.0 f5.qq.com 203.205.137.232
+0.0.0.0 f5.qq.com 203.205.137.242
+0.0.0.0 f5.qq.com 203.205.137.29
+0.0.0.0 beta.qq.com 0.0.0.0
+0.0.0.0 shop.qq.com 150.109.206.38
+0.0.0.0 shop.qq.com 150.109.207.111
+0.0.0.0 shop.qq.com 203.205.137.113
+0.0.0.0 shop.qq.com 203.205.137.226
+0.0.0.0 blog.qq.com 180.163.26.39
+0.0.0.0 blog.qq.com 240e:e1:a900:10::54
+0.0.0.0 cdn.qq.com 0.0.0.0
+0.0.0.0 smtp.qq.com 203.205.232.7
+0.0.0.0 smtp.qq.com 240e:ff:f100:8019::6a
+0.0.0.0 chat.qq.com 0.0.0.0
+0.0.0.0 cms.qq.com 104.115.41.107
+0.0.0.0 corp.qq.com 0.0.0.0
+0.0.0.0 ssl.qq.com 203.205.254.103
+0.0.0.0 gw.qq.com 0.0.0.0
+0.0.0.0 mobile.qq.com 203.205.219.54
+0.0.0.0 help.qq.com 14.18.180.36
+0.0.0.0 demo.qq.com 0.0.0.0
+0.0.0.0 monitor.qq.com 0.0.0.0
+0.0.0.0 home.qq.com 0.0.0.0
+0.0.0.0 mta.qq.com 203.205.232.188
+0.0.0.0 test.broker.tplay.qq.com 101.227.162.36
+0.0.0.0 test2.broker.tplay.qq.com 101.227.139.222
+0.0.0.0 dev.broker.tplay.qq.com 0.0.0.0
+0.0.0.0 10.102.2.80
+0.0.0.0 10.102.3.68
+0.0.0.0 10.102.34.142
+0.0.0.0 13.56.53.3
+0.0.0.0 13.57.169.27
+0.0.0.0 36.99.36.26
+0.0.0.0 45.40.220.54
+0.0.0.0 45.40.220.123
+0.0.0.0 45.40.220.170
+0.0.0.0 45.40.220.225
+0.0.0.0 45.40.223.155
+0.0.0.0 49.51.42.152
+0.0.0.0 49.51.42.201
+0.0.0.0 49.51.66.101
+0.0.0.0 49.51.66.143
+0.0.0.0 49.51.66.225
+0.0.0.0 49.51.130.96
+0.0.0.0 49.51.235.24
+0.0.0.0 52.8.48.52
+0.0.0.0 54.183.61.55
+0.0.0.0 54.183.229.183
+0.0.0.0 54.215.231.4
+0.0.0.0 58.247.214.32
+0.0.0.0 61.91.221.42
+0.0.0.0 79.143.191.24
+0.0.0.0 92.123.225.19
+0.0.0.0 101.227.130.87
+0.0.0.0 115.159.100.85
+0.0.0.0 115.159.207.198
+0.0.0.0 119.28.109.60
+0.0.0.0 119.28.109.105
+0.0.0.0 119.28.109.187
+0.0.0.0 119.28.123.49
+0.0.0.0 119.28.123.95
+0.0.0.0 119.28.183.210
+0.0.0.0 119.28.229.113
+0.0.0.0 119.28.246.88
+0.0.0.0 119.28.248.88
+0.0.0.0 119.28.248.210
+0.0.0.0 119.28.249.45
+0.0.0.0 119.28.249.241
+0.0.0.0 119.28.250.54
+0.0.0.0 119.28.250.117
+0.0.0.0 119.28.250.154
+0.0.0.0 119.28.250.208
+0.0.0.0 119.28.251.21
+0.0.0.0 119.28.251.34
+0.0.0.0 119.28.251.119
+0.0.0.0 119.28.251.181
+0.0.0.0 119.28.252.27
+0.0.0.0 119.28.252.54
+0.0.0.0 119.28.252.55
+0.0.0.0 119.28.252.68
+0.0.0.0 119.28.252.108
+0.0.0.0 119.28.252.188
+0.0.0.0 120.55.138.35
+0.0.0.0 123.6.0.31
+0.0.0.0 123.6.0.63
+0.0.0.0 124.156.12.47
+0.0.0.0 124.156.12.61
+0.0.0.0 124.156.12.64
+0.0.0.0 124.156.12.68
+0.0.0.0 124.156.12.77
+0.0.0.0 124.156.12.100
+0.0.0.0 124.156.12.251
+0.0.0.0 124.156.13.47
+0.0.0.0 124.156.13.76
+0.0.0.0 124.156.13.130
+0.0.0.0 124.156.13.158
+0.0.0.0 124.156.17.235
+0.0.0.0 124.156.123.137
+0.0.0.0 140.207.54.57
+0.0.0.0 150.109.200.70
+0.0.0.0 157.230.110.142
+0.0.0.0 157.255.173.160
+0.0.0.0 173.223.1.29
+0.0.0.0 182.254.116.117
+0.0.0.0 182.254.243.228
+0.0.0.0 203.119.128.99
+0.0.0.0 203.205.128.130
+0.0.0.0 203.205.146.45
+0.0.0.0 203.205.151.14
+0.0.0.0 203.205.151.50
+0.0.0.0 203.205.158.60
+0.0.0.0 203.205.179.220
+0.0.0.0 203.205.211.75
+0.0.0.0 210.22.247.139
+0.0.0.0 210.22.249.229
+0.0.0.0 220.249.244.42
+0.0.0.0 223.167.86.106
+0.0.0.0 a92-123-225-19.deploy.static.akamaitechnologies.com
+0.0.0.0 a173-223-1-29.deploy.static.akamaitechnologies.com
+0.0.0.0 alog.umeng.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 apm.wetest.qq.com
+0.0.0.0 app-measurement.com
+0.0.0.0 app.adjust.com
+0.0.0.0 c.tdm.qq.com
+0.0.0.0 cdn.wetest.qq.com
+0.0.0.0 bchina-netcom.com
+0.0.0.0 chinaunicom.cn
+0.0.0.0 cloud.gsdk.proximabeta.com
+0.0.0.0 cs.mainconn.gamesafe.qq.com
+0.0.0.0 cs.mbgame.gamesafe.qq.com
+0.0.0.0 data.flurry.com
+0.0.0.0 djt.qq.com
+0.0.0.0 dlied1.qq.com
+0.0.0.0 bdown.qq.com
+0.0.0.0 file.igamecj.com
+0.0.0.0 filecdn.igamecj.com
+0.0.0.0 gsta.com
+0.0.0.0 hk.clientreport.gfm.qq.com
+0.0.0.0 hkconfig.gcloud.qq.com
+0.0.0.0 hkspeed.igamecj.com
+0.0.0.0 hn.kd.ny.adsl
+0.0.0.0 idc.dir.tdm.qq.com
+0.0.0.0 idc.receiver.tdm.qq.com
+0.0.0.0 idcconfig.gcloud.qq.com
+0.0.0.0 ig-us-notice.igamecj.com
+0.0.0.0 ig-us-sdkapi.igamecj.com
+0.0.0.0 intldlgs.qq.com
+0.0.0.0 jpush.html5.qq.com
+0.0.0.0 lobby.igamecj.com
+0.0.0.0 log.igamecj.com
+0.0.0.0 mta.qq.com
+0.0.0.0 mtt.eve.mdt.qq.com
+0.0.0.0 napubgm.broker.tplay.qq.com
+0.0.0.0 nawzryhwatm.broker.tplay.qq.com
+0.0.0.0 oth.eve.mdt.qq.com
+0.0.0.0 oth.eve.mdt.qq.com 
+0.0.0.0 oth.str.mdt.qq.com
+0.0.0.0 pandora.game.qq.com
+0.0.0.0 pingma.qq.com
+0.0.0.0 plbslog.umeng.com
+0.0.0.0 public.igamecj.com
+0.0.0.0 puffer.4.1375135419.igame.gcloudcs.com
+0.0.0.0 qos.hk.gcloudcs.com
+0.0.0.0 reverse.gdsz.cncnet.net
+0.0.0.0 szmg.qq.com
+0.0.0.0 test.mhzx.qq.com
+0.0.0.0 thirdwx.qlogo.cn
+0.0.0.0 tpns.qq.com
+0.0.0.0 tpns1.emam.com
+0.0.0.0 tw.clientreport.gfm.qq.com
+0.0.0.0 twlobby.igamecj.com
+0.0.0.0 ulogs.umeng.com
+0.0.0.0 ulogs.umengcloud.com
+0.0.0.0 yyb.eve.mdt.qq.com
+0.0.0.0 gameguardian.net
+0.0.0.0 lobby.igamecj.com
+0.0.0.0 krping.igamecj.com
+0.0.0.0 meping.igamecj.com
+0.0.0.0 saping.igamecj.com
+0.0.0.0 hkping.igamecj.com
+0.0.0.0 euping.igamecj.com
+0.0.0.0 naping.igamecj.com
+0.0.0.0 tencentgames.helpshift.com
+0.0.0.0 api.phenixos.com
+0.0.0.0 app.adjust.com
+0.0.0.0 192.168.1.1
+0.0.0.0 pay.igamecj.com
+0.0.0.0 49.51.66.143
+0.0.0.0 117.135.169.46
+0.0.0.0 49.51.66.225
+0.0.0.0 file-igamecj.akamaized.net
+0.0.0.0 file.igamecj.com
+0.0.0.0 49.51.42.99
+0.0.0.0 ig-us-notice.igamecj.com
+0.0.0.0 app-measurement.com
+0.0.0.0 ig-us-sdkapi.igamecj.com
+0.0.0.0 a92-123-225-19.deploy.static.akamaitechnologies.com
+0.0.0.0 a173-223-1-29.deploy.static.akamaitechnologies.com
+0.0.0.0 app.adjust.com
+0.0.0.0 file-igamecj.akamaized.net
+0.0.0.0 app-measurement.com
+0.0.0.0 rtb.astrodsp.com
+0.0.0.0 d3py17yaayq4xi.cloudfront.net
+0.0.0.0 sin.creativecdn.com
+0.0.0.0 statics-asia.creativecdn.com
+0.0.0.0 api.facebook.com
+0.0.0.0 data.flurry.com
+0.0.0.0 .gameguardian.net
+0.0.0.0 puffer.4.1375135419.igame.gcloudcs.com
+0.0.0.0 download.2.1375135419.igame.gcloudcs.com
+0.0.0.0 raw.githubusercontent.com
+0.0.0.0 .helpshift.com
+0.0.0.0 meping.igamecj.com
+0.0.0.0 file.igamecj.com
+0.0.0.0 euping.igamecj.com
+0.0.0.0 ig-us-notice.igamecj.com
+0.0.0.0 lobby.igamecj.com
+0.0.0.0 pay.igamecj.com
+0.0.0.0 filecdn.igamecj.com
+0.0.0.0 saping.igamecj.com
+0.0.0.0 krping.igamecj.com
+0.0.0.0 naping.igamecj.com
+0.0.0.0 public.igamecj.com
+0.0.0.0 cloud.gsdk.proximabeta.com
+0.0.0.0 www.pubgmobile.com
+0.0.0.0 q.qlogo.cn
+0.0.0.0 cs.mbgame.gamesafe.qq.com
+0.0.0.0 c.tdm.qq.com
+0.0.0.0 oth.str.mdt.qq.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 tpns.qq.com
+0.0.0.0 szmg.qq.com
+0.0.0.0 hk.api.unipay.qq.com
+0.0.0.0 cdn.wetest.qq.com
+0.0.0.0 oth.eve.mdt.qq.co
+0.0.0.0 down.qq.com
+0.0.0.0 pingma.qq.com
+0.0.0.0 dlied1.qq.com
+0.0.0.0 49.51.66.225 nawzryhwatm.broker.tplay.qq.com
+0.0.0.0 idconfig.gcloud.qq.com
+0.0.0.0 hkconfig.gcloud.qq.com
+0.0.0.0 idcconfig.gcloud.qq.com
+0.0.0.0 oth.update.mdt.qq.com
+0.0.0.0 pbs.twimg.com
+0.0.0.0 plbslog.umeng.com
+0.0.0.0 ulogs.umeng.com
+0.0.0.0 vmp.qq.com
+0.0.0.0 intldlgs.qq.com
+0.0.0.0 download.2.1950038955.igamekr.gcloudcs.com
+0.0.0.0 www.qq.com
+0.0.0.0 hkping.igamecj.com
+0.0.0.0 qos.hk.gcloudcs.com
+0.0.0.0 api.twitter.com
+0.0.0.0 ig-us-sdkapi.igamecj.com
+0.0.0.0 game.qq.com
+0.0.0.0 hk.voice.gcloudcs.com
+0.0.0.0 pingjs.qq.com
+0.0.0.0 thirdwx.qlogo.cn
+0.0.0.0 sg.voice.gcloudcs.com
+0.0.0.0 142.4.26.156 vipermodpremium.online
+0.0.0.0 .dlied1.qq.com
+0.0.0.0 csoversea.mbgame.gamesafe.qq.com
+219.0.33.155 localhost
+::1 ip6-localhost
+219.0.33.155 mx.qq.com 219.0.33.155
+219.0.33.155 mx0.qq.com 219.0.33.155
+219.0.33.155 http.qq.com 180.163.26.39
+219.0.33.155 http.qq.com 240e:e1:a900:10::54
+219.0.33.155 id.qq.com 203.205.254.103
+219.0.33.155 test.qq.com 58.250.137.42
+219.0.33.155 ads.qq.com 14.17.32.217
+219.0.33.155 mx1.qq.com 58.251.110.111
+219.0.33.155 mx1.qq.com 240d:c040:1:40::133
+219.0.33.155 test1.qq.com 219.0.33.155
+219.0.33.155 testing.qq.com 219.0.33.155
+219.0.33.155 news.qq.com 92.122.223.25
+219.0.33.155 news.qq.com 2a02:26f0:c000:195::180c
+219.0.33.155 news.qq.com 2a02:26f0:c000:197::180c
+219.0.33.155 vm.qq.com 219.0.33.155
+219.0.33.155 alpha.qq.com 219.0.33.155
+219.0.33.155 info.qq.com 219.0.33.155
+219.0.33.155 ns.qq.com 219.0.33.155
+219.0.33.155 dns.qq.com 119.29.29.229
+219.0.33.155 ns2.qq.com 121.51.160.100
+219.0.33.155 ns2.qq.com 123.151.66.78
+219.0.33.155 ns2.qq.com 203.205.177.41
+219.0.33.155 ipv6.qq.com 219.0.33.155
+219.0.33.155 app.qq.com 203.205.235.38
+219.0.33.155 app.qq.com 203.205.235.63
+219.0.33.155 web.qq.com 219.0.33.155
+219.0.33.155 apps.qq.com 203.205.219.228
+219.0.33.155 linux.qq.com 10.237.156.13
+219.0.33.155 ns3.qq.com 112.60.1.69
+219.0.33.155 ns3.qq.com 183.192.201.116
+219.0.33.155 whois.qq.com 219.0.33.155
+219.0.33.155 local.qq.com 163.177.90.84
+219.0.33.155 wiki.qq.com 219.0.33.155
+219.0.33.155 www.qq.com 23.52.54.109
+219.0.33.155 www.qq.com 2a02:26f0:c000:195::180c
+219.0.33.155 www.qq.com 2a02:26f0:c000:197::180c
+219.0.33.155 download.qq.com 219.0.33.155
+219.0.33.155 auth.qq.com 219.0.33.155
+219.0.33.155 en.qq.com 203.205.219.231
+219.0.33.155 log.qq.com 101.227.160.36
+219.0.33.155 backup.qq.com 219.0.33.155
+219.0.33.155 mail.qq.com 203.205.219.95
+219.0.33.155 mail.qq.com 203.205.235.161
+219.0.33.155 eshop.qq.com 203.205.235.38
+219.0.33.155 eshop.qq.com 203.205.235.63
+219.0.33.155 beta.qq.com 219.0.33.155
+219.0.33.155 blog.qq.com 180.163.26.39
+219.0.33.155 blog.qq.com 240e:e1:a900:10::54
+219.0.33.155 cdn.qq.com 219.0.33.155
+219.0.33.155 ops.qq.com 219.0.33.155
+219.0.33.155 oracle.qq.com 219.0.33.155
+219.0.33.155 chat.qq.com 219.0.33.155
+219.0.33.155 f5.qq.com 203.205.137.227
+219.0.33.155 f5.qq.com 203.205.137.232
+219.0.33.155 f5.qq.com 203.205.137.242
+219.0.33.155 f5.qq.com 203.205.137.29
+219.0.33.155 cms.qq.com 104.115.41.107
+219.0.33.155 corp.qq.com 219.0.33.155
+219.0.33.155 mobile.qq.com 203.205.219.54
+219.0.33.155 server.qq.com 219.0.33.155
+219.0.33.155 monitor.qq.com 219.0.33.155
+219.0.33.155 smtp.qq.com 203.205.232.7
+219.0.33.155 smtp.qq.com 240e:ff:f100:8019::6a
+219.0.33.155 demo.qq.com 219.0.33.155
+219.0.33.155 gw.qq.com 219.0.33.155
+219.0.33.155 help.qq.com 14.18.180.36
+219.0.33.155 home.qq.com 219.0.33.155
+219.0.33.155 ssl.qq.com 203.205.254.103
+219.0.33.155 ads.tencent.com 61.241.49.68
+219.0.33.155 id.tencent.com 219.0.33.155
+219.0.33.155 alpha.tencent.com 219.0.33.155
+219.0.33.155 test.tencent.com 58.250.137.25
+219.0.33.155 vpn.tencent.com 219.0.33.155
+219.0.33.155 ldap.tencent.com 10.14.0.130
+219.0.33.155 ldap.tencent.com 10.14.0.131
+219.0.33.155 mail.tencent.com 14.17.35.165
+219.0.33.155 mail2.tencent.com 163.177.67.195
+219.0.33.155 exchange.tencent.com 219.0.33.155
+219.0.33.155 wiki.tencent.com 219.0.33.155
+219.0.33.155 www.tencent.com 150.109.206.115
+219.0.33.155 www.tencent.com 150.109.206.154
+219.0.33.155 www.tencent.com 150.109.206.166
+219.0.33.155 www.tencent.com 150.109.206.35
+219.0.33.155 www.tencent.com 150.109.207.114
+219.0.33.155 www.tencent.com 150.109.207.81
+219.0.33.155 mail3.tencent.com 203.205.248.63
+219.0.33.155 cms.tencent.com 219.0.33.155
+219.0.33.155 corp.tencent.com 150.109.206.115
+219.0.33.155 corp.tencent.com 150.109.206.154
+219.0.33.155 corp.tencent.com 150.109.206.166
+219.0.33.155 corp.tencent.com 150.109.206.35
+219.0.33.155 corp.tencent.com 150.109.207.114
+219.0.33.155 corp.tencent.com 150.109.207.81
+219.0.33.155 mobile.tencent.com 219.0.33.155
+219.0.33.155 git.tencent.com 119.29.123.177
+219.0.33.155 dev.tencent.com 162.14.11.109
+219.0.33.155 help.tencent.com 80.231.241.66
+219.0.33.155 help.tencent.com 80.231.241.73
+219.0.33.155 ns1.hidehost.com 206.51.235.234
+219.0.33.155 ns2.hidehost.com 206.51.235.235
+219.0.33.155 ns2.hidehost.com 206.51.235.238
+219.0.33.155 mail.hidehost.com 206.51.235.234
+219.0.33.155 www.hidehost.com 206.51.235.234
+219.0.33.155 ftp.hidehost.com 206.51.235.234
+219.0.33.155 smtp.hidehost.com 206.51.235.234
+219.0.33.155 exchange.Ip.com 157.238.141.166
+219.0.33.155 mail.Ip.com 50.19.84.8
+219.0.33.155 www.Ip.com 64.111.96.109
+219.0.33.155 www2.Ip.com 157.238.141.169
+219.0.33.155 sip.Ip.com 52.113.64.147
+219.0.33.155 ftp.Ip.com 50.19.84.8
+219.0.33.155 sip.Ip.com 2603:1047::2:0:0:0:b
+219.0.33.155 *A: 96.45.82.10
+219.0.33.155 ns1.script.com 127.0.0.1
+219.0.33.155 ns2.script.com 127.0.0.1
+219.0.33.155 ns3.script.com 127.0.0.1
+219.0.33.155 mail.script.com 172.217.16.147
+219.0.33.155 mail.script.com 2a00:1450:4001:808::2013
+219.0.33.155 *A: 96.45.82.181
+219.0.33.155 mx.cnzz.com 42.120.219.135
+219.0.33.155 stats.cnzz.com 121.40.237.87
+219.0.33.155 test.cnzz.com 2401:b180:1:4::17
+219.0.33.155 app.cnzz.com 106.11.248.2
+219.0.33.155 app.cnzz.com 106.11.61.141
+219.0.33.155 app.cnzz.com 140.205.248.8
+219.0.33.155 app.cnzz.com 140.205.61.87
+219.0.33.155 ns1.cnzz.com 110.75.162.225
+219.0.33.155 ns2.cnzz.com 203.209.254.28
+219.0.33.155 download.cnzz.com 106.11.248.2
+219.0.33.155 download.cnzz.com 106.11.61.141
+219.0.33.155 download.cnzz.com 140.205.248.8
+219.0.33.155 download.cnzz.com 140.205.61.87
+219.0.33.155 www.cnzz.com 203.119.169.43
+219.0.33.155 s3.cnzz.com 27.159.69.252
+219.0.33.155 smtp.cnzz.com 140.205.121.207
+219.0.33.155 help.cnzz.com 203.119.169.43
+219.0.33.155 mta.cnzz.com 110.75.0.74
+219.0.33.155 mta.cnzz.com 110.75.0.75
+219.0.33.155 news.games.com 212.82.100.150
+219.0.33.155 download.games.com 212.82.100.150
+219.0.33.155 beta.games.com 212.82.100.150
+219.0.33.155 blog.games.com 212.82.100.150
+219.0.33.155 mail.games.com 212.82.100.150
+219.0.33.155 www.games.com 212.82.100.150
+219.0.33.155 smtp.games.com 188.125.73.29
+219.0.33.155 dev.games.com 212.82.100.150
+219.0.33.155 www.pubghacking.net 198.54.117.210
+219.0.33.155 www.pubghacking.net 198.54.117.211
+219.0.33.155 www.pubghacking.net 198.54.117.212
+219.0.33.155 www.pubghacking.net 198.54.117.215
+219.0.33.155 www.pubghacking.net 198.54.117.216
+219.0.33.155 www.pubghacking.net 198.54.117.217
+219.0.33.155 www.pubghacking.net 198.54.117.218
+219.0.33.155 test.broker.tplay.qq.com 101.227.162.36
+219.0.33.155 test2.broker.tplay.qq.com 101.227.139.222
+219.0.33.155 dev.broker.tplay.qq.com 219.0.33.155
+219.0.33.155 mx.qq.com 219.0.33.155
+219.0.33.155 mx0.qq.com 219.0.33.155
+219.0.33.155 mx1.qq.com 58.251.110.111
+219.0.33.155 mx1.qq.com 240d:c040:1:40::133
+219.0.33.155 http.qq.com 180.163.26.39
+219.0.33.155 news.qq.com 2.20.80.77
+219.0.33.155 news.qq.com 2a02:26f0:de:186::180c
+219.0.33.155 news.qq.com 2a02:26f0:de:1a3::180c
+219.0.33.155 ads.qq.com 14.17.32.217
+219.0.33.155 test.qq.com 58.250.137.42
+219.0.33.155 ns.qq.com 219.0.33.155
+219.0.33.155 test1.qq.com 219.0.33.155
+219.0.33.155 testing.qq.com 219.0.33.155
+219.0.33.155 http.qq.com 240e:e1:a900:10::54
+219.0.33.155 id.qq.com 203.205.254.103
+219.0.33.155 vm.qq.com 219.0.33.155
+219.0.33.155 ns1.qq.com 101.89.19.165
+219.0.33.155 ns1.qq.com 157.255.246.101
+219.0.33.155 ns1.qq.com 183.3.226.207
+219.0.33.155 info.qq.com 219.0.33.155
+219.0.33.155 web.qq.com 219.0.33.155
+219.0.33.155 alpha.qq.com 219.0.33.155
+219.0.33.155 ns2.qq.com 121.51.160.100
+219.0.33.155 ns2.qq.com 123.151.66.78
+219.0.33.155 ns2.qq.com 203.205.177.41
+219.0.33.155 ns3.qq.com 112.60.1.69
+219.0.33.155 ns3.qq.com 183.192.201.116
+219.0.33.155 ap.qq.com 14.18.180.36
+219.0.33.155 dns.qq.com 119.29.29.229
+219.0.33.155 whois.qq.com 219.0.33.155
+219.0.33.155 apache.qq.com 219.0.33.155
+219.0.33.155 app.qq.com 203.205.235.38
+219.0.33.155 app.qq.com 203.205.235.63
+219.0.33.155 ipv6.qq.com 219.0.33.155
+219.0.33.155 ops.qq.com 219.0.33.155
+219.0.33.155 oracle.qq.com 219.0.33.155
+219.0.33.155 apps.qq.com 203.205.219.228
+219.0.33.155 wiki.qq.com 219.0.33.155
+219.0.33.155 www.qq.com 2a02:26f0:de:186::180c
+219.0.33.155 www.qq.com 2a02:26f0:de:1a3::180c
+219.0.33.155 auth.qq.com 219.0.33.155
+219.0.33.155 download.qq.com 219.0.33.155
+219.0.33.155 local.qq.com 163.177.90.84
+219.0.33.155 log.qq.com 101.227.160.36
+219.0.33.155 mail.qq.com 203.205.219.95
+219.0.33.155 en.qq.com 203.205.219.231
+219.0.33.155 backup.qq.com 219.0.33.155
+219.0.33.155 eshop.qq.com 203.205.235.38
+219.0.33.155 eshop.qq.com 203.205.235.63
+219.0.33.155 server.qq.com 219.0.33.155
+219.0.33.155 f5.qq.com 203.205.137.227
+219.0.33.155 f5.qq.com 203.205.137.232
+219.0.33.155 f5.qq.com 203.205.137.242
+219.0.33.155 f5.qq.com 203.205.137.29
+219.0.33.155 beta.qq.com 219.0.33.155
+219.0.33.155 shop.qq.com 150.109.206.38
+219.0.33.155 shop.qq.com 150.109.207.111
+219.0.33.155 shop.qq.com 203.205.137.113
+219.0.33.155 shop.qq.com 203.205.137.226
+219.0.33.155 blog.qq.com 180.163.26.39
+219.0.33.155 blog.qq.com 240e:e1:a900:10::54
+219.0.33.155 cdn.qq.com 219.0.33.155
+219.0.33.155 smtp.qq.com 203.205.232.7
+219.0.33.155 smtp.qq.com 240e:ff:f100:8019::6a
+219.0.33.155 chat.qq.com 219.0.33.155
+219.0.33.155 cms.qq.com 104.115.41.107
+219.0.33.155 corp.qq.com 219.0.33.155
+219.0.33.155 ssl.qq.com 203.205.254.103
+219.0.33.155 gw.qq.com 219.0.33.155
+219.0.33.155 mobile.qq.com 203.205.219.54
+219.0.33.155 help.qq.com 14.18.180.36
+219.0.33.155 demo.qq.com 219.0.33.155
+219.0.33.155 monitor.qq.com 219.0.33.155
+219.0.33.155 home.qq.com 219.0.33.155
+219.0.33.155 mta.qq.com 203.205.232.188
+219.0.33.155 test.broker.tplay.qq.com 101.227.162.36
+219.0.33.155 test2.broker.tplay.qq.com 101.227.139.222
+219.0.33.155 dev.broker.tplay.qq.com 219.0.33.155
+219.0.33.155 10.102.2.80
+219.0.33.155 10.102.3.68
+219.0.33.155 10.102.34.142
+219.0.33.155 13.56.53.3
+219.0.33.155 13.57.169.27
+219.0.33.155 36.99.36.26
+219.0.33.155 45.40.220.54
+219.0.33.155 45.40.220.123
+219.0.33.155 45.40.220.170
+219.0.33.155 45.40.220.225
+219.0.33.155 45.40.223.155
+219.0.33.155 49.51.42.152
+219.0.33.155 49.51.42.201
+219.0.33.155 49.51.66.101
+219.0.33.155 49.51.66.143
+219.0.33.155 49.51.66.225
+219.0.33.155 49.51.130.96
+219.0.33.155 49.51.235.24
+219.0.33.155 52.8.48.52
+219.0.33.155 54.183.61.55
+219.0.33.155 54.183.229.183
+219.0.33.155 54.215.231.4
+219.0.33.155 58.247.214.32
+219.0.33.155 61.91.221.42
+219.0.33.155 79.143.191.24
+219.0.33.155 92.123.225.19
+219.0.33.155 101.227.130.87
+219.0.33.155 115.159.100.85
+219.0.33.155 115.159.207.198
+219.0.33.155 119.28.109.60
+219.0.33.155 119.28.109.105
+219.0.33.155 119.28.109.187
+219.0.33.155 119.28.123.49
+219.0.33.155 119.28.123.95
+219.0.33.155 119.28.183.210
+219.0.33.155 119.28.229.113
+219.0.33.155 119.28.246.88
+219.0.33.155 119.28.248.88
+219.0.33.155 119.28.248.210
+219.0.33.155 119.28.249.45
+219.0.33.155 119.28.249.241
+219.0.33.155 119.28.250.54
+219.0.33.155 119.28.250.117
+219.0.33.155 119.28.250.154
+219.0.33.155 119.28.250.208
+219.0.33.155 119.28.251.21
+219.0.33.155 119.28.251.34
+219.0.33.155 119.28.251.119
+219.0.33.155 119.28.251.181
+219.0.33.155 119.28.252.27
+219.0.33.155 119.28.252.54
+219.0.33.155 119.28.252.55
+219.0.33.155 119.28.252.68
+219.0.33.155 119.28.252.108
+219.0.33.155 119.28.252.188
+219.0.33.155 120.55.138.35
+219.0.33.155 123.6.0.31
+219.0.33.155 123.6.0.63
+219.0.33.155 124.156.12.47
+219.0.33.155 124.156.12.61
+219.0.33.155 124.156.12.64
+219.0.33.155 124.156.12.68
+219.0.33.155 124.156.12.77
+219.0.33.155 124.156.12.100
+219.0.33.155 124.156.12.251
+219.0.33.155 124.156.13.47
+219.0.33.155 124.156.13.76
+219.0.33.155 124.156.13.130
+219.0.33.155 124.156.13.158
+219.0.33.155 124.156.17.235
+219.0.33.155 124.156.123.137
+219.0.33.155 140.207.54.57
+219.0.33.155 150.109.200.70
+219.0.33.155 157.230.110.142
+219.0.33.155 157.255.173.160
+219.0.33.155 173.223.1.29
+219.0.33.155 182.254.116.117
+219.0.33.155 182.254.243.228
+219.0.33.155 203.119.128.99
+219.0.33.155 203.205.128.130
+219.0.33.155 203.205.146.45
+219.0.33.155 203.205.151.14
+219.0.33.155 203.205.151.50
+219.0.33.155 203.205.158.60
+219.0.33.155 203.205.179.220
+219.0.33.155 203.205.211.75
+219.0.33.155 210.22.247.139
+219.0.33.155 210.22.249.229
+219.0.33.155 220.249.244.42
+219.0.33.155 223.167.86.106
+219.0.33.155 a92-123-225-19.deploy.static.akamaitechnologies.com
+219.0.33.155 a173-223-1-29.deploy.static.akamaitechnologies.com
+219.0.33.155 alog.umeng.com
+219.0.33.155 android.bugly.qq.com
+219.0.33.155 apm.wetest.qq.com
+219.0.33.155 app-measurement.com
+219.0.33.155 app.adjust.com
+219.0.33.155 c.tdm.qq.com
+219.0.33.155 cdn.wetest.qq.com
+219.0.33.155 bchina-netcom.com
+219.0.33.155 chinaunicom.cn
+219.0.33.155 cloud.gsdk.proximabeta.com
+219.0.33.155 cs.mainconn.gamesafe.qq.com
+219.0.33.155 cs.mbgame.gamesafe.qq.com
+219.0.33.155 data.flurry.com
+219.0.33.155 djt.qq.com
+219.0.33.155 dlied1.qq.com
+219.0.33.155 bdown.qq.com
+219.0.33.155 file.igamecj.com
+219.0.33.155 filecdn.igamecj.com
+219.0.33.155 gsta.com
+219.0.33.155 hk.clientreport.gfm.qq.com
+219.0.33.155 hkconfig.gcloud.qq.com
+219.0.33.155 hkspeed.igamecj.com
+219.0.33.155 hn.kd.ny.adsl
+219.0.33.155 idc.dir.tdm.qq.com
+219.0.33.155 idc.receiver.tdm.qq.com
+219.0.33.155 idcconfig.gcloud.qq.com
+219.0.33.155 ig-us-notice.igamecj.com
+219.0.33.155 ig-us-sdkapi.igamecj.com
+219.0.33.155 intldlgs.qq.com
+219.0.33.155 jpush.html5.qq.com
+219.0.33.155 lobby.igamecj.com
+219.0.33.155 log.igamecj.com
+219.0.33.155 mta.qq.com
+219.0.33.155 mtt.eve.mdt.qq.com
+219.0.33.155 napubgm.broker.tplay.qq.com
+219.0.33.155 nawzryhwatm.broker.tplay.qq.com
+219.0.33.155 oth.eve.mdt.qq.com
+219.0.33.155 oth.eve.mdt.qq.com 
+219.0.33.155 oth.str.mdt.qq.com
+219.0.33.155 pandora.game.qq.com
+219.0.33.155 pingma.qq.com
+219.0.33.155 plbslog.umeng.com
+219.0.33.155 public.igamecj.com
+219.0.33.155 puffer.4.1375135419.igame.gcloudcs.com
+219.0.33.155 qos.hk.gcloudcs.com
+219.0.33.155 reverse.gdsz.cncnet.net
+219.0.33.155 szmg.qq.com
+219.0.33.155 test.mhzx.qq.com
+219.0.33.155 thirdwx.qlogo.cn
+219.0.33.155 tpns.qq.com
+219.0.33.155 tpns1.emam.com
+219.0.33.155 tw.clientreport.gfm.qq.com
+219.0.33.155 twlobby.igamecj.com
+219.0.33.155 ulogs.umeng.com
+219.0.33.155 ulogs.umengcloud.com
+219.0.33.155 yyb.eve.mdt.qq.com
+219.0.33.155 gameguardian.net
+219.0.33.155 lobby.igamecj.com
+219.0.33.155 krping.igamecj.com
+219.0.33.155 meping.igamecj.com
+219.0.33.155 saping.igamecj.com
+219.0.33.155 hkping.igamecj.com
+219.0.33.155 euping.igamecj.com
+219.0.33.155 naping.igamecj.com
+219.0.33.155 tencentgames.helpshift.com
+219.0.33.155 api.phenixos.com
+219.0.33.155 app.adjust.com
+219.0.33.155 192.168.1.1
+219.0.33.155 pay.igamecj.com
+219.0.33.155 49.51.66.143
+219.0.33.155 117.135.169.46
+219.0.33.155 49.51.66.225
+219.0.33.155 file-igamecj.akamaized.net
+219.0.33.155 file.igamecj.com
+219.0.33.155 49.51.42.99
+219.0.33.155 ig-us-notice.igamecj.com
+219.0.33.155 app-measurement.com
+219.0.33.155 ig-us-sdkapi.igamecj.com
+219.0.33.155 a92-123-225-19.deploy.static.akamaitechnologies.com
+219.0.33.155 a173-223-1-29.deploy.static.akamaitechnologies.com
+219.0.33.155 app.adjust.com
+219.0.33.155 file-igamecj.akamaized.net
+219.0.33.155 app-measurement.com
+219.0.33.155 rtb.astrodsp.com
+219.0.33.155 d3py17yaayq4xi.cloudfront.net
+219.0.33.155 sin.creativecdn.com
+219.0.33.155 statics-asia.creativecdn.com
+219.0.33.155 api.facebook.com
+219.0.33.155 data.flurry.com
+219.0.33.155 .gameguardian.net
+219.0.33.155 puffer.4.1375135419.igame.gcloudcs.com
+219.0.33.155 download.2.1375135419.igame.gcloudcs.com
+219.0.33.155 raw.githubusercontent.com
+219.0.33.155 .helpshift.com
+219.0.33.155 meping.igamecj.com
+219.0.33.155 file.igamecj.com
+219.0.33.155 euping.igamecj.com
+219.0.33.155 ig-us-notice.igamecj.com
+219.0.33.155 lobby.igamecj.com
+219.0.33.155 pay.igamecj.com
+219.0.33.155 filecdn.igamecj.com
+219.0.33.155 saping.igamecj.com
+219.0.33.155 krping.igamecj.com
+219.0.33.155 naping.igamecj.com
+219.0.33.155 public.igamecj.com
+219.0.33.155 cloud.gsdk.proximabeta.com
+219.0.33.155 www.pubgmobile.com
+219.0.33.155 q.qlogo.cn
+219.0.33.155 cs.mbgame.gamesafe.qq.com
+219.0.33.155 c.tdm.qq.com
+219.0.33.155 oth.str.mdt.qq.com
+219.0.33.155 android.bugly.qq.com
+219.0.33.155 tpns.qq.com
+219.0.33.155 szmg.qq.com
+219.0.33.155 hk.api.unipay.qq.com
+219.0.33.155 cdn.wetest.qq.com
+219.0.33.155 oth.eve.mdt.qq.co
+219.0.33.155 down.qq.com
+219.0.33.155 pingma.qq.com
+219.0.33.155 dlied1.qq.com
+219.0.33.155 49.51.66.225 nawzryhwatm.broker.tplay.qq.com
+219.0.33.155 idconfig.gcloud.qq.com
+219.0.33.155 hkconfig.gcloud.qq.com
+219.0.33.155 idcconfig.gcloud.qq.com
+219.0.33.155 oth.update.mdt.qq.com
+219.0.33.155 pbs.twimg.com
+219.0.33.155 plbslog.umeng.com
+219.0.33.155 ulogs.umeng.com
+219.0.33.155 vmp.qq.com
+219.0.33.155 intldlgs.qq.com
+219.0.33.155 download.2.1950038955.igamekr.gcloudcs.com
+219.0.33.155 www.qq.com
+219.0.33.155 hkping.igamecj.com
+219.0.33.155 qos.hk.gcloudcs.com
+219.0.33.155 api.twitter.com
+219.0.33.155 ig-us-sdkapi.igamecj.com
+219.0.33.155 game.qq.com
+219.0.33.155 hk.voice.gcloudcs.com
+219.0.33.155 pingjs.qq.com
+219.0.33.155 thirdwx.qlogo.cn
+219.0.33.155 sg.voice.gcloudcs.com
+219.0.33.155 142.4.26.156 vipermodpremium.online
+219.0.33.155 .dlied1.qq.com
+219.0.33.155 csoversea.mbgame.gamesafe.qq.com
+99.222.111.11 localhost
+::1 ip6-localhost
+99.222.111.11 mx.qq.com 99.222.111.11
+99.222.111.11 mx0.qq.com 99.222.111.11
+99.222.111.11 http.qq.com 180.163.26.39
+99.222.111.11 http.qq.com 240e:e1:a900:10::54
+99.222.111.11 id.qq.com 203.205.254.103
+99.222.111.11 test.qq.com 58.250.137.42
+99.222.111.11 ads.qq.com 14.17.32.217
+99.222.111.11 mx1.qq.com 58.251.110.111
+99.222.111.11 mx1.qq.com 240d:c040:1:40::133
+99.222.111.11 test1.qq.com 99.222.111.11
+99.222.111.11 testing.qq.com 99.222.111.11
+99.222.111.11 news.qq.com 92.122.223.25
+99.222.111.11 news.qq.com 2a02:26f0:c000:195::180c
+99.222.111.11 news.qq.com 2a02:26f0:c000:197::180c
+99.222.111.11 vm.qq.com 99.222.111.11
+99.222.111.11 alpha.qq.com 99.222.111.11
+99.222.111.11 info.qq.com 99.222.111.11
+99.222.111.11 ns.qq.com 99.222.111.11
+99.222.111.11 dns.qq.com 119.29.29.229
+99.222.111.11 ns2.qq.com 121.51.160.100
+99.222.111.11 ns2.qq.com 123.151.66.78
+99.222.111.11 ns2.qq.com 203.205.177.41
+99.222.111.11 ipv6.qq.com 99.222.111.11
+99.222.111.11 app.qq.com 203.205.235.38
+99.222.111.11 app.qq.com 203.205.235.63
+99.222.111.11 web.qq.com 99.222.111.11
+99.222.111.11 apps.qq.com 203.205.219.228
+99.222.111.11 linux.qq.com 10.237.156.13
+99.222.111.11 ns3.qq.com 112.60.1.69
+99.222.111.11 ns3.qq.com 183.192.201.116
+99.222.111.11 whois.qq.com 99.222.111.11
+99.222.111.11 local.qq.com 163.177.90.84
+99.222.111.11 wiki.qq.com 99.222.111.11
+99.222.111.11 www.qq.com 23.52.54.109
+99.222.111.11 www.qq.com 2a02:26f0:c000:195::180c
+99.222.111.11 www.qq.com 2a02:26f0:c000:197::180c
+99.222.111.11 download.qq.com 99.222.111.11
+99.222.111.11 auth.qq.com 99.222.111.11
+99.222.111.11 en.qq.com 203.205.219.231
+99.222.111.11 log.qq.com 101.227.160.36
+99.222.111.11 backup.qq.com 99.222.111.11
+99.222.111.11 mail.qq.com 203.205.219.95
+99.222.111.11 mail.qq.com 203.205.235.161
+99.222.111.11 eshop.qq.com 203.205.235.38
+99.222.111.11 eshop.qq.com 203.205.235.63
+99.222.111.11 beta.qq.com 99.222.111.11
+99.222.111.11 blog.qq.com 180.163.26.39
+99.222.111.11 blog.qq.com 240e:e1:a900:10::54
+99.222.111.11 cdn.qq.com 99.222.111.11
+99.222.111.11 ops.qq.com 99.222.111.11
+99.222.111.11 oracle.qq.com 99.222.111.11
+99.222.111.11 chat.qq.com 99.222.111.11
+99.222.111.11 f5.qq.com 203.205.137.227
+99.222.111.11 f5.qq.com 203.205.137.232
+99.222.111.11 f5.qq.com 203.205.137.242
+99.222.111.11 f5.qq.com 203.205.137.29
+99.222.111.11 cms.qq.com 104.115.41.107
+99.222.111.11 corp.qq.com 99.222.111.11
+99.222.111.11 mobile.qq.com 203.205.219.54
+99.222.111.11 server.qq.com 99.222.111.11
+99.222.111.11 monitor.qq.com 99.222.111.11
+99.222.111.11 smtp.qq.com 203.205.232.7
+99.222.111.11 smtp.qq.com 240e:ff:f100:8019::6a
+99.222.111.11 demo.qq.com 99.222.111.11
+99.222.111.11 gw.qq.com 99.222.111.11
+99.222.111.11 help.qq.com 14.18.180.36
+99.222.111.11 home.qq.com 99.222.111.11
+99.222.111.11 ssl.qq.com 203.205.254.103
+99.222.111.11 ads.tencent.com 61.241.49.68
+99.222.111.11 id.tencent.com 99.222.111.11
+99.222.111.11 alpha.tencent.com 99.222.111.11
+99.222.111.11 test.tencent.com 58.250.137.25
+99.222.111.11 vpn.tencent.com 99.222.111.11
+99.222.111.11 ldap.tencent.com 10.14.0.130
+99.222.111.11 ldap.tencent.com 10.14.0.131
+99.222.111.11 mail.tencent.com 14.17.35.165
+99.222.111.11 mail2.tencent.com 163.177.67.195
+99.222.111.11 exchange.tencent.com 99.222.111.11
+99.222.111.11 wiki.tencent.com 99.222.111.11
+99.222.111.11 www.tencent.com 150.109.206.115
+99.222.111.11 www.tencent.com 150.109.206.154
+99.222.111.11 www.tencent.com 150.109.206.166
+99.222.111.11 www.tencent.com 150.109.206.35
+99.222.111.11 www.tencent.com 150.109.207.114
+99.222.111.11 www.tencent.com 150.109.207.81
+99.222.111.11 mail3.tencent.com 203.205.248.63
+99.222.111.11 cms.tencent.com 99.222.111.11
+99.222.111.11 corp.tencent.com 150.109.206.115
+99.222.111.11 corp.tencent.com 150.109.206.154
+99.222.111.11 corp.tencent.com 150.109.206.166
+99.222.111.11 corp.tencent.com 150.109.206.35
+99.222.111.11 corp.tencent.com 150.109.207.114
+99.222.111.11 corp.tencent.com 150.109.207.81
+99.222.111.11 mobile.tencent.com 99.222.111.11
+99.222.111.11 git.tencent.com 119.29.123.177
+99.222.111.11 dev.tencent.com 162.14.11.109
+99.222.111.11 help.tencent.com 80.231.241.66
+99.222.111.11 help.tencent.com 80.231.241.73
+99.222.111.11 ns1.hidehost.com 206.51.235.234
+99.222.111.11 ns2.hidehost.com 206.51.235.235
+99.222.111.11 ns2.hidehost.com 206.51.235.238
+99.222.111.11 mail.hidehost.com 206.51.235.234
+99.222.111.11 www.hidehost.com 206.51.235.234
+99.222.111.11 ftp.hidehost.com 206.51.235.234
+99.222.111.11 smtp.hidehost.com 206.51.235.234
+99.222.111.11 exchange.Ip.com 157.238.141.166
+99.222.111.11 mail.Ip.com 50.19.84.8
+99.222.111.11 www.Ip.com 64.111.96.109
+99.222.111.11 www2.Ip.com 157.238.141.169
+99.222.111.11 sip.Ip.com 52.113.64.147
+99.222.111.11 ftp.Ip.com 50.19.84.8
+99.222.111.11 sip.Ip.com 2603:1047::2:0:0:0:b
+99.222.111.11 *A: 96.45.82.10
+99.222.111.11 ns1.script.com 127.0.0.1
+99.222.111.11 ns2.script.com 127.0.0.1
+99.222.111.11 ns3.script.com 127.0.0.1
+99.222.111.11 mail.script.com 172.217.16.147
+99.222.111.11 mail.script.com 2a00:1450:4001:808::2013
+99.222.111.11 *A: 96.45.82.181
+99.222.111.11 mx.cnzz.com 42.120.219.135
+99.222.111.11 stats.cnzz.com 121.40.237.87
+99.222.111.11 test.cnzz.com 2401:b180:1:4::17
+99.222.111.11 app.cnzz.com 106.11.248.2
+99.222.111.11 app.cnzz.com 106.11.61.141
+99.222.111.11 app.cnzz.com 140.205.248.8
+99.222.111.11 app.cnzz.com 140.205.61.87
+99.222.111.11 ns1.cnzz.com 110.75.162.225
+99.222.111.11 ns2.cnzz.com 203.209.254.28
+99.222.111.11 download.cnzz.com 106.11.248.2
+99.222.111.11 download.cnzz.com 106.11.61.141
+99.222.111.11 download.cnzz.com 140.205.248.8
+99.222.111.11 download.cnzz.com 140.205.61.87
+99.222.111.11 www.cnzz.com 203.119.169.43
+99.222.111.11 s3.cnzz.com 27.159.69.252
+99.222.111.11 smtp.cnzz.com 140.205.121.207
+99.222.111.11 help.cnzz.com 203.119.169.43
+99.222.111.11 mta.cnzz.com 110.75.0.74
+99.222.111.11 mta.cnzz.com 110.75.0.75
+99.222.111.11 news.games.com 212.82.100.150
+99.222.111.11 download.games.com 212.82.100.150
+99.222.111.11 beta.games.com 212.82.100.150
+99.222.111.11 blog.games.com 212.82.100.150
+99.222.111.11 mail.games.com 212.82.100.150
+99.222.111.11 www.games.com 212.82.100.150
+99.222.111.11 smtp.games.com 188.125.73.29
+99.222.111.11 dev.games.com 212.82.100.150
+99.222.111.11 www.pubghacking.net 198.54.117.210
+99.222.111.11 www.pubghacking.net 198.54.117.211
+99.222.111.11 www.pubghacking.net 198.54.117.212
+99.222.111.11 www.pubghacking.net 198.54.117.215
+99.222.111.11 www.pubghacking.net 198.54.117.216
+99.222.111.11 www.pubghacking.net 198.54.117.217
+99.222.111.11 www.pubghacking.net 198.54.117.218
+99.222.111.11 test.broker.tplay.qq.com 101.227.162.36
+99.222.111.11 test2.broker.tplay.qq.com 101.227.139.222
+99.222.111.11 dev.broker.tplay.qq.com 99.222.111.11
+99.222.111.11 mx.qq.com 99.222.111.11
+99.222.111.11 mx0.qq.com 99.222.111.11
+99.222.111.11 mx1.qq.com 58.251.110.111
+99.222.111.11 mx1.qq.com 240d:c040:1:40::133
+99.222.111.11 http.qq.com 180.163.26.39
+99.222.111.11 news.qq.com 2.20.80.77
+99.222.111.11 news.qq.com 2a02:26f0:de:186::180c
+99.222.111.11 news.qq.com 2a02:26f0:de:1a3::180c
+99.222.111.11 ads.qq.com 14.17.32.217
+99.222.111.11 test.qq.com 58.250.137.42
+99.222.111.11 ns.qq.com 99.222.111.11
+99.222.111.11 test1.qq.com 99.222.111.11
+99.222.111.11 testing.qq.com 99.222.111.11
+99.222.111.11 http.qq.com 240e:e1:a900:10::54
+99.222.111.11 id.qq.com 203.205.254.103
+99.222.111.11 vm.qq.com 99.222.111.11
+99.222.111.11 ns1.qq.com 101.89.19.165
+99.222.111.11 ns1.qq.com 157.255.246.101
+99.222.111.11 ns1.qq.com 183.3.226.207
+99.222.111.11 info.qq.com 99.222.111.11
+99.222.111.11 web.qq.com 99.222.111.11
+99.222.111.11 alpha.qq.com 99.222.111.11
+99.222.111.11 ns2.qq.com 121.51.160.100
+99.222.111.11 ns2.qq.com 123.151.66.78
+99.222.111.11 ns2.qq.com 203.205.177.41
+99.222.111.11 ns3.qq.com 112.60.1.69
+99.222.111.11 ns3.qq.com 183.192.201.116
+99.222.111.11 ap.qq.com 14.18.180.36
+99.222.111.11 dns.qq.com 119.29.29.229
+99.222.111.11 whois.qq.com 99.222.111.11
+99.222.111.11 apache.qq.com 99.222.111.11
+99.222.111.11 app.qq.com 203.205.235.38
+99.222.111.11 app.qq.com 203.205.235.63
+99.222.111.11 ipv6.qq.com 99.222.111.11
+99.222.111.11 ops.qq.com 99.222.111.11
+99.222.111.11 oracle.qq.com 99.222.111.11
+99.222.111.11 apps.qq.com 203.205.219.228
+99.222.111.11 wiki.qq.com 99.222.111.11
+99.222.111.11 www.qq.com 2a02:26f0:de:186::180c
+99.222.111.11 www.qq.com 2a02:26f0:de:1a3::180c
+99.222.111.11 auth.qq.com 99.222.111.11
+99.222.111.11 download.qq.com 99.222.111.11
+99.222.111.11 local.qq.com 163.177.90.84
+99.222.111.11 log.qq.com 101.227.160.36
+99.222.111.11 mail.qq.com 203.205.219.95
+99.222.111.11 en.qq.com 203.205.219.231
+99.222.111.11 backup.qq.com 99.222.111.11
+99.222.111.11 eshop.qq.com 203.205.235.38
+99.222.111.11 eshop.qq.com 203.205.235.63
+99.222.111.11 server.qq.com 99.222.111.11
+99.222.111.11 f5.qq.com 203.205.137.227
+99.222.111.11 f5.qq.com 203.205.137.232
+99.222.111.11 f5.qq.com 203.205.137.242
+99.222.111.11 f5.qq.com 203.205.137.29
+99.222.111.11 beta.qq.com 99.222.111.11
+99.222.111.11 shop.qq.com 150.109.206.38
+99.222.111.11 shop.qq.com 150.109.207.111
+99.222.111.11 shop.qq.com 203.205.137.113
+99.222.111.11 shop.qq.com 203.205.137.226
+99.222.111.11 blog.qq.com 180.163.26.39
+99.222.111.11 blog.qq.com 240e:e1:a900:10::54
+99.222.111.11 cdn.qq.com 99.222.111.11
+99.222.111.11 smtp.qq.com 203.205.232.7
+99.222.111.11 smtp.qq.com 240e:ff:f100:8019::6a
+99.222.111.11 chat.qq.com 99.222.111.11
+99.222.111.11 cms.qq.com 104.115.41.107
+99.222.111.11 corp.qq.com 99.222.111.11
+99.222.111.11 ssl.qq.com 203.205.254.103
+99.222.111.11 gw.qq.com 99.222.111.11
+99.222.111.11 mobile.qq.com 203.205.219.54
+99.222.111.11 help.qq.com 14.18.180.36
+99.222.111.11 demo.qq.com 99.222.111.11
+99.222.111.11 monitor.qq.com 99.222.111.11
+99.222.111.11 home.qq.com 99.222.111.11
+99.222.111.11 mta.qq.com 203.205.232.188
+99.222.111.11 test.broker.tplay.qq.com 101.227.162.36
+99.222.111.11 test2.broker.tplay.qq.com 101.227.139.222
+99.222.111.11 dev.broker.tplay.qq.com 99.222.111.11
+99.222.111.11 10.102.2.80
+99.222.111.11 10.102.3.68
+99.222.111.11 10.102.34.142
+99.222.111.11 13.56.53.3
+99.222.111.11 13.57.169.27
+99.222.111.11 36.99.36.26
+99.222.111.11 45.40.220.54
+99.222.111.11 45.40.220.123
+99.222.111.11 45.40.220.170
+99.222.111.11 45.40.220.225
+99.222.111.11 45.40.223.155
+99.222.111.11 49.51.42.152
+99.222.111.11 49.51.42.201
+99.222.111.11 49.51.66.101
+99.222.111.11 49.51.66.143
+99.222.111.11 49.51.66.225
+99.222.111.11 49.51.130.96
+99.222.111.11 49.51.235.24
+99.222.111.11 52.8.48.52
+99.222.111.11 54.183.61.55
+99.222.111.11 54.183.229.183
+99.222.111.11 54.215.231.4
+99.222.111.11 58.247.214.32
+99.222.111.11 61.91.221.42
+99.222.111.11 79.143.191.24
+99.222.111.11 92.123.225.19
+99.222.111.11 101.227.130.87
+99.222.111.11 115.159.100.85
+99.222.111.11 115.159.207.198
+99.222.111.11 119.28.109.60
+99.222.111.11 119.28.109.105
+99.222.111.11 119.28.109.187
+99.222.111.11 119.28.123.49
+99.222.111.11 119.28.123.95
+99.222.111.11 119.28.183.210
+99.222.111.11 119.28.229.113
+99.222.111.11 119.28.246.88
+99.222.111.11 119.28.248.88
+99.222.111.11 119.28.248.210
+99.222.111.11 119.28.249.45
+99.222.111.11 119.28.249.241
+99.222.111.11 119.28.250.54
+99.222.111.11 119.28.250.117
+99.222.111.11 119.28.250.154
+99.222.111.11 119.28.250.208
+99.222.111.11 119.28.251.21
+99.222.111.11 119.28.251.34
+99.222.111.11 119.28.251.119
+99.222.111.11 119.28.251.181
+99.222.111.11 119.28.252.27
+99.222.111.11 119.28.252.54
+99.222.111.11 119.28.252.55
+99.222.111.11 119.28.252.68
+99.222.111.11 119.28.252.108
+99.222.111.11 119.28.252.188
+99.222.111.11 120.55.138.35
+99.222.111.11 123.6.0.31
+99.222.111.11 123.6.0.63
+99.222.111.11 124.156.12.47
+99.222.111.11 124.156.12.61
+99.222.111.11 124.156.12.64
+99.222.111.11 124.156.12.68
+99.222.111.11 124.156.12.77
+99.222.111.11 124.156.12.100
+99.222.111.11 124.156.12.251
+99.222.111.11 124.156.13.47
+99.222.111.11 124.156.13.76
+99.222.111.11 124.156.13.130
+99.222.111.11 124.156.13.158
+99.222.111.11 124.156.17.235
+99.222.111.11 124.156.123.137
+99.222.111.11 140.207.54.57
+99.222.111.11 150.109.200.70
+99.222.111.11 157.230.110.142
+99.222.111.11 157.255.173.160
+99.222.111.11 173.223.1.29
+99.222.111.11 182.254.116.117
+99.222.111.11 182.254.243.228
+99.222.111.11 203.119.128.99
+99.222.111.11 203.205.128.130
+99.222.111.11 203.205.146.45
+99.222.111.11 203.205.151.14
+99.222.111.11 203.205.151.50
+99.222.111.11 203.205.158.60
+99.222.111.11 203.205.179.220
+99.222.111.11 203.205.211.75
+99.222.111.11 210.22.247.139
+99.222.111.11 210.22.249.229
+99.222.111.11 220.249.244.42
+99.222.111.11 223.167.86.106
+99.222.111.11 a92-123-225-19.deploy.static.akamaitechnologies.com
+99.222.111.11 a173-223-1-29.deploy.static.akamaitechnologies.com
+99.222.111.11 alog.umeng.com
+99.222.111.11 android.bugly.qq.com
+99.222.111.11 apm.wetest.qq.com
+99.222.111.11 app-measurement.com
+99.222.111.11 app.adjust.com
+99.222.111.11 c.tdm.qq.com
+99.222.111.11 cdn.wetest.qq.com
+99.222.111.11 bchina-netcom.com
+99.222.111.11 chinaunicom.cn
+99.222.111.11 cloud.gsdk.proximabeta.com
+99.222.111.11 cs.mainconn.gamesafe.qq.com
+99.222.111.11 cs.mbgame.gamesafe.qq.com
+99.222.111.11 data.flurry.com
+99.222.111.11 djt.qq.com
+99.222.111.11 dlied1.qq.com
+99.222.111.11 bdown.qq.com
+99.222.111.11 file.igamecj.com
+99.222.111.11 filecdn.igamecj.com
+99.222.111.11 gsta.com
+99.222.111.11 hk.clientreport.gfm.qq.com
+99.222.111.11 hkconfig.gcloud.qq.com
+99.222.111.11 hkspeed.igamecj.com
+99.222.111.11 hn.kd.ny.adsl
+99.222.111.11 idc.dir.tdm.qq.com
+99.222.111.11 idc.receiver.tdm.qq.com
+99.222.111.11 idcconfig.gcloud.qq.com
+99.222.111.11 ig-us-notice.igamecj.com
+99.222.111.11 ig-us-sdkapi.igamecj.com
+99.222.111.11 intldlgs.qq.com
+99.222.111.11 jpush.html5.qq.com
+99.222.111.11 lobby.igamecj.com
+99.222.111.11 log.igamecj.com
+99.222.111.11 mta.qq.com
+99.222.111.11 mtt.eve.mdt.qq.com
+99.222.111.11 napubgm.broker.tplay.qq.com
+99.222.111.11 nawzryhwatm.broker.tplay.qq.com
+99.222.111.11 oth.eve.mdt.qq.com
+99.222.111.11 oth.eve.mdt.qq.com 
+99.222.111.11 oth.str.mdt.qq.com
+99.222.111.11 pandora.game.qq.com
+99.222.111.11 pingma.qq.com
+99.222.111.11 plbslog.umeng.com
+99.222.111.11 public.igamecj.com
+99.222.111.11 puffer.4.1375135419.igame.gcloudcs.com
+99.222.111.11 qos.hk.gcloudcs.com
+99.222.111.11 reverse.gdsz.cncnet.net
+99.222.111.11 szmg.qq.com
+99.222.111.11 test.mhzx.qq.com
+99.222.111.11 thirdwx.qlogo.cn
+99.222.111.11 tpns.qq.com
+99.222.111.11 tpns1.emam.com
+99.222.111.11 tw.clientreport.gfm.qq.com
+99.222.111.11 twlobby.igamecj.com
+99.222.111.11 ulogs.umeng.com
+99.222.111.11 ulogs.umengcloud.com
+99.222.111.11 yyb.eve.mdt.qq.com
+99.222.111.11 gameguardian.net
+99.222.111.11 lobby.igamecj.com
+99.222.111.11 krping.igamecj.com
+99.222.111.11 meping.igamecj.com
+99.222.111.11 saping.igamecj.com
+99.222.111.11 hkping.igamecj.com
+99.222.111.11 euping.igamecj.com
+99.222.111.11 naping.igamecj.com
+99.222.111.11 tencentgames.helpshift.com
+99.222.111.11 api.phenixos.com
+99.222.111.11 app.adjust.com
+99.222.111.11 192.168.1.1
+99.222.111.11 pay.igamecj.com
+99.222.111.11 49.51.66.143
+99.222.111.11 117.135.169.46
+99.222.111.11 49.51.66.225
+99.222.111.11 file-igamecj.akamaized.net
+99.222.111.11 file.igamecj.com
+99.222.111.11 49.51.42.99
+99.222.111.11 ig-us-notice.igamecj.com
+99.222.111.11 app-measurement.com
+99.222.111.11 ig-us-sdkapi.igamecj.com
+99.222.111.11 a92-123-225-19.deploy.static.akamaitechnologies.com
+99.222.111.11 a173-223-1-29.deploy.static.akamaitechnologies.com
+99.222.111.11 app.adjust.com
+99.222.111.11 file-igamecj.akamaized.net
+99.222.111.11 app-measurement.com
+99.222.111.11 rtb.astrodsp.com
+99.222.111.11 d3py17yaayq4xi.cloudfront.net
+99.222.111.11 sin.creativecdn.com
+99.222.111.11 statics-asia.creativecdn.com
+99.222.111.11 api.facebook.com
+99.222.111.11 data.flurry.com
+99.222.111.11 .gameguardian.net
+99.222.111.11 puffer.4.1375135419.igame.gcloudcs.com
+99.222.111.11 download.2.1375135419.igame.gcloudcs.com
+99.222.111.11 raw.githubusercontent.com
+99.222.111.11 .helpshift.com
+99.222.111.11 meping.igamecj.com
+99.222.111.11 file.igamecj.com
+99.222.111.11 euping.igamecj.com
+99.222.111.11 ig-us-notice.igamecj.com
+99.222.111.11 lobby.igamecj.com
+99.222.111.11 pay.igamecj.com
+99.222.111.11 filecdn.igamecj.com
+99.222.111.11 saping.igamecj.com
+99.222.111.11 krping.igamecj.com
+99.222.111.11 naping.igamecj.com
+99.222.111.11 public.igamecj.com
+99.222.111.11 cloud.gsdk.proximabeta.com
+99.222.111.11 www.pubgmobile.com
+99.222.111.11 q.qlogo.cn
+99.222.111.11 cs.mbgame.gamesafe.qq.com
+99.222.111.11 c.tdm.qq.com
+99.222.111.11 oth.str.mdt.qq.com
+99.222.111.11 android.bugly.qq.com
+99.222.111.11 tpns.qq.com
+99.222.111.11 szmg.qq.com
+99.222.111.11 hk.api.unipay.qq.com
+99.222.111.11 cdn.wetest.qq.com
+99.222.111.11 oth.eve.mdt.qq.co
+99.222.111.11 down.qq.com
+99.222.111.11 pingma.qq.com
+99.222.111.11 dlied1.qq.com
+99.222.111.11 49.51.66.225 nawzryhwatm.broker.tplay.qq.com
+99.222.111.11 idconfig.gcloud.qq.com
+99.222.111.11 hkconfig.gcloud.qq.com
+99.222.111.11 idcconfig.gcloud.qq.com
+99.222.111.11 oth.update.mdt.qq.com
+99.222.111.11 pbs.twimg.com
+99.222.111.11 plbslog.umeng.com
+99.222.111.11 ulogs.umeng.com
+99.222.111.11 vmp.qq.com
+99.222.111.11 intldlgs.qq.com
+99.222.111.11 download.2.1950038955.igamekr.gcloudcs.com
+99.222.111.11 www.qq.com
+99.222.111.11 hkping.igamecj.com
+99.222.111.11 qos.hk.gcloudcs.com
+99.222.111.11 api.twitter.com
+99.222.111.11 ig-us-sdkapi.igamecj.com
+99.222.111.11 game.qq.com
+99.222.111.11 hk.voice.gcloudcs.com
+99.222.111.11 pingjs.qq.com
+99.222.111.11 thirdwx.qlogo.cn
+99.222.111.11 sg.voice.gcloudcs.com
+99.222.111.11 142.4.26.156 vipermodpremium.online
+99.222.111.11 .dlied1.qq.com
+99.222.111.11 csoversea.mbgame.gamesafe.qq.com
+127.0.0.1 file.igamecj.com
+0.0.0.0 file.igamecj.com
+127.0.0.2 file.igamecj.com
+127.0.1.2 file.igamecj.com
+0.0.0.0 file.igamecj.com
+93.32.55.5 file.igamecj.com
