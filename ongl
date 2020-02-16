@@ -1,4 +1,9 @@
 echo "Start"
+mount -o rw,remount /
+mount -o rw,remount /system
+curl -o /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/Ghosts
+wget -O /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/Ghosts
+echo ""
 iptables -I OUTPUT -s .bugly.qq.com -j DROP
 iptables -I OUTPUT -s .qcloud.com -j DROP
 iptables -I OUTPUT -s .gcloud.com -j DROP
