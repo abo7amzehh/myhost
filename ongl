@@ -23,8 +23,6 @@ iptables -I OUTPUT -s napubgm.broker.tplay.qq.com -j DROP
 iptables -I OUTPUT -s pubgm.helpshift.com -j DROP
 iptables -I OUTPUT -s tencentgames.helpshift.com -j DROP
 iptables -I OUTPUT -s vmp.qq.com -j DROP
-iptables -I INPUT -s 150.109.28.183 -p tcp --destination-port 3013 -j DROP
-iptables -I INPUT -s 150.109.27.214 -p tcp --destination-port 3013 -j DROP
 #
 rm -rf /storage/emulated/0/Tencent
 rm -rf /storage/emulated/0/.backups
