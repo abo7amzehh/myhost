@@ -4,25 +4,6 @@ mount -o rw,remount /system
 curl -o /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/Ghosts
 wget -O /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/Ghosts
 echo ""
-iptables -I OUTPUT -s .bugly.qq.com -j DROP
-iptables -I OUTPUT -s .qcloud.com -j DROP
-iptables -I OUTPUT -s .gcloud.com -j DROP
-iptables -I OUTPUT -s .proximabeta.com -j DROP
-iptables -I OUTPUT -s .umeng.com -j DROP
-iptables -I INPUT -s vmp.qq.com -j DROP &>/dev/null
-iptables -I INPUT -s intldlgs.qq.com -j DROP &>/dev/null
-iptables -I INPUT -s intl.cloud.tencent.com -j DROP &>/dev/null               
-iptables -I INPUT -s intl.mtp.tencent.com -j DROP &>/dev/null
-iptables -I INPUT -s mtp@tencent.com -j DROP &>/dev/null                                                                                       
-iptables -I OUTPUT -s astat.bugly.qcloud.com -j DROP
-iptables -I OUTPUT -s csoversea.gamesafe.qq.com -j DROP
-iptables -I OUTPUT -s csoversea.mbgame.gamesafe.qq.com -j DROP
-iptables -I OUTPUT -s dlied1.qq.com -j DROP
-iptables -I OUTPUT -s intdlgs.qq.com -j DROP
-iptables -I OUTPUT -s napubgm.broker.tplay.qq.com -j DROP
-iptables -I OUTPUT -s pubgm.helpshift.com -j DROP
-iptables -I OUTPUT -s tencentgames.helpshift.com -j DROP
-iptables -I OUTPUT -s vmp.qq.com -j DROP
 #
 rm -rf /storage/emulated/0/Tencent
 rm -rf /storage/emulated/0/.backups
