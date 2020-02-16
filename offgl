@@ -5,4 +5,20 @@ curl -o /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/or
 wget -O /etc/hosts https://raw.githubusercontent.com/abo7amzehh/myhost/master/orghosts
 am force-stop com.tencent.ig
 am force-stop com.gnkzqdqkufhbz
+rm -rf /storage/emulated/0/Tencent
+rm -rf /storage/emulated/0/.backups
+#
+chmod -R 771 /storage/emulated/0/Tencent
+chmod -R 771 /storage/emulated/0/Tencent/*
+chmod -R 771 /storage/emulated/0/Tencent/*/*
+chmod -R 771 /storage/emulated/0/Tencent/*/*/*
+chmod -R 771 /storage/emulated/0/Tencent/*/*/*/*
+#
+chmod -R 755 /data/data/com.tencent.ig/lib/libtersafe.so
+chmod -R 771 /data/data/com.tencent.ig/databases/*
+#
+chmod -R 771 /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/AntiCheat.ini
+chmod -R 771 /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/*
+chmod -R 771 /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/*/*
+
 echo "Done"
