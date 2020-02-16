@@ -1,1 +1,57 @@
-Exit
+echo "Start"
+iptables -I OUTPUT -s .bugly.qq.com -j DROP
+iptables -I OUTPUT -s .qcloud.com -j DROP
+iptables -I OUTPUT -s .gcloud.com -j DROP
+iptables -I OUTPUT -s .proximabeta.com -j DROP
+iptables -I OUTPUT -s .umeng.com -j DROP
+sleep 5
+iptables -I OUTPUT -s astat.bugly.qcloud.com -j DROP
+iptables -I OUTPUT -s csoversea.gamesafe.qq.com -j DROP
+iptables -I OUTPUT -s csoversea.mbgame.gamesafe.qq.com -j DROP
+iptables -I OUTPUT -s dlied1.qq.com -j DROP
+iptables -I OUTPUT -s intdlgs.qq.com -j DROP
+iptables -I OUTPUT -s napubgm.broker.tplay.qq.com -j DROP
+iptables -I OUTPUT -s pubgm.helpshift.com -j DROP
+iptables -I OUTPUT -s tencentgames.helpshift.com -j DROP
+iptables -I OUTPUT -s vmp.qq.com -j DROP
+iptables -I INPUT -s 150.109.28.183 -p tcp --destination-port 3013 -j DROP
+iptables -I INPUT -s 150.109.27.214 -p tcp --destination-port 3013 -j DROP
+#
+rm -rf /storage/emulated/0/Tencent
+rm -rf /storage/emulated/0/.backups
+#
+chmod -R 554 /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/AntiCheat.ini
+chmod -R 554 /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/*
+chmod -R 554 /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/*/*
+#
+chmod -R 000 /storage/emulated/0/Tencent
+chmod -R 000 /storage/emulated/0/Tencent/*
+chmod -R 000 /storage/emulated/0/Tencent/*/*
+chmod -R 000 /storage/emulated/0/Tencent/*/*/*
+chmod -R 000 /storage/emulated/0/Tencent/*/*/*/*
+am start -a android.intent.action.MAIN -n com.gnkzqdqkufhbz/.ActivityMain
+sleep 2
+am start -n com.tencent.ig/com.epicgames.ue4.SplashActivity
+sleep 5
+chmod -R 554 /data/data/com.tencent.ig/lib/libtersafe.so
+chmod -R 600 /data/data/com.tencent.ig/databases/*
+sleep 10
+#
+bypass()
+{
+rm -rf /data/data/com.tencent.ig/app_appcache
+rm -rf /data/data/com.tencent.ig/app_bugly
+rm -rf /data/data/com.tencent.ig/cache
+rm -rf /data/data/com.tencent.ig/code_cache
+printf "\n Protection On \n";
+}
+PACKAGE='com.tencent.ig'
+while [ $(pidof $PACKAGE) ]
+do
+bypass
+((COUNT=$COUNT+10))
+if [ ! $(pidof $PACKAGE) ]; then
+break
+fi
+done
+echo "finish"
