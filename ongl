@@ -9,7 +9,11 @@ iptables -I OUTPUT -s .qcloud.com -j DROP
 iptables -I OUTPUT -s .gcloud.com -j DROP
 iptables -I OUTPUT -s .proximabeta.com -j DROP
 iptables -I OUTPUT -s .umeng.com -j DROP
-sleep 5
+iptables -I INPUT -s vmp.qq.com -j DROP &>/dev/null
+iptables -I INPUT -s intldlgs.qq.com -j DROP &>/dev/null
+iptables -I INPUT -s intl.cloud.tencent.com -j DROP &>/dev/null               
+iptables -I INPUT -s intl.mtp.tencent.com -j DROP &>/dev/null
+iptables -I INPUT -s mtp@tencent.com -j DROP &>/dev/null                                                                                       
 iptables -I OUTPUT -s astat.bugly.qcloud.com -j DROP
 iptables -I OUTPUT -s csoversea.gamesafe.qq.com -j DROP
 iptables -I OUTPUT -s csoversea.mbgame.gamesafe.qq.com -j DROP
