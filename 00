@@ -13,6 +13,7 @@ fe80::2?c.b.a.com
 127.0.0.1 local
 255.255.255.255 broadcasthost
 ::1 localhost
+0.0.0.1 file.igamecj.com
 127.0.0.1 file.igamecj.com
 127.0.0.1 file-igamecj.akamaized.net
 127.0.0.1 gameguardian.net
