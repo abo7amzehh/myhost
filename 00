@@ -3,65 +3,377 @@
 0.0.0.1 server.gameguardian.net
 0.0.0.1 gameguardian.net
 
+fe80::12:34:56:78%eth0 .net 
+fe80::12:34:56:78%eth0 .com
+2001:db8:123:456::78 .com
+2001:db8:123:456::78 .net
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
-0.0.0.0 local
+127.0.0.1 local
 255.255.255.255 broadcasthost
-
-0.0.0.0 localhost
 ::1 localhost
 ::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+#</localhost>
 
-0.0.0.0 .cnzz.com
-0.0.0.0 .helpshift.com
-0.0.0.0 .qq.com
-0.0.0.0 .tencent.com
-0.0.0.0 .cnzz.com
-0.0.0.0 .cn.com
-0.0.0.0 .net
-0.0.0.0 .org
-0.0.0.0 .com
+0.0.0.0 receiver.sg.tdm.qq.com
+0.0.0.0 sg.tdm.qq.com
+0.0.0.0 filecdn.igamecj.com.cloud.tc.qq.com
+0.0.0.0 web.gpubgm.com
+0.0.0.0 wetv.vip
+0.0.0.0 intldlgs.qq.com
+0.0.0.0 file.gcloud.warsongmobile.com.cdn.ettdnsv.com
+0.0.0.0 update.gqqsm.com
+0.0.0.0 intldlgs.qq.com.tegsea.tc.qq.com
+0.0.0.0 403361.d1.download.ettdnsv.com
+0.0.0.0 imgcdn.wecomics.com
+0.0.0.0 record.gqqsm.com
+0.0.0.0 404293.d1.download.ettdnsv.com
+0.0.0.0 www.wetv.vip
+0.0.0.0 sim.gpubgm.com
+0.0.0.0 filecdn.igamecj.com
+0.0.0.0 file.igamecj.com
+0.0.0.0 mmbiz.qpic.cn
+0.0.0.0 m.wetv.vip
+0.0.0.0 pvp.qq.com
+0.0.0.0 vfiles.gtimg.cn
+0.0.0.0 igamecj.com.d1.download.ettdnsv.com
+0.0.0.0 file.gcloud.warsongmobile.com
+0.0.0.0 filecdn.igamecj.com.cdn.ettdnsv.com
+0.0.0.0 file.igamecj.com.cdn.ettdnsv.com
+0.0.0.0 manhua.qpic.cn
+0.0.0.0 1905402.d1.download.ettdnsv.com
+0.0.0.0 404205.d1.download.ettdnsv.com
+0.0.0.0 download.bakudori.jp
+0.0.0.0 404187.d1.download.ettdnsv.com
+0.0.0.0 file.gcloud.cmkrmobile.com
+0.0.0.0 403992.d1.download.ettdnsv.com
+0.0.0.0 404383.d1.download.ettdnsv.com
+0.0.0.0 404712.d1.download.ettdnsv.com
+0.0.0.0 image.gqqsm.com.cloud.tc.qq.com
+0.0.0.0 gamecj.com.d1.download.ettdnsv.com
+0.0.0.0 file.igamecj.com.d1.download.ettdnsv.com
+0.0.0.0 404347.d1.download.ettdnsv.com
+0.0.0.0 403996.d1.download.ettdnsv.com
+0.0.0.0 image.gqqsm.com
+0.0.0.0 404442.d1.download.ettdnsv.com
+0.0.0.0 com.d1.download.ettdnsv.com
+0.0.0.0 404308.d1.download.ettdnsv.com
+0.0.0.0 idcconfig.gcloud.qq.com
+0.0.0.0 hkconfig.gcloud.qq.com
+0.0.0.0 gamerchat.qq.com
+0.0.0.0 lobby.igamecj.com
+0.0.0.0 napubgm.broker.tplay.qq.com
+0.0.0.0 csoversea.mbgame.gamesafe.qq.com
+0.0.0.0 public.igamecj.com
+0.0.0.0 yemalu.pw
+0.0.0.0 www.gegehei.com
+0.0.0.0 www.yemalu.cc
+0.0.0.0 www.luluhei.us
+0.0.0.0 pay.igamecj.com
+0.0.0.0 os8.api.unipay.qq.com
+0.0.0.0 cloud.gsdk.proximabeta.com
+0.0.0.0 csoversea.mbgame.gamesafe.qq.com
+0.0.0.0 thirdwx.qlogo.cn
+0.0.0.0 pay.igamecj.com
+0.0.0.0 49.51.42.152
+0.0.0.0 49.51.235.24
+0.0.0.0 csoversea.mbgame.gamesafe.qq.com
+0.0.0.0 119.28.121.174
+0.0.0.0 app.adjust.com
+0.0.0.0 dmarc.adjust.com
+0.0.0.0 nexdt.adjust.com
+0.0.0.0 1.adjust.com
+0.0.0.0 2fapp.adjust.com
+0.0.0.0 aapp.adjust.com
+0.0.0.0 v5app.adjust.com
+0.0.0.0 pubg.adjust.com
+0.0.0.0 fra14-cr01-et60-1.adjust.com
+0.0.0.0 liveupdate.adjust.com
+0.0.0.0 aa.adjust.com
+0.0.0.0 localhost.adjust.com
+0.0.0.0 c.adjust.com
+0.0.0.0 ns1.adjust.com
+0.0.0.0 ns3.adjust.com
+0.0.0.0 virtual.adjust.com
+0.0.0.0 host.adjust.com
+0.0.0.0 nlearn.adjust.com
+0.0.0.0 redis.adjust.com
+0.0.0.0 rdns.adjust.com
+0.0.0.0 mpression.adjust.com
+0.0.0.0 upload.adjust.com
+0.0.0.0 go.invitetravel.com
+0.0.0.0 sdk.adjust.com
+0.0.0.0 proxy.adjust.com
+0.0.0.0 root.adjust.com
+0.0.0.0 home.adjust.com
+0.0.0.0 web.adjust.com
+0.0.0.0 app5.adjust.com
+0.0.0.0 pp.adjust.com
+0.0.0.0 1.redis.adjust.com
+0.0.0.0 secure.adjust.com
+0.0.0.0 app1.adjust.com
+0.0.0.0 apl.adjust.com
+0.0.0.0 app578.adjust.com
+0.0.0.0 app2.adjust.com
+0.0.0.0 app57.adjust.com
+0.0.0.0 app4.adjust.com
+0.0.0.0 app3.adjust.com
+0.0.0.0 mobile.adjust.com
+0.0.0.0 185.151.204.9
 
-8.8.8.8 localhost
-::1 localhost
-::1 ip6-localhost
-
-8.8.4.4 .com
-8.8.8.8 .net
-8.8.8.8 .weiyun.com
-8.8.8.8 .actencent.com
-8.8.8.8 .gclouds.com
-8.8.8.8 .gcloudcs.com
-8.8.8.8 .gstatic.com
-8.8.8.8 .googlevideocom
-8.8.8.8 .googleapis.com
-8.8.8.8 .googlesyndication.com
-8.8.8.8 vmp.qq.com
-
-#-------Extras------#
-127.0.0.1 cloud.gsdk.proximabeta.comqos.hk.gcloudcs.comv16.muscdn.com
-127.0.0.1 receiver.sg.tdm.qq.comhkspeed.igamecj.com
-101.226.76.164 api.voice.gcloud.qq.com
-119.28.243.66 ig-us-sdkapi.igamecj.com
-150.109.29.135 saping.igamecj.com
-169.57.193.239 pubgmobile.helpshift.com
-101.226.233.246 meping.igamecj.com
-203.205.137.242 naping.igamecj.com
-170.106.134.228 uping.igamecj.com
-125.214.166.8 hkping.igamecj.come
-211.152.148.76 file.igamecj.com.d1.download.ettdnsv.com
-172.217.6.193 lh5.googleusercontent.com
-49.51.67.236 ig-us-sdkapi.igamecj.com
-119.28.183.144 download.2.1375135419.igame.gcloudcs.com
-49.51.67.236 meping.igamecj.com
-150.109.29.135 saping.igamecj.com
-119.28.147.156 download.2.1950038955.igamekr.gcloudcs.com
-119.28.35.248 lobby.igamecj.com
+49.51.67.140 lobby.igamecj.com
 150.109.35.246 vnglobby.igamecj.com
+0.0.0.0 .cnzz
 119.28.147.30 krlobby.igamecj.com
+0.0.0.0 .tv
+13.225.62.39 battlegroundsmobile.kr
+0.0.0.0 .cn
 150.109.200.70 twlobby.igamecj.com
-119.28.250.64 in.voice.gcloudcs.com
-31.13.79.18 api.facebook.com
+0.0.0.0 .org
+0.0.0.0 .net
+0.0.0.0 .pe
+31.13.71.1 api.facebook.com
+0.0.0.0 .club
+0.0.0.0 .co
+0.0.0.0 .pk
+0.0.0.0 .link
+0.0.0.0 .io
+0.0.0.0 .ru
+0.0.0.0 .tencent
+0.0.0.0 .ig
+0.0.0.0 .ai
+ #" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+0.0.0.0 .cc
+0.0.0.0 .pl
+0.0.0.0 .cm
+0.0.0.0 .uk
+0.0.0.0 .uk
+0.0.0.0 .sg
+0.0.0.0 .il
+0.0.0.0 .lk
+0.0.0.0 .us
 104.244.42.2 api.twitter.com
-104.244.42.129 twitter.com
-31.13.79.35 facebook.com
+0.0.0.0 .com
+104.244.42.65 twitter.com
+31.13.71.36 facebook.com
+ #" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+ #" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+## uncomment the following line if you use 3rd party injector..etc
+#101.226.233.246 vmp.qq.com
+#150.109.29.135 astat.bugly.qcloud.com
+ #" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+## uncomment the following line to allow  the gamegurdian to check update
+#95.216.72.85 gameguardian.net
+ #" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+  
+ 0.0.0.0 .proximabeta.com
+
+## uncomment the following line to allow  the gamegurdian to check update
+0.0.0.0 .proximabeta.com
+ #" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+## uncomment the following line to allow  the pubg's helpshift system
+#54.219.159.56 pubgmobile.helpshift.com
+ #" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+## uncomment the following line to fix high ping error in lobby
+#20.37.82.21 meping.igamecj.com
+#169.57.193.239 saping.igamecj.com
+#49.51.230.89 naping.igamecj.com 
+ #" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+## uncomment the following line to allow pubg to download maps,items..etc
+#211.152.148.76 file.igamecj.com.d1.download.ettdnsv.com
+ #" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+## uncomment the following line to join gobel teams
+#172.217.6.193 lh5.googleusercontent.com
+ #" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+#comment the follow line if you know when you need this
+49.51.67.236 ig-us-sdkapi.igamecj.com
+ #" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+  
+0.0.0.0 .weiyun.com
+0:0:0:0:0:ffff:cbcd:8a9f .weiyun.com
+0.0.0.0 .myapp.com
+0:0:0:0:0:ffff:cbcd:8b4f .myapp.com
+0.0.0.0 .qmail.com
+#" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+0:0:0:0:0:ffff:cbcd:8a1f .qmail.com
+0.0.0.0 .qzone.com
+0:0:0:0:0:ffff:cbcd:874f .qzone.com
+0.0.0.0 .hk
+0:0:0:0:0:ffff:cbcd:8acf .hk
+#" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+0.0.0.0 .qqgames.com
+0:0:0:0:0:ffff:cbcd:8k4f .qqgames.com
+0.0.0.0 .qqmail.com
+0:0:0:0:0:ffff:cbcd:8n4f .qqmail.com
+0.0.0.0 .superfix.com
+#" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+0:0:0:0:0:ffff:cbcd:4a4f .superfix.com
+0.0.0.0 .qq.com
+0:0:0:0:0:ffff:cbcd:8a0f .qq.com
+0.0.0.0 .cn
+#" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+0:0:0:0:0:ffff:gro1:ot53 .cn
+0.0.0.0 .cnzz.com
+0:0:0:0:0:ffff:gr22:otg3 .cnzz.com
+0.0.0.0 .GR00t.lk
+0:0:0:0:0:f4ff:grl2:otg3 .GR00t.lk
+0.0.0.0 .net
+#" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+0:0:0:0:0:ffff:gr32:ot93 .net
+0.0.0.0 .googletagmanager.com
+0:0:0:0:0:ffff:cff2:c7og .googletagmanager.com
+0.0.0.0 .google.com
+0:0:0:0:0:ffff:cf92:cfog .google.com
+0.0.0.0 .googleusercontent.com
+#" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+0:0:0:0:0:ffff:cf92:c7of .googleusercontent.com
+0.0.0.0 .proximabeta.com
+#comment the follow line if you are using mod packs, bypass update.. etc
+49.51.42.201 download.2.1375135419.igame.gcloudcs.com
+119.28.244.50 download.2.1375135419.igame.gcloudcs.com
+119.28.147.156 download.2.1950038955.igamekr.gcloudcs.com
+ #" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  ##
+0:0:0:0:0:ffff:g1ro:groo .proximabeta.com
+0.0.0.0 .pubgmobile.com
+0:0:0:0:0:ffff:g1ro:g9oo .pubgmobile.com
+0.0.0.0 .tencent.com
+0:0:0:0:0:ffff:grot:gr6t .tencent.com
+0.0.0.0 .sl-reverse.com
+#" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+0:0:0:0:0:ffff:grot:gr6t .sl-reverse.com
+0.0.0.0 .qcloud.com
+0:0:0:0:0:ffff:grot:gr6t .qcloud.com
+0.0.0.0 .tencent.com
+0:0:0:0:0:ffff:grot:gr6t .tencent.com
+0.0.0.0 .me
+#" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+0:0:0:0:0:ffff:grot:g76t .me
+0.0.0.0 .twimg.com
+0:0:0:0:0:ffff:grot:gr9t ..twimg.com
+0.0.0.0 .igame.gcloudcs.com
+0:0:0:0:0:ffff:grot:gr8t .igame.gcloudcs.com
+0.0.0.0 .org
+0:0:0:0:0:ffff:grot:gr7t .org
+0.0.0.0 .helpshift.com
+#" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+0:0:0:0:0:ffff:cf55:c9be .helpshift.com
+0.0.0.0 .fbsbx.com
+0:0:0:0:0:ffff:cf7l:cg9e .fbsbx.com
+0.0.0.0 .userapi.com
+0:0:0:0:0:ffff:cfff:cg99 .userapi.com
+0.0.0.0 graph.facebook.com
+0:0:0:0:0:ffff:cf3f:cgf9 graph.facebook.com
+0.0.0.0 scgt.reverse.com
+#" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+0:0:0:0:0:ffff:cflf:cg19 scgt.reverse.com
+0.0.0.0 app.adjust.com
+0:0:0:0:0:ffff:cfl2:c7gg app.adjust.com
+0.0.0.0 file.igamecj.com
+0:0:0:0:0:ffff:ckl2:c7gg app.adjust.com
+0.0.0.0 .intellitxt.com
+0:0:0:0:0:f8ff:cff2:c7gg .intellitxt.com
+0.0.0.0 pay.igamecj.com
+#" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+0:0:0:0:0:ffff:cf92:c7og pay.igamecj.com
+0.0.0.0 hkspeed.igamecj.com
+0:0:0:0:0:ffff:cf22:c4og hkspeed.igamecj.com
+0.0.0.0 .weiyun.com
+0:0:0:0:0:ffff:cfk2:c4o2 .weiyun.com
+0.0.0.0 .actencent.com
+0:0:0:0:0:ffff:cgk2:c4og .actencent.com
+0.0.0.0 .gclouds.com
+0:0:0:0:0:ffff:cge2:coog .gclouds.com
+0.0.0.0 .gstatic.com
+#" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+0:0:0:0:0:ff8f:c2e2:coog .gstatic.com
+0.0.0.0 .googlevideocom
+0:0:0:0:0:f88f:c2g2:coog .googlevideocom
+0.0.0.0 .googleapis.com
+0:0:0:0:0:f88f:c2g2:coog .googleapis.com
+0.0.0.0 .googlesyndication.com
+0:0:0:0:0:f88f:c2g2:coog .googlesyndication.com
+ #" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    ###
+ "#m"#   #     "#m#"  "#m#"    #"mm
+  m  #
+
+
+H O S T |  R O O T | S 1 2 | B Y | B O 9 L W A
