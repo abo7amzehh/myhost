@@ -8,4 +8,13 @@ chmod 770 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrack
 chmod 770 /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
 chmod 770 /data/media/0/Android/data/com.pubg.krmobile
 chmod 770 /storage/emulated/0/Android/data/com.pubg.krmobile
+sleep 0.5
+if [ -d /sdcard/Paks ]
+then
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
+echo
+cp -rf /storage/emulated/0/Paks /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/
+else
+echo
+fi
 echo "Done"
