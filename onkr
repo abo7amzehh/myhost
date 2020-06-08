@@ -9,7 +9,12 @@ touch /data/data/com.pubg.krmobile/files
 touch /data/data/com.pubg.krmobile/app_crashrecord
                 #Anti Crash
 sleep 0.5
+if [ -d /sdcard/Paks ]
+then
+echo
+else
 cp -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks /storage/emulated/0/
+fi
 sleep 0.5
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12624.pak
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12625.pak
