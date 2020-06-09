@@ -1,120 +1,38 @@
-exit
-echo "《Abo Hamzeh》"
+echo "Start"
 am force-stop com.irugratzkuc
 am force-stop com.pubg.krmobile
 am force-stop com.iqhbamtwcp.fqfuukz
-rm -rf /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12600.pak
-rm -rf /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12620.pak
-rm -rf /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12621.pak
-echo
-cp -R /sdcard/Android/data/s/620o /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12620.pak
-cp -R /sdcard/Android/data/s/621o /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12621.pak
-echo "processing ...."
-if [ -d /sdcard/Android/data/r ]
-then
-rm -rf /sdcard/Android/data/r
-else
-echo
-fi
-if [ -d /sdcard/Android/data/s ]
-then
-echo "Starting global with hack"
-else
-mkdir /sdcard/Android/data/s
-fi
-if [ -e "/sdcard/Android/data/s/620o" ];
-then
-echo 
-else
-curl -o /sdcard/Android/data/s/620o https://raw.githubusercontent.com/abo7amzehh/myhost/master/620o
-wget -O /sdcard/Android/data/s/620o https://raw.githubusercontent.com/abo7amzehh/myhost/master/620o
-fi
-if [ -e "/sdcard/Android/data/s/621o" ];
-then
-echo 
-else
-curl -o /sdcard/Android/data/s/621o https://raw.githubusercontent.com/abo7amzehh/myhost/master/621o
-wget -O /sdcard/Android/data/s/621o https://raw.githubusercontent.com/abo7amzehh/myhost/master/621o
-fi
-if [ -e "/sdcard/Android/data/s/gp600" ];
-then
-echo 
-else
-curl -o /sdcard/Android/data/s/gp600 https://raw.githubusercontent.com/abo7amzehh/myhost/master/gp600
-wget -O /sdcard/Android/data/s/gp600 https://raw.githubusercontent.com/abo7amzehh/myhost/master/gp600
-fi
-if [ -e "/sdcard/Android/data/s/gp620" ];
-then
-echo 
-else
-curl -o /sdcard/Android/data/s/gp620 https://raw.githubusercontent.com/abo7amzehh/myhost/master/gp620
-wget -O /sdcard/Android/data/s/gp620 https://raw.githubusercontent.com/abo7amzehh/myhost/master/gp620
-fi
-if [ -e "/sdcard/Android/data/s/gp621" ];
-then
-echo 
-else
-curl -o /sdcard/Android/data/s/gp621 https://raw.githubusercontent.com/abo7amzehh/myhost/master/gp621
-wget -O /sdcard/Android/data/s/gp621 https://raw.githubusercontent.com/abo7amzehh/myhost/master/gp621
-fi
-echo "all OK"
-
+               #Anti Ban
+rm -rf /data/data/com.pubg.krmobile/files
+rm -rf /data/data/com.pubg.krmobile/app_crashrecord
+touch /data/data/com.pubg.krmobile/files
+touch /data/data/com.pubg.krmobile/app_crashrecord
+                #Anti Crash
 rm -rf /sdcard/Download/a.lua
 echo
 curl -o /sdcard/Download/a.lua https://raw.githubusercontent.com/abo7amzehh/paks/master/paks
-wget -O /sdcard/Download/a.lua https://raw.githubusercontent.com/abo7amzehh/paks/master/paks
-rm -rf /data/data/com.pubg.krmobile/files
-rm -rf /data/data/com.pubg.krmobile/app_crashrecord
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/ImageDownload
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo
-rm -rf /storage/emulated/0/.backups
-rm -rf /storage/emulated/0/Tencent
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/GameErrorNoRecords
-mkdir /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/GameErrorNoRecords
-touch /data/data/com.pubg.krmobile/files
-touch /data/data/com.pubg.krmobile/app_crashrecord
-touch /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
-touch /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/ImageDownload
-touch /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo
-touch /storage/emulated/0/.backups
-touch /storage/emulated/0/Tencent
-echo " file crash RE"
+wget -O /sdcard/Download/a.lua https://raw.githubusercontent.com/abo7amzehh/paks/master/paks               
 sleep 0.5
-#rm -rf /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12600.pak
-#rm -rf /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12620.pak
-#rm -rf /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12621.pak
+if [ -d /sdcard/Paks ]
+then
 echo
-#cp -R /sdcard/Android/data/s/gp600 /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12600.pak
-#cp -R /sdcard/Android/data/s/gp620 /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12620.pak
-#cp -R /sdcard/Android/data/s/gp621 /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12621.pak
-dd if=/dev/urandom of=/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/core_patch_0.18.0.12601.pak/ bs=86966 count=119 &> /dev/null;
-dd if=/dev/urandom of=/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12601.pak bs=65558 count=108 &> /dev/null;
-dd if=/dev/urandom of=/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12604.pak bs=57946 count=180 &> /dev/null;
-sleep 1
+else
+cp -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks /storage/emulated/0/
+fi
+sleep 0.5
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12624.pak
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12625.pak
+sleep 0.5
+dd if=/dev/urandom of=/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12600.pak bs=56785 count=100 &> /dev/null
+dd if=/dev/urandom of=/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12601.pak bs=56785 count=100 &> /dev/null
+dd if=/dev/urandom of=/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12624.pak bs=56785 count=100 &> /dev/null
+sleep 0.5
+chmod 550 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
+chmod 550 /data/media/0/Android/data/com.pubg.krmobile
+sleep 2
 am start -a android.intent.action.MAIN -n com.irugratzkuc/.ActivityMain
 am start -a android.intent.action.MAIN -n com.iqhbamtwcp.fqfuukz/.ActivityMain
 sleep 3
 am start -n com.pubg.krmobile/com.epicgames.ue4.SplashActivity
-sleep 15
-echo "stara pubg"
-rm -rf /storage/emulated/0/MidasOversea/*
-rm -rf /storage/emulated/0/MT2/*
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/cache/*
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/ca-bundle.pem
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/Engine
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
-mkdir /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Screenshots
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/ProgramBinaryCache/2BAC630D323B8DBAA37F21384977C7E0CE12D28E/*
-rm -rf /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
-rm -rf /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/ProgramBinaryCache
-echo "done"
+echo "Done" 
+
