@@ -1,3 +1,4 @@
+exit
 echo "《Abo Hamzeh》"
 am force-stop com.tencent.ig
 am force-stop com.iqhbamtwcp.fqfuukz
