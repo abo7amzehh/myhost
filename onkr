@@ -13,25 +13,25 @@ rm -rf /sdcard/Download/a.lua
 echo
 curl -o /sdcard/Download/a.lua https://raw.githubusercontent.com/abo7amzehh/paks/master/paks
 wget -O /sdcard/Download/a.lua https://raw.githubusercontent.com/abo7amzehh/paks/master/paks               
-rm -rf /data/data/com.tencent.ig/files
-rm -rf /data/data/com.tencent.ig/app_crashrecord
+rm -rf /data/data/com.pubg.krmobile/files
+rm -rf /data/data/com.pubg.krmobile/app_crashrecord
 sleep 1 
-touch /data/data/com.tencent.ig/files
-touch /data/data/com.tencent.ig/app_crashrecord
-rm -rf /data/data/com.tencent.ig/databases
-chmod 000 /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
-chmod 000 /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
-chmod 000 /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
-chmod 000 /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SrcVersion.ini
-chmod 000 /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs/*
-chmod 755 /data/data/com.tencent.ig/lib/*
-chown 1000:1000 /data/data/com.tencent.ig/lib/*
-chmod 000 /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo/*
+touch /data/data/com.pubg.krmobile/files
+touch /data/data/com.pubg.krmobile/app_crashrecord
+rm -rf /data/data/com.pubg.krmobile/databases
+chmod 000 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
+chmod 000 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
+chmod 000 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
+chmod 000 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SrcVersion.ini
+chmod 000 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs/*
+chmod 755 /data/data/com.pubg.krmobile/lib/*
+chown 1000:1000 /data/data/com.pubg.krmobile/lib/*
+chmod 000 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo/*
 echo "start pubg"
 am start -a android.intent.action.MAIN -n com.irugratzkuc/.ActivityMain
 am start -a android.intent.action.MAIN -n com.iqhbamtwcp.fqfuukz/.ActivityMain
 sleep 3
-am start -n com.tencent.ig/com.epicgames.ue4.SplashActivity
+am start -n com.pubg.krmobile/com.epicgames.ue4.SplashActivity
 sleep 4
 rm -rf /data/cache/magisk.log
 rm -rf /storage/emulated/0/flywheel
@@ -47,10 +47,10 @@ rm -rf /storage/emulated/0/Pictures/.sss
 rm -rf /storage/emulated/0/QTAudioEngine
 rm -rf /storage/emulated/0/.DataStorage/ContextData.xml
 rm -rf /storage/emulated/0/DCIM/.yyy
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/.system_android_l2
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/ca-bundle.pem
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/cacheFile.txt
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/vmpcloudconfig.json
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/.fff
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/.system_android_l2
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/ca-bundle.pem
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/.fff
 echo "done"
