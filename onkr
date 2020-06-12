@@ -8,7 +8,6 @@ echo
 cp -R /sdcard/Android/data/s/620o /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12620.pak
 cp -R /sdcard/Android/data/s/621o /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12621.pak
 echo "start"
-su -c iptables --flush
 rm -rf /sdcard/Download/a.lua
 echo
 curl -o /sdcard/Download/a.lua https://raw.githubusercontent.com/abo7amzehh/paks/master/paks
@@ -52,7 +51,7 @@ rm -rf /storage/emulated/0/DCIM/.yyy
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/.system_android_l2
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/ca-bundle.pem
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt
+#rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/.fff
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
