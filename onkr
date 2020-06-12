@@ -1,12 +1,6 @@
 am force-stop com.irugratzkuc
 am force-stop com.pubg.krmobile
 am force-stop com.iqhbamtwcp.fqfuukz
-rm -rf /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12600.pak
-rm -rf /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12620.pak
-rm -rf /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12621.pak
-echo
-cp -R /sdcard/Android/data/s/620o /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12620.pak
-cp -R /sdcard/Android/data/s/621o /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12621.pak
 echo "start"
 rm -rf /sdcard/Download/a.lua
 echo
@@ -17,24 +11,12 @@ rm -rf /data/data/com.pubg.krmobile/app_crashrecord
 sleep 1 
 touch /data/data/com.pubg.krmobile/files
 touch /data/data/com.pubg.krmobile/app_crashrecord
-rm -rf /data/data/com.pubg.krmobile/databases
-chmod 000 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
-chmod 000 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
-chmod 000 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
-chmod 000 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SrcVersion.ini
-chmod 000 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs/*
-chmod 755 /data/data/com.pubg.krmobile/lib/*
-chown 1000:1000 /data/data/com.pubg.krmobile/lib/*
-chmod 000 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo/*
 echo "start pubg"
 am start -a android.intent.action.MAIN -n com.irugratzkuc/.ActivityMain
 am start -a android.intent.action.MAIN -n com.iqhbamtwcp.fqfuukz/.ActivityMain
 sleep 3
 am start -n com.pubg.krmobile/com.epicgames.ue4.SplashActivity
-sleep 4
-GameApp="com.pubg.krmobile"
-while [ $(pidof $GameApp) ]
-do
+sleep 30
 rm -rf /data/cache/magisk.log
 rm -rf /storage/emulated/0/flywheel
 rm -rf /storage/emulated/0/MidasOversea
@@ -51,15 +33,8 @@ rm -rf /storage/emulated/0/DCIM/.yyy
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/.system_android_l2
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/ca-bundle.pem
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt
-#rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/.fff
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
-echo "cleaning "
-	if [ ! $(pidof $GameApp) ]; then
-	   break
-	fi
-sleep ${15:-20}
-done
 echo "done"
