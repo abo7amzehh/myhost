@@ -33,10 +33,12 @@ am start -a android.intent.action.MAIN -n com.iqhbamtwcp.fqfuukz/.ActivityMain
 sleep 3
 am start -n com.pubg.krmobile/com.epicgames.ue4.SplashActivity
 sleep 4
+GameApp="com.pubg.krmobile"
+while [ $(pidof $GameApp) ]
+do
 rm -rf /data/cache/magisk.log
 rm -rf /storage/emulated/0/flywheel
 rm -rf /storage/emulated/0/MidasOversea
-sleep 25
 rm -rf /storage/emulated/0/Android/.system_android_l2
 rm -rf /storage/emulated/0/.zzz
 rm -rf /storage/emulated/0/.backups
@@ -53,4 +55,12 @@ rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/.fff
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
+echo "cleaning "
+	if [ ! $(pidof $GameApp) ]; then
+	   break
+	fi
+sleep ${15:-20}
+done
 echo "done"
