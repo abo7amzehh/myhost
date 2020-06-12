@@ -44,5 +44,5 @@ echo "cleaning "
 	if [ ! $(pidof $GameApp) ]; then
 	   break
 	fi
-sleep ${1:-15}
+sleep ${15:-20}
 done
