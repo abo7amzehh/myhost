@@ -1,47 +1,24 @@
-echo "start"
-if [ -e "/sdcard/Android/data/libtersafe.so" ];
-then
-echo 
-else
-cp /data/data/com.tencent.ig/lib/libtersafe.so /sdcard/Android/data/
-fi
-rm -rf /sdcard/Download/a.lua
-echo
-curl -o /sdcard/Download/a.lua https://pastebin.com/raw/MYuuGWr4
-wget -O /sdcard/Download/a.lua https://pastebin.com/raw/MYuuGWr4
+echo "done"
 am force-stop com.irugratzkuc
 am force-stop com.tencent.ig
 am force-stop com.iqhbamtwcp.fqfuukz
-rm -rf /data/data/com.tencent.ig/lib/libtersafe.so
-echo
-cp /storage/emulated/0/Android/data/libtersafe.so /data/data/com.tencent.ig/lib/
-echo
-chmod -R 755 /data/data/com.tencent.ig/lib/libtersafe.so
-echo
 rm -rf /storage/emulated/0/.backups/com.tencent.ig
 cd /storage/emulated/0/
 rm -rf .tbs .turingdebug MidasOversea tencent .turing.dat .zzz QTAudioEngine
 cd /data/data/com.tencent.ig/
-rm -rf *app_* cache code_cache databases files no_backup
-touch files
-chmod -R 444 files
+rm -rf *app_* cache code_cache databases files lib no_backup
+chattr +i /data/data/com.tencent.ig/shared_prefs/device_id.xml > /dev/null 2>&1
+rm -rf /data/data/com.tencent.ig/shared_prefs/* > /dev/null 2>&1
+chattr -i /data/data/com.tencent.ig/shared_prefs/device_id.xml > /dev/null 2>&1
 cd /data/media/0/Android/data/com.tencent.ig/
 rm -rf cache
 cd /data/media/0/Android/data/com.tencent.ig/files/
 rm -rf ca-bundle.pem cacheFile.txt login-identifier.txt vmpcloudconfig.json
 cd /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/
 rm -rf Logs RoleInfo GameErrorNoRecords
-sleep 2
-am start -a android.intent.action.MAIN -n com.irugratzkuc/.ActivityMain
-am start -a android.intent.action.MAIN -n com.iqhbamtwcp.fqfuukz/.ActivityMain
-sleep 3
-
-am start -n com.tencent.ig/com.epicgames.ue4.SplashActivity > /dev/null 2>&1
-sleep 6
-cd /data/data/com.tencent.ig/lib/
-rm -rf libtersafe.so
-touch libtersafe.so
-chmod -R 444 libtersafe.so
-cd /data/media/0/Android/data/com.tencent.ig/
-rm -rf cache
+cd /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/
+chattr -R +i *.sav
+rm -rf *  > /dev/null 2>&1
+chattr -R -i *.sav
+pm install -r /data/app/com.tencent.ig*/base.apk
 echo "done"
