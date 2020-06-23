@@ -1,108 +1,47 @@
-exit
-echo "《Abo Hamzeh》"
-am force-stop com.tencent.ig
-am force-stop com.iqhbamtwcp.fqfuukz
-echo "processing ...."
-if [ -d /sdcard/Android/data/r ]
-then
-rm -rf /sdcard/Android/data/r
-else
-echo
-fi
-if [ -d /sdcard/Android/data/s ]
-then
-echo "Starting global with hack"
-else
-mkdir /sdcard/Android/data/s
-fi
-if [ -e "/sdcard/Android/data/s/gp600" ];
+echo "start"
+if [ -e "/sdcard/Android/data/libtersafe.so" ];
 then
 echo 
 else
-curl -o /sdcard/Android/data/s/gp600 https://raw.githubusercontent.com/abo7amzehh/myhost/master/gp600
-wget -O /sdcard/Android/data/s/gp600 https://raw.githubusercontent.com/abo7amzehh/myhost/master/gp600
+cp /data/data/com.tencent.ig/lib/libtersafe.so /sdcard/Android/data/
 fi
-if [ -e "/sdcard/Android/data/s/gp620" ];
-then
-echo 
-else
-curl -o /sdcard/Android/data/s/gp620 https://raw.githubusercontent.com/abo7amzehh/myhost/master/gp620
-wget -O /sdcard/Android/data/s/gp620 https://raw.githubusercontent.com/abo7amzehh/myhost/master/gp620
-fi
-if [ -e "/sdcard/Android/data/s/gp621" ];
-then
-echo 
-else
-curl -o /sdcard/Android/data/s/gp621 https://raw.githubusercontent.com/abo7amzehh/myhost/master/gp621
-wget -O /sdcard/Android/data/s/gp621 https://raw.githubusercontent.com/abo7amzehh/myhost/master/gp621
-fi
-if [ -e "/sdcard/Android/data/s/game_patch_0.18.0.12601.pak" ];
-then
-echo 
-else
-curl -o /sdcard/Android/data/s/game_patch_0.18.0.12601.pak https://raw.githubusercontent.com/abo7amzehh/myhost/master/game_patch_0.18.0.12601.pak
-wget -O /sdcard/Android/data/s/game_patch_0.18.0.12601.pak https://raw.githubusercontent.com/abo7amzehh/myhost/master/game_patch_0.18.0.12601.pak
-fi
-if [ -e "/sdcard/Android/data/s/game_patch_0.18.0.12604.pak" ];
-then
-echo 
-else
-rm -rf /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12600.pak
-curl -o /sdcard/Android/data/s/game_patch_0.18.0.12604.pak https://raw.githubusercontent.com/abo7amzehh/myhost/master/game_patch_0.18.0.12604.pak
-wget -O /sdcard/Android/data/s/game_patch_0.18.0.12604.pak https://raw.githubusercontent.com/abo7amzehh/myhost/master/game_patch_0.18.0.12604.pak
-fi
-echo "all OK"
-
 rm -rf /sdcard/Download/a.lua
 echo
-curl -o /sdcard/Download/a.lua https://raw.githubusercontent.com/abo7amzehh/paks/master/paks
-wget -O /sdcard/Download/a.lua https://raw.githubusercontent.com/abo7amzehh/paks/master/paks
-rm -rf /data/data/com.tencent.ig/files
-rm -rf /data/data/com.tencent.ig/app_crashrecord
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/ImageDownload
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo
-rm -rf /storage/emulated/0/.backups
-rm -rf /storage/emulated/0/Tencent
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/GameErrorNoRecords
-mkdir /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/GameErrorNoRecords
-touch /data/data/com.tencent.ig/files
-touch /data/data/com.tencent.ig/app_crashrecord
-touch /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
-touch /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/ImageDownload
-touch /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo
-touch /storage/emulated/0/.backups
-touch /storage/emulated/0/Tencent
-echo " file crash RE"
-sleep 0.5
-rm /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12601.pak
-rm /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12604.pak
-cp -R /sdcard/Android/data/s/game_patch_0.18.0.12601.pak /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
-cp -R /sdcard/Android/data/s/game_patch_0.18.0.12604.pak /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
-sleep 1
+curl -o /sdcard/Download/a.lua https://pastebin.com/raw/MYuuGWr4
+wget -O /sdcard/Download/a.lua https://pastebin.com/raw/MYuuGWr4
+am force-stop com.irugratzkuc
+am force-stop com.tencent.ig
+am force-stop com.iqhbamtwcp.fqfuukz
+rm -rf /data/data/com.tencent.ig/lib/libtersafe.so
+echo
+cp /storage/emulated/0/Android/data/libtersafe.so /data/data/com.tencent.ig/lib/
+echo
+chmod -R 755 /data/data/com.tencent.ig/lib/libtersafe.so
+echo
+rm -rf /storage/emulated/0/.backups/com.tencent.ig
+cd /storage/emulated/0/
+rm -rf .tbs .turingdebug MidasOversea tencent .turing.dat .zzz QTAudioEngine
+cd /data/data/com.tencent.ig/
+rm -rf *app_* cache code_cache databases files no_backup
+touch files
+chmod -R 444 files
+cd /data/media/0/Android/data/com.tencent.ig/
+rm -rf cache
+cd /data/media/0/Android/data/com.tencent.ig/files/
+rm -rf ca-bundle.pem cacheFile.txt login-identifier.txt vmpcloudconfig.json
+cd /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/
+rm -rf Logs RoleInfo GameErrorNoRecords
+sleep 2
 am start -a android.intent.action.MAIN -n com.irugratzkuc/.ActivityMain
 am start -a android.intent.action.MAIN -n com.iqhbamtwcp.fqfuukz/.ActivityMain
 sleep 3
-am start -n com.tencent.ig/com.epicgames.ue4.SplashActivity
-sleep 15
-echo "stara pubg"
-rm -rf /storage/emulated/0/MidasOversea/*
-rm -rf /storage/emulated/0/MT2/*
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/cache/*
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/vmpcloudconfig.json
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/ca-bundle.pem
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/cacheFile.txt
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/tbslog
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/Engine
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
-mkdir /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Screenshots
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/ProgramBinaryCache/2BAC630D323B8DBAA37F21384977C7E0CE12D28E/*
-rm -rf /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
-rm -rf /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/vmpcloudconfig.json
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/ProgramBinaryCache
+
+am start -n com.tencent.ig/com.epicgames.ue4.SplashActivity > /dev/null 2>&1
+sleep 6
+cd /data/data/com.tencent.ig/lib/
+rm -rf libtersafe.so
+touch libtersafe.so
+chmod -R 444 libtersafe.so
+cd /data/media/0/Android/data/com.tencent.ig/
+rm -rf cache
 echo "done"
