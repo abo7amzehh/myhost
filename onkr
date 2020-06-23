@@ -5,10 +5,6 @@ echo
 else
 cp /data/data/com.pubg.krmobile/lib/libtersafe.so /sdcard/Android/data/
 fi
-rm -rf /sdcard/Download/a.lua
-echo
-curl -o /sdcard/Download/a.lua https://pastebin.com/raw/MYuuGWr4
-wget -O /sdcard/Download/a.lua https://pastebin.com/raw/MYuuGWr4
 am force-stop com.irugratzkuc
 am force-stop com.pubg.krmobile
 am force-stop com.iqhbamtwcp.fqfuukz
@@ -31,6 +27,10 @@ cd /data/media/0/Android/data/com.pubg.krmobile/files/
 rm -rf ca-bundle.pem cacheFile.txt login-identifier.txt vmpcloudconfig.json
 cd /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/
 rm -rf Logs RoleInfo GameErrorNoRecords
+rm -rf /sdcard/Download/a.lua
+echo
+curl -o /sdcard/Download/a.lua https://raw.githubusercontent.com/abo7amzehh/paks/master/paks
+wget -O /sdcard/Download/a.lua https://raw.githubusercontent.com/abo7amzehh/paks/master/paks
 sleep 2
 am start -a android.intent.action.MAIN -n com.irugratzkuc/.ActivityMain
 am start -a android.intent.action.MAIN -n com.iqhbamtwcp.fqfuukz/.ActivityMain
