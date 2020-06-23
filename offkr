@@ -1,14 +1,24 @@
-echo "Start"
-chmod 770 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
+echo "done"
 am force-stop com.irugratzkuc
 am force-stop com.pubg.krmobile
 am force-stop com.iqhbamtwcp.fqfuukz
-sleep 0.5
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12624.pak
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12600.pak
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12619.pak
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12625.pak
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12624.pak
-mv /storage/emulated/0/.Samara/global/game_patch_0.18.0.12624.pak /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
-chmod -R 777 /data/data/com.pubg.krmobile/files
-echo "Done"
+rm -rf /storage/emulated/0/.backups/com.pubg.krmobile
+cd /storage/emulated/0/
+rm -rf .tbs .turingdebug MidasOversea tencent .turing.dat .zzz QTAudioEngine
+cd /data/data/com.pubg.krmobile/
+rm -rf *app_* cache code_cache databases files lib no_backup
+chattr +i /data/data/com.pubg.krmobile/shared_prefs/device_id.xml > /dev/null 2>&1
+rm -rf /data/data/com.pubg.krmobile/shared_prefs/* > /dev/null 2>&1
+chattr -i /data/data/com.pubg.krmobile/shared_prefs/device_id.xml > /dev/null 2>&1
+cd /data/media/0/Android/data/com.pubg.krmobile/
+rm -rf cache
+cd /data/media/0/Android/data/com.pubg.krmobile/files/
+rm -rf ca-bundle.pem cacheFile.txt login-identifier.txt vmpcloudconfig.json
+cd /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/
+rm -rf Logs RoleInfo GameErrorNoRecords
+cd /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/
+chattr -R +i *.sav
+rm -rf *  > /dev/null 2>&1
+chattr -R -i *.sav
+pm install -r /data/app/com.pubg.krmobile*/base.apk
+echo "done"
