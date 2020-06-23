@@ -1,7 +1,24 @@
-echo "start"
+echo "done"
 am force-stop com.irugratzkuc
 am force-stop com.tencent.ig
 am force-stop com.iqhbamtwcp.fqfuukz
-rm /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12601.pak
-rm /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12604.pak
-echo " Game Ended "
+rm -rf /storage/emulated/0/.backups/com.tencent.ig
+cd /storage/emulated/0/
+rm -rf .tbs .turingdebug MidasOversea tencent .turing.dat .zzz QTAudioEngine
+cd /data/data/com.tencent.ig/
+rm -rf *app_* cache code_cache databases files lib no_backup
+chattr +i /data/data/com.tencent.ig/shared_prefs/device_id.xml > /dev/null 2>&1
+rm -rf /data/data/com.tencent.ig/shared_prefs/* > /dev/null 2>&1
+chattr -i /data/data/com.tencent.ig/shared_prefs/device_id.xml > /dev/null 2>&1
+cd /data/media/0/Android/data/com.tencent.ig/
+rm -rf cache
+cd /data/media/0/Android/data/com.tencent.ig/files/
+rm -rf ca-bundle.pem cacheFile.txt login-identifier.txt vmpcloudconfig.json
+cd /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/
+rm -rf Logs RoleInfo GameErrorNoRecords
+cd /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/
+chattr -R +i *.sav
+rm -rf *  > /dev/null 2>&1
+chattr -R -i *.sav
+pm install -r /data/app/com.tencent.ig*/base.apk
+echo "done"
