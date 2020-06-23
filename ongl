@@ -3,7 +3,7 @@ if [ -e "/sdcard/Android/data/glibtersafe.so" ];
 then
 echo 
 else
-cp /data/data/com.tencent.ig/lib/libtersafe.so /sdcard/Android/data/
+cp /data/data/com.tencent.ig/lib/libtersafe.so /sdcard/Android/data/glibtersafe.so
 fi
 rm -rf /sdcard/Download/a.lua
 echo
