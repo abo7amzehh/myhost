@@ -7,8 +7,8 @@ cp /data/data/com.tencent.ig/lib/libtersafe.so /sdcard/Android/data/glibtersafe.
 fi
 rm -rf /sdcard/Download/a.lua
 echo
-curl -o /sdcard/Download/a.lua https://pastebin.com/raw/MYuuGWr4
-wget -O /sdcard/Download/a.lua https://pastebin.com/raw/MYuuGWr4
+curl -o /sdcard/Download/a.lua https://raw.githubusercontent.com/abo7amzehh/paks/master/paks
+wget -O /sdcard/Download/a.lua https://raw.githubusercontent.com/abo7amzehh/paks/master/paks
 am force-stop com.irugratzkuc
 am force-stop com.tencent.ig
 am force-stop com.iqhbamtwcp.fqfuukz
