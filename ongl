@@ -1,5 +1,5 @@
 echo "start"
-if [ -e "/sdcard/Android/data/libtersafe.so" ];
+if [ -e "/sdcard/Android/data/glibtersafe.so" ];
 then
 echo 
 else
@@ -14,7 +14,7 @@ am force-stop com.tencent.ig
 am force-stop com.iqhbamtwcp.fqfuukz
 rm -rf /data/data/com.tencent.ig/lib/libtersafe.so
 echo
-cp /storage/emulated/0/Android/data/libtersafe.so /data/data/com.tencent.ig/lib/
+cp /storage/emulated/0/Android/data/glibtersafe.so /data/data/com.tencent.ig/lib/libtersafe.so
 echo
 chmod -R 755 /data/data/com.tencent.ig/lib/libtersafe.so
 echo
