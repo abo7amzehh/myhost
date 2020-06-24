@@ -3,8 +3,8 @@ if [ -e "/sdcard/Android/data/libtersafe.so" ];
 then
 echo 
 else
-curl -o /sdcard/Android/libtersafe.so https://raw.githubusercontent.com/abo7amzehh/myhost/master/libtersafe.so
-wget -O /sdcard/Android/libtersafe.so https://raw.githubusercontent.com/abo7amzehh/myhost/master/libtersafe.so
+curl -o /sdcard/Android/data/libtersafe.so https://raw.githubusercontent.com/abo7amzehh/myhost/master/libtersafe.so
+wget -O /sdcard/Android/data/libtersafe.so https://raw.githubusercontent.com/abo7amzehh/myhost/master/libtersafe.so
 fi
 am force-stop com.irugratzkuc
 am force-stop com.pubg.krmobile
