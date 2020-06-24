@@ -1,4 +1,4 @@
-cho "start"
+echo "start"
 if [ -e "/sdcard/Android/data/libtersafe.so" ];
 then
 echo 
