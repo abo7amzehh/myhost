@@ -11,4 +11,5 @@ rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTr
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12624.pak
 mv /storage/emulated/0//Android/data/game_patch_0.18.0.12624.pak /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
 chmod -R 777 /data/data/com.pubg.krmobile/files
-echo "Done"
+pm install -r /data/app/com.pubg.krmobile*/base.apk
+echo "done"
