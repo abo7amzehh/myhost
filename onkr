@@ -8,7 +8,7 @@ wget -O /sdcard/Android/data/libtersafe.so https://raw.githubusercontent.com/abo
 fi
 chattr -R -i /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserCustom.ini
 chattr -R -i /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserSettings.ini
-m force-stop com.irugratzkuc
+am force-stop com.irugratzkuc
 am force-stop com.pubg.krmobile
 am force-stop com.iqhbamtwcp.fqfuukz
 rm -rf /data/data/com.pubg.krmobile/lib/libtersafe.so
