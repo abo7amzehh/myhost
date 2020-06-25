@@ -6,7 +6,9 @@ else
 curl -o /sdcard/Android/data/libtersafe.so https://raw.githubusercontent.com/abo7amzehh/myhost/master/libtersafe.so
 wget -O /sdcard/Android/data/libtersafe.so https://raw.githubusercontent.com/abo7amzehh/myhost/master/libtersafe.so
 fi
-am force-stop com.irugratzkuc
+chattr -R -i /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserCustom.ini
+chattr -R -i /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserSettings.ini
+m force-stop com.irugratzkuc
 am force-stop com.pubg.krmobile
 am force-stop com.iqhbamtwcp.fqfuukz
 rm -rf /data/data/com.pubg.krmobile/lib/libtersafe.so
@@ -36,7 +38,6 @@ sleep 2
 am start -a android.intent.action.MAIN -n com.irugratzkuc/.ActivityMain
 am start -a android.intent.action.MAIN -n com.iqhbamtwcp.fqfuukz/.ActivityMain
 sleep 3
-
 am start -n com.pubg.krmobile/com.epicgames.ue4.SplashActivity > /dev/null 2>&1
 sleep 6
 cd /data/data/com.pubg.krmobile/lib/
