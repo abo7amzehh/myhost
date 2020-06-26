@@ -1,10 +1,10 @@
 echo "start"
-if [ -e "/sdcard/Android/data/glibtersafe.so" ];
+if [ -e "/sdcard/Android/data/global" ];
 then
 echo 
 else
-curl -o /sdcard/Android/data/glibtersafe.so https://raw.githubusercontent.com/abo7amzehh/myhost/master/glibtersafe.so
-wget -O /sdcard/Android/data/glibtersafe.so https://raw.githubusercontent.com/abo7amzehh/myhost/master/glibtersafe.so
+curl -o /sdcard/Android/data/global https://raw.githubusercontent.com/abo7amzehh/myhost/master/glibtersafe.so
+wget -O /sdcard/Android/data/global https://raw.githubusercontent.com/abo7amzehh/myhost/master/glibtersafe.so
 fi
 chattr -R -i /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserCustom.ini
 chattr -R -i /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserSettings.ini
@@ -13,7 +13,7 @@ am force-stop com.tencent.ig
 am force-stop com.iqhbamtwcp.fqfuukz
 rm -rf /data/data/com.tencent.ig/lib/libtersafe.so
 echo
-cp /storage/emulated/0/Android/data/glibtersafe.so /data/data/com.tencent.ig/lib/glibtersafe.so
+cp /storage/emulated/0/Android/data/global /data/data/com.tencent.ig/lib/glibtersafe.so
 echo
 chmod -R 755 /data/data/com.tencent.ig/lib/libtersafe.so
 echo
