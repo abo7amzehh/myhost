@@ -3,7 +3,8 @@ if [ -e "/sdcard/Android/data/kr" ];
 then
 echo 
 else
-curl -o /sdcard/Android/data/kr https://raw.githubusercontent.com/abo7amzehh/myhost/master/libtersafe.so
+chmod 775 /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
+url -o /sdcard/Android/data/kr https://raw.githubusercontent.com/abo7amzehh/myhost/master/libtersafe.so
 wget -O /sdcard/Android/data/kr https://raw.githubusercontent.com/abo7amzehh/myhost/master/libtersafe.so
 fi
 chattr -R -i /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserCustom.ini
