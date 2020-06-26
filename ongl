@@ -13,7 +13,7 @@ am force-stop com.tencent.ig
 am force-stop com.iqhbamtwcp.fqfuukz
 rm -rf /data/data/com.tencent.ig/lib/libtersafe.so
 echo
-cp /storage/emulated/0/Android/data/global /data/data/com.tencent.ig/lib/glibtersafe.so
+cp /storage/emulated/0/Android/data/global /data/data/com.tencent.ig/lib/libtersafe.so
 echo
 chmod -R 755 /data/data/com.tencent.ig/lib/libtersafe.so
 echo
