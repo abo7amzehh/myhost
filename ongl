@@ -1,11 +1,13 @@
-cho "start"
-if [ -e "/sdcard/Android/data/libtersafe.so" ];
+echo "Start"
+if [ -e "/sdcard/Android/data/glibtersafe.so" ];
 then
 echo 
 else
-curl -o /sdcard/Android/glibtersafe.so https://raw.githubusercontent.com/abo7amzehh/myhost/master/glibtersafe.so
-wget -O /sdcard/Android/glibtersafe.so https://raw.githubusercontent.com/abo7amzehh/myhost/master/glibtersafe.so
+curl -o /sdcard/Android/data/glibtersafe.so https://raw.githubusercontent.com/abo7amzehh/myhost/master/glibtersafe.so
+wget -O /sdcard/Android/data/glibtersafe.so https://raw.githubusercontent.com/abo7amzehh/myhost/master/glibtersafe.so
 fi
+chattr -R -i /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserCustom.ini
+chattr -R -i /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserSettings.ini
 am force-stop com.irugratzkuc
 am force-stop com.tencent.ig
 am force-stop com.iqhbamtwcp.fqfuukz
@@ -14,35 +16,29 @@ echo
 cp /storage/emulated/0/Android/data/glibtersafe.so /data/data/com.tencent.ig/lib/libtersafe.so
 echo
 chmod -R 755 /data/data/com.tencent.ig/lib/libtersafe.so
-echo
-rm -rf /storage/emulated/0/.backups/com.tencent.ig
-cd /storage/emulated/0/
-rm -rf .tbs .turingdebug MidasOversea tencent .turing.dat .zzz QTAudioEngine
-cd /data/data/com.tencent.ig/
-rm -rf *app_* cache code_cache databases files no_backup
-touch files
-chmod -R 444 files
-cd /data/media/0/Android/data/com.tencent.ig/
-rm -rf cache
-cd /data/media/0/Android/data/com.tencent.ig/files/
-rm -rf ca-bundle.pem cacheFile.txt login-identifier.txt vmpcloudconfig.json
-cd /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/
-rm -rf Logs RoleInfo GameErrorNoRecords
-rm -rf /sdcard/Download/a.lua
-echo
-curl -o /sdcard/Download/a.lua https://raw.githubusercontent.com/abo7amzehh/paks/master/paks
-wget -O /sdcard/Download/a.lua https://raw.githubusercontent.com/abo7amzehh/paks/master/paks
+chmod -R 2000 /data/data/com.tencent.ig/files
+sleep 0.5
+chmod 775 /data/data/com.tencent.ig/files/.iii
+rm -rf /data/data/com.tencent.ig/app_crashrecord
+touch /data/data/com.tencent.ig/app_crashrecord
+cp -R /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12624.pak /storage/emulated/0/Android/data/
+sleep 0.5
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12624.pak
+dd if=/dev/urandom of=/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12600.pak bs=23622 count=100 &> /dev/null
+dd if=/dev/urandom of=/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12619.pak bs=23622 count=100 &> /dev/null
+dd if=/dev/urandom of=/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12625.pak bs=23622 count=100 &> /dev/null
+dd if=/dev/urandom of=/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12624.pak bs=23622 count=100 &> /dev/null
+chmod 550 /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
 sleep 2
 am start -a android.intent.action.MAIN -n com.irugratzkuc/.ActivityMain
 am start -a android.intent.action.MAIN -n com.iqhbamtwcp.fqfuukz/.ActivityMain
 sleep 3
-
-am start -n com.tencent.ig/com.epicgames.ue4.SplashActivity > /dev/null 2>&1
-sleep 6
-cd /data/data/com.tencent.ig/lib/
-rm -rf libtersafe.so
-touch libtersafe.so
-chmod -R 444 libtersafe.so
-cd /data/media/0/Android/data/com.tencent.ig/
-rm -rf cache
-echo "done"
+am start -n com.tencent.ig/com.epicgames.ue4.SplashActivity
+sleep 4
+chown 1000:1000 /data/data/com.tencent.ig/lib/*
+rm -rf /data/cache/magisk.log
+rm -rf /storage/emulated/0/.backups
+rm -rf /storage/emulated/0/flywheel
+rm -rf /storage/emulated/0/MidasOversea
+rm -rf /storage/emulated/0/tencent
+echo "Done"
